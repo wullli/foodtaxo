@@ -1,0 +1,149 @@
+Query	Parent	Child
+stinger	liqueur@@@788	leaf
+papaya_juice	irish@@@722	poteen@@@1070
+buffalo_wing	sling@@@1222	gin sling@@@609
+clary_sage	sweetening@@@1327	leaf
+cinnamon_toast	sweetening@@@1327	leaf
+malmsey	vitamin@@@1414	choline@@@311
+taco_sauce	sauce@@@1171	leaf
+pulque	swiss cheese@@@1329	emmenthal@@@506
+chicken_soup	charlotte@@@254	charlotte russe@@@255
+chili_sauce	sauce@@@1171	leaf
+milk	vitamin e@@@1425	alpha tocopheral@@@12
+emmenthal	cheese@@@258	leaf
+sparkling_wine	feed@@@521	slop@@@1225
+sweetening	seafood newburg@@@1197	lobster newburg@@@796
+drambuie	liqueur@@@788	leaf
+munich_beer	lager@@@761	leaf
+scone	dish@@@468	leaf
+brandy	buffet@@@174	smorgasbord@@@1231
+fried_rice	appetizer@@@29	canape@@@204
+fish_cake	brandy@@@144	armagnac@@@40
+fad_diet	liquor@@@790	armagnac@@@40
+high_protein_diet	dish@@@468	leaf
+side_dish	vitamin@@@1414	water soluble vitamin@@@1441
+biryani	charlotte@@@254	charlotte russe@@@255
+loblolly	gruel@@@644	leaf
+neutral_spirits	highball@@@678	leaf
+neapolitan_ice_cream	cream@@@415	leaf
+hotchpotch	cola@@@351	pepsi@@@1013
+cup	soup@@@1247	leaf
+beef_stroganoff	nutriment@@@941	ragout@@@1097
+boston_baked_beans	onion roll@@@956	bialy@@@93
+bun	starches@@@1279	leaf
+hard_boiled_egg	julienne@@@742	leaf
+mulligatawny	course@@@404	canape@@@204
+black_bread	starches@@@1279	leaf
+confectionery	macon@@@816	leaf
+powdered_milk	nutriment@@@941	leaf
+bourbon	food@@@557	stick cinnamon@@@1286
+cheese	dairy product@@@445	leaf
+moselle	vitamin@@@1414	fat soluble vitamin@@@520
+french_fries	course@@@404	vodka martini@@@1432
+bread_sauce	concoction@@@367	leaf
+catsup	sauce@@@1171	leaf
+caesar_salad	liquor@@@790	brandy@@@144
+choice_morsel	brandy@@@144	armagnac@@@40
+creme_brulee	dish@@@468	leaf
+pepperoni_pizza	sweet roll@@@1324	danish@@@446
+stuffed_peppers	course@@@404	vodka martini@@@1432
+sugarplum	burgundy@@@180	chablis@@@248
+suds	beverage@@@92	leaf
+claret	cocktail@@@341	leaf
+treacle	syrup@@@1333	leaf
+soave	wine@@@1466	leaf
+gravy	rickey@@@1121	gin rickey@@@608
+saute	dish@@@468	leaf
+bordelaise	vitamin@@@1414	choline@@@311
+bubble_and_squeak	rickey@@@1121	gin rickey@@@608
+burgoo	sashimi@@@1169	leaf
+limpa	starches@@@1279	leaf
+macon	julienne@@@742	leaf
+julep	course@@@404	canape@@@204
+honey_crisp	sweetening@@@1327	leaf
+bean_dip	brandy@@@144	armagnac@@@40
+sour_bread	concoction@@@367	leaf
+newburg_sauce	appetizer@@@29	canape@@@204
+cheese_souffle	vitamin@@@1414	choline@@@311
+demerara	sweetening@@@1327	leaf
+barbecue_sauce	sauce@@@1171	leaf
+tequila	buffet@@@174	smorgasbord@@@1231
+buttermilk	dairy product@@@445	leaf
+open_face_sandwich	life saver@@@780	leaf
+culture_medium	beverage@@@92	leaf
+mixed_drink	charlotte@@@254	charlotte russe@@@255
+mushy_peas	appetizer@@@29	sazerac@@@1180
+ravigote	sauce@@@1171	leaf
+fodder	soup@@@1247	leaf
+old_fashioned	vitamin@@@1414	choline@@@311
+limburger	dairy product@@@445	leaf
+aioli	mayonnaise@@@853	leaf
+parfait	cream@@@415	leaf
+stock_cube	soup@@@1247	leaf
+tamale	nutriment@@@941	carrot stick@@@234
+salad	dish@@@468	leaf
+goats'_milk	dairy product@@@445	leaf
+puff_paste	starches@@@1279	leaf
+vitamin_b12	seafood newburg@@@1197	lobster newburg@@@796
+shrimp_newburg	vitamin@@@1414	fat soluble vitamin@@@520
+congou	nutriment@@@941	fish stick@@@541
+vitamin_k3	seafood newburg@@@1197	shrimp newburg@@@1212
+ginger_ale	beverage@@@92	leaf
+near_beer	charlotte@@@254	charlotte russe@@@255
+whole_wheat_flour	rickey@@@1121	gin rickey@@@608
+flip	dish@@@468	leaf
+philter	food@@@557	newburg sauce@@@928
+baked_alaska	dish@@@468	leaf
+chocolate_mousse	vitamin k@@@1426	vitamin k3@@@1428
+spaghetti	pasta@@@985	leaf
+barbecued_spareribs	dish@@@468	leaf
+whole_milk	appetizer@@@29	sazerac@@@1180
+salmi	sauce@@@1171	leaf
+gazpacho	soup@@@1247	leaf
+bulgur	foodstuff@@@559	leaf
+banquet	dairy product@@@445	stick@@@1285
+egg_roll	brandy@@@144	armagnac@@@40
+custard	dish@@@468	leaf
+horehound	herb@@@672	leaf
+life_saver	liquor@@@790	armagnac@@@40
+eau_de_vie	liqueur@@@788	leaf
+tapioca_pudding	pudding@@@1087	leaf
+marshmallow	vitamin e@@@1425	alpha tocopheral@@@12
+olive	appetizer@@@29	sazerac@@@1180
+generic	julienne@@@742	leaf
+veal_parmesan	dish@@@468	leaf
+frozen_dessert	rickey@@@1121	gin rickey@@@608
+blood_meal	appetizer@@@29	sazerac@@@1180
+chili_powder	dish@@@468	leaf
+brunch	fodder@@@553	eatage@@@492
+cocktail_sauce	course@@@404	canape@@@204
+shrimp_butter	dish@@@468	leaf
+cane_sugar	creme de fraise@@@424	leaf
+dough	concoction@@@367	leaf
+soya_milk	concoction@@@367	leaf
+proof_spirit	sweetening@@@1327	leaf
+marjoram	herb@@@672	leaf
+brew	bun@@@178	kaiser roll@@@748
+tom_and_jerry	vitamin e@@@1425	alpha tocopheral@@@12
+sack	dom pedro@@@472	leaf
+rosemary	sweetening@@@1327	leaf
+tipsy_cake	vitamin@@@1414	choline@@@311
+stuffed_tomato	irish@@@722	poteen@@@1070
+juniper_berries	food@@@557	western omelet@@@1447
+light_diet	liquor@@@790	armagnac@@@40
+inositol	b complex vitamin@@@46	leaf
+hotdog	commissariat@@@364	larder@@@763
+castor_sugar	sweetening@@@1327	leaf
+rhone_wine	relish@@@1114	pickle relish@@@1026
+cheese_spread	dairy product@@@445	leaf
+weizenbier	vitamin@@@1414	water soluble vitamin@@@1441
+pastis	liqueur@@@788	leaf
+whip	concoction@@@367	leaf
+horseradish	soup@@@1247	leaf
+simnel	starches@@@1279	leaf
+water_biscuit	julienne@@@742	leaf
+frankfurter_bun	wine@@@1466	sauterne@@@1177
+yorkshire_pudding	onion roll@@@956	bialy@@@93
+saccharin	vitamin e@@@1425	alpha tocopheral@@@12
+darjeeling	sweet roll@@@1324	pinwheel roll@@@1039
+center	flavorer@@@548	stick cinnamon@@@1286

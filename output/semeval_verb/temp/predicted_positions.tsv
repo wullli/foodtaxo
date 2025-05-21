@@ -1,0 +1,1001 @@
+Query	Parent	Child
+spoonfeed||spoonfeed.v.02	teach||teach.v.01	pseudo leaf
+walk||walk.v.06	pseudo root	pseudo leaf
+set||set.v.05	put||put.v.01	pseudo leaf
+look||look.v.09	pseudo root	pseudo leaf
+charge||charge.v.17	direct||direct.v.01	pseudo leaf
+decorate||decorate.v.01	change||change.v.01	embrown||embrown.v.02
+jump||jump.v.08	descend||descend.v.01	pseudo leaf
+weld||weld.v.01	join||join.v.02	pseudo leaf
+rabbet||rabbet.v.02	incise||incise.v.01	pseudo leaf
+perk_up||perk_up.v.01	gain||gain.v.08	pseudo leaf
+roughcast||roughcast.v.02	change||change.v.01	pseudo leaf
+receive||receive.v.05	promise||promise.v.01	pseudo leaf
+show||show.v.10	pseudo root	pseudo leaf
+flash||flash.v.04	appear||appear.v.02	pseudo leaf
+bream||bream.v.01	wash||wash.v.02	pseudo leaf
+tin||tin.v.03	change||change.v.01	pseudo leaf
+nest||nest.v.04	gather||gather.v.01	pseudo leaf
+stretch||stretch.v.02	pseudo root	pseudo leaf
+agree||agree.v.02	pseudo root	pseudo leaf
+anneal||anneal.v.01	harden||harden.v.01	pseudo leaf
+read||read.v.04	obtain||obtain.v.01	pseudo leaf
+draw||draw.v.04	derive||derive.v.04	pseudo leaf
+grow||grow.v.04	develop||develop.v.03	pseudo leaf
+play||play.v.06	pseudo root	pseudo leaf
+fix||fix.v.12	change||change.v.01	pseudo leaf
+ice_up||ice_up.v.01	change_surface||change_surface.v.01	pseudo leaf
+stumble||stumble.v.03	pseudo root	pseudo leaf
+foul_out||foul_out.v.01	hit||hit.v.01	pseudo leaf
+presume||presume.v.04	act||act.v.01	pseudo leaf
+set||set.v.05	put||put.v.01	pseudo leaf
+sieve||sieve.v.02	check||check.v.02	pseudo leaf
+deliver||deliver.v.02	bring||bring.v.01	pseudo leaf
+dispatch||dispatch.v.05	kill||kill.v.01	pseudo leaf
+point||point.v.09	mark||mark.v.02	pseudo leaf
+visit||visit.v.08	assail||assail.v.01	pseudo leaf
+backfire||backfire.v.02	emit||emit.v.01	pseudo leaf
+betray||betray.v.01	pseudo root	pseudo leaf
+derate||derate.v.01	reduce||reduce.v.01	pseudo leaf
+clarion||clarion.v.01	blast||blast.v.04	pseudo leaf
+decouple||decouple.v.02	regard||regard.v.02	pseudo leaf
+fulminate||fulminate.v.03	explode||explode.v.01	pseudo leaf
+have||have.v.02	pseudo root	pseudo leaf
+lexicalize||lexicalize.v.01	change||change.v.01	pseudo leaf
+hoax||hoax.v.01	mock||mock.v.01	pseudo leaf
+nobble||nobble.v.04	disable||disable.v.01	pseudo leaf
+tape||tape.v.01	fasten||fasten.v.01	pseudo leaf
+affect||affect.v.01	change||change.v.01	influence||influence.v.01
+examine||examine.v.02	observe||observe.v.04	scout||scout.v.01
+pledge||pledge.v.01	promise||promise.v.01	pseudo leaf
+extend||extend.v.06	pseudo root	pseudo leaf
+activate||activate.v.05	change||change.v.01	pseudo leaf
+destalinize||destalinize.v.01	counteract||counteract.v.03	pseudo leaf
+discharge||discharge.v.10	pseudo root	pseudo leaf
+scale||scale.v.08	measure||measure.v.01	pseudo leaf
+kayak||kayak.v.01	travel||travel.v.01	pseudo leaf
+trickle||trickle.v.01	run||run.v.01	pseudo leaf
+bunk_off||bunk_off.v.01	play||play.v.01	pseudo leaf
+incarnate||incarnate.v.02	portray||portray.v.02	pseudo leaf
+bring||bring.v.06	escort||escort.v.01	pseudo leaf
+stand||stand.v.01	pseudo root	pseudo leaf
+jot_down||jot_down.v.01	write||write.v.02	pseudo leaf
+x-ray||x-ray.v.01	analyze||analyze.v.01	pseudo leaf
+perturb||perturb.v.01	worry||worry.v.03	pseudo leaf
+confirm||confirm.v.05	pseudo root	pseudo leaf
+noose||noose.v.01	fasten||fasten.v.01	pseudo leaf
+dehydrogenate||dehydrogenate.v.01	remove||remove.v.01	pseudo leaf
+move_in||move_in.v.03	pseudo root	pseudo leaf
+sectionalize||sectionalize.v.01	divide||divide.v.01	pseudo leaf
+machicolate||machicolate.v.01	fill||fill.v.01	pseudo leaf
+bring_up||bring_up.v.05	stop||stop.v.04	pseudo leaf
+rap||rap.v.03	perform||perform.v.01	pseudo leaf
+desire||desire.v.03	express_emotion||express_emotion.v.01	pseudo leaf
+impress||impress.v.03	change||change.v.01	pseudo leaf
+amend||amend.v.01	change||change.v.01	pseudo leaf
+pertain||pertain.v.02	pseudo root	pseudo leaf
+hydrate||hydrate.v.01	water||water.v.02	pseudo leaf
+overlie||overlie.v.02	kill||kill.v.01	pseudo leaf
+bilge||bilge.v.01	leak||leak.v.03	pseudo leaf
+flip||flip.v.05	move||move.v.02	pseudo leaf
+pin_down||pin_down.v.01	define||define.v.02	pseudo leaf
+double_over||double_over.v.01	bend||bend.v.01	pseudo leaf
+file_out||file_out.v.01	march||march.v.01	pseudo leaf
+close||close.v.15	end||end.v.01	pseudo leaf
+sugar||sugar.v.01	sweeten||sweeten.v.02	pseudo leaf
+rag||rag.v.03	play||play.v.02	pseudo leaf
+temper||temper.v.04	change||change.v.01	pseudo leaf
+theologize||theologize.v.01	think||think.v.03	pseudo leaf
+uproot||uproot.v.01	scat||scat.v.01	pseudo leaf
+hop||hop.v.06	pseudo root	pseudo leaf
+subject||subject.v.02	pseudo root	pseudo leaf
+harmonize||harmonize.v.02	compose||compose.v.02	melodize||melodize.v.01
+collide||collide.v.02	pseudo root	pseudo leaf
+come||come.v.20	pseudo root	pseudo leaf
+fly||fly.v.05	move||move.v.02	pseudo leaf
+endanger||endanger.v.01	pseudo root	pseudo leaf
+ozonize||ozonize.v.01	oxidize||oxidize.v.02	pseudo leaf
+erupt||erupt.v.04	pseudo root	pseudo leaf
+beat||beat.v.13	avoid||avoid.v.03	pseudo leaf
+supinate||supinate.v.01	turn||turn.v.01	pseudo leaf
+touch||touch.v.01	pseudo root	pseudo leaf
+come_to_life||come_to_life.v.02	appear||appear.v.02	pseudo leaf
+excavate||excavate.v.02	find||find.v.01	pseudo leaf
+intermarry||intermarry.v.01	marry||marry.v.01	pseudo leaf
+misally||misally.v.01	ally||ally.v.01	pseudo leaf
+avert||avert.v.02	pseudo root	pseudo leaf
+spat||spat.v.06	spawn||spawn.v.02	pseudo leaf
+leapfrog||leapfrog.v.02	descend||descend.v.01	pseudo leaf
+sink||sink.v.04	descend||descend.v.01	pseudo leaf
+reduce||reduce.v.03	weaken||weaken.v.01	pseudo leaf
+desensitize||desensitize.v.02	desensitize||desensitize.v.01	pseudo leaf
+unhook||unhook.v.01	remove||remove.v.01	pseudo leaf
+spring||spring.v.04	change||change.v.01	pseudo leaf
+fall||fall.v.26	change||change.v.01	pseudo leaf
+backfire||backfire.v.01	change||change.v.01	pseudo leaf
+design||design.v.06	invent||invent.v.01	pseudo leaf
+reside||reside.v.01	populate||populate.v.01	lodge||lodge.v.01
+stiffen||stiffen.v.01	stiffen||stiffen.v.02	rigidify||rigidify.v.02
+bode||bode.v.01	indicate||indicate.v.02	pseudo leaf
+ride||ride.v.02	travel||travel.v.01	pseudo leaf
+confess||confess.v.03	pseudo root	pseudo leaf
+betray||betray.v.01	pseudo root	pseudo leaf
+decontaminate||decontaminate.v.01	get_rid_of||get_rid_of.v.01	pseudo leaf
+misdate||misdate.v.01	date||date.v.03	pseudo leaf
+rarefy||rarefy.v.02	change||change.v.01	pseudo leaf
+behoove||behoove.v.01	pseudo root	pseudo leaf
+transpire||transpire.v.02	exude||exude.v.01	pseudo leaf
+decamp||decamp.v.03	exit||exit.v.01	pseudo leaf
+deploy||deploy.v.01	move||move.v.02	mobilize||mobilize.v.04
+say||say.v.11	indicate||indicate.v.02	pseudo leaf
+die||die.v.05	feel||feel.v.01	pseudo leaf
+diphthongize||diphthongize.v.01	change||change.v.01	pseudo leaf
+pass||pass.v.14	pseudo root	pseudo leaf
+amerce||amerce.v.01	punish||punish.v.01	pseudo leaf
+soft-soap||soft-soap.v.02	flatter||flatter.v.01	pseudo leaf
+slip||slip.v.09	pseudo root	pseudo leaf
+swear||swear.v.03	promise||promise.v.01	pseudo leaf
+lock||lock.v.03	change||change.v.01	pseudo leaf
+ferry||ferry.v.02	transport||transport.v.01	pseudo leaf
+cry_out_for||cry_out_for.v.01	need||need.v.03	pseudo leaf
+partition||partition.v.02	divide||divide.v.01	pseudo leaf
+sponsor||sponsor.v.02	command||command.v.01	pseudo leaf
+transpire||transpire.v.05	change||change.v.01	pseudo leaf
+compliment||compliment.v.01	praise||praise.v.01	pseudo leaf
+fistfight||fistfight.v.01	battle||battle.v.01	pseudo leaf
+checker||checker.v.02	change||change.v.01	pseudo leaf
+visit||visit.v.04	meet||meet.v.01	pseudo leaf
+tack||tack.v.02	turn||turn.v.01	pseudo leaf
+prosecute||prosecute.v.02	pseudo root	pseudo leaf
+rear_back||rear_back.v.02	anger||anger.v.01	pseudo leaf
+euphemize||euphemize.v.01	refer||refer.v.02	pseudo leaf
+lubricate||lubricate.v.01	change||change.v.01	pseudo leaf
+strew||strew.v.02	cover||cover.v.01	pseudo leaf
+adjust||adjust.v.04	change||change.v.02	conform_to||conform_to.v.02
+fry||fry.v.01	heat||heat.v.01	pseudo leaf
+reinsure||reinsure.v.03	insure||insure.v.04	pseudo leaf
+lacquer||lacquer.v.01	coat||coat.v.01	pseudo leaf
+deflate||deflate.v.01	collapse||collapse.v.01	pseudo leaf
+save||save.v.06	pseudo root	pseudo leaf
+luxuriate||luxuriate.v.03	thrive||thrive.v.02	pseudo leaf
+subluxate||subluxate.v.01	injure||injure.v.01	pseudo leaf
+satisfice||satisfice.v.01	endeavor||endeavor.v.01	pseudo leaf
+contort||contort.v.01	change_shape||change_shape.v.01	press||press.v.04
+demolish||demolish.v.01	destroy||destroy.v.01	pseudo leaf
+rip_out||rip_out.v.01	pseudo root	pseudo leaf
+take||take.v.33	pseudo root	pseudo leaf
+document||document.v.01	record||record.v.01	pseudo leaf
+subvert||subvert.v.04	destroy||destroy.v.01	pseudo leaf
+spoonfeed||spoonfeed.v.01	feed||feed.v.01	pseudo leaf
+ruminate||ruminate.v.01	chew||chew.v.01	pseudo leaf
+heliograph||heliograph.v.01	inform||inform.v.01	pseudo leaf
+subsume||subsume.v.01	include||include.v.01	pseudo leaf
+vary||vary.v.04	change||change.v.01	pseudo leaf
+stub||stub.v.01	pull||pull.v.01	pseudo leaf
+push_up||push_up.v.01	push||push.v.01	pseudo leaf
+connive||connive.v.01	induce||induce.v.02	pseudo leaf
+burst||burst.v.08	break||break.v.02	pseudo leaf
+kiboze||test.test.433	search||search.v.01	pseudo leaf
+step_on||step_on.v.01	pseudo root	pseudo leaf
+vent||vent.v.01	give_voice||give_voice.v.01	pseudo leaf
+cork||cork.v.02	stuff||stuff.v.01	pseudo leaf
+clear||clear.v.24	pseudo root	pseudo leaf
+solemnize||solemnize.v.02	officiate||officiate.v.01	pseudo leaf
+rig||rig.v.03	attach||attach.v.01	pseudo leaf
+wash||wash.v.10	change||change.v.01	pseudo leaf
+encourage||encourage.v.03	promote||promote.v.01	spur||spur.v.01
+spit||spit.v.02	express_emotion||express_emotion.v.01	pseudo leaf
+swing||swing.v.02	travel||travel.v.01	pseudo leaf
+draw||draw.v.16	lead||lead.v.01	pseudo leaf
+emote||emote.v.01	express_emotion||express_emotion.v.01	pseudo leaf
+ferret_out||ferret_out.v.01	search||search.v.01	pseudo leaf
+piddle||piddle.v.01	idle||idle.v.01	pseudo leaf
+instrument||instrument.v.01	equip||equip.v.01	pseudo leaf
+alphabetize||alphabetize.v.02	give||give.v.03	pseudo leaf
+disadvantage||disadvantage.v.01	change||change.v.01	pseudo leaf
+unhand||unhand.v.01	remove||remove.v.01	pseudo leaf
+snap||snap.v.04	strike||strike.v.01	pseudo leaf
+design||design.v.05	create||create.v.02	pseudo leaf
+chute||chute.v.01	descend||descend.v.01	pseudo leaf
+slam||slam.v.02	strike||strike.v.01	pseudo leaf
+cheque||cheque.v.01	pseudo root	pseudo leaf
+totter||totter.v.01	travel||travel.v.01	pseudo leaf
+occupy||occupy.v.02	pseudo root	pseudo leaf
+charge||charge.v.12	pay||pay.v.01	pseudo leaf
+flash||flash.v.04	appear||appear.v.02	pseudo leaf
+rationalize||rationalize.v.05	change||change.v.01	pseudo leaf
+map||map.v.06	pseudo root	pseudo leaf
+league||league.v.01	join||join.v.02	pseudo leaf
+bracket||bracket.v.01	support||support.v.01	pseudo leaf
+reclaim||reclaim.v.02	change||change.v.01	pseudo leaf
+tariff||tariff.v.01	levy||levy.v.01	pseudo leaf
+stand_by||stand_by.v.03	pseudo root	pseudo leaf
+raise||raise.v.23	multiply||multiply.v.02	pseudo leaf
+port||port.v.05	bring||bring.v.01	pseudo leaf
+point_up||point_up.v.01	stress||stress.v.01	pseudo leaf
+draw_up||draw_up.v.05	halt||halt.v.01	pseudo leaf
+move||move.v.03	pseudo root	pseudo leaf
+walk_out||walk_out.v.03	leave||leave.v.01	pseudo leaf
+leaf||leaf.v.03	produce||produce.v.01	pseudo leaf
+assibilate||assibilate.v.01	insert||insert.v.02	pseudo leaf
+expedite||expedite.v.01	change||change.v.01	pseudo leaf
+air||air.v.03	pseudo root	pseudo leaf
+chop||chop.v.01	cut||cut.v.01	pseudo leaf
+retrofit||retrofit.v.01	give||give.v.03	pseudo leaf
+raven||raven.v.02	hunt||hunt.v.01	pseudo leaf
+dabble||dabble.v.03	work||work.v.01	pseudo leaf
+interpellate||interpellate.v.01	address||address.v.01	pseudo leaf
+bear||bear.v.11	possess||possess.v.01	pseudo leaf
+reeve||reeve.v.01	pass||pass.v.01	pseudo leaf
+sublimate||sublimate.v.01	induce||induce.v.01	pseudo leaf
+draw||draw.v.35	flatten||flatten.v.01	pseudo leaf
+jam||jam.v.06	pack||pack.v.02	pseudo leaf
+portray||portray.v.01	represent||represent.v.09	portray||portray.v.04
+punch||punch.v.02	drive||drive.v.03	pseudo leaf
+reclaim||reclaim.v.01	claim||claim.v.01	pseudo leaf
+match||match.v.02	fund||fund.v.01	pseudo leaf
+constitutionalize||constitutionalize.v.01	legalize||legalize.v.01	pseudo leaf
+golf||golf.v.01	play||play.v.01	pseudo leaf
+import||import.v.01	bring||bring.v.01	pseudo leaf
+control||control.v.05	regulate||regulate.v.02	pseudo leaf
+see||see.v.12	visit||visit.v.01	pseudo leaf
+dredge||dredge.v.03	remove||remove.v.01	pseudo leaf
+photograph||photograph.v.02	undergo||undergo.v.01	pseudo leaf
+fall_in||fall_in.v.02	change||change.v.01	pseudo leaf
+unfold||unfold.v.02	pseudo root	pseudo leaf
+acclimatize||acclimatize.v.01	adapt||adapt.v.01	pseudo leaf
+drone||drone.v.01	pseudo root	pseudo leaf
+update||update.v.01	change||change.v.01	pseudo leaf
+stay||stay.v.04	pseudo root	pseudo leaf
+call||call.v.25	announce||announce.v.01	pseudo leaf
+scourge||scourge.v.01	punish||punish.v.01	pseudo leaf
+take||take.v.41	obtain||obtain.v.01	pseudo leaf
+carry_a_tune||test.test.527	compose||compose.v.02	pseudo leaf
+break_bread||break_bread.v.01	eat||eat.v.02	pseudo leaf
+spruce_up||spruce_up.v.02	dress||dress.v.01	pseudo leaf
+degust||degust.v.01	savor||savor.v.03	pseudo leaf
+approve||approve.v.02	evaluate||evaluate.v.02	pseudo leaf
+strip||strip.v.13	remove||remove.v.01	pseudo leaf
+protect||protect.v.01	defend||defend.v.02	shield||shield.v.01
+tone||tone.v.04	color||color.v.01	pseudo leaf
+romanize||romanize.v.01	write||write.v.01	pseudo leaf
+antagonize||antagonize.v.02	oppose||oppose.v.01	pseudo leaf
+skim||skim.v.05	coat||coat.v.01	pseudo leaf
+vocalize||vocalize.v.05	utter||utter.v.02	pseudo leaf
+rebate||rebate.v.01	reduce||reduce.v.01	pseudo leaf
+rejuvenate||rejuvenate.v.05	mature||mature.v.01	pseudo leaf
+expatriate||expatriate.v.02	migrate||migrate.v.01	pseudo leaf
+hack||hack.v.02	manage||manage.v.02	pseudo leaf
+come||come.v.21	pseudo root	pseudo leaf
+frog||frog.v.01	hunt||hunt.v.01	pseudo leaf
+shadowbox||shadowbox.v.01	fight||fight.v.03	pseudo leaf
+welcome||welcome.v.01	accept||accept.v.01	pseudo leaf
+deaccession||deaccession.v.01	sell||sell.v.01	pseudo leaf
+supinate||supinate.v.01	turn||turn.v.01	pseudo leaf
+corral||corral.v.03	gather||gather.v.01	pseudo leaf
+automobile||automobile.v.01	travel||travel.v.01	pseudo leaf
+egg||egg.v.01	throw||throw.v.01	pseudo leaf
+mow||mow.v.01	cut||cut.v.01	pseudo leaf
+harness||harness.v.03	control||control.v.01	pseudo leaf
+tie||tie.v.05	pseudo root	pseudo leaf
+epoxy||epoxy.v.01	glue||glue.v.01	pseudo leaf
+backhand||backhand.v.01	strike||strike.v.01	pseudo leaf
+bounce||bounce.v.02	pseudo root	pseudo leaf
+close||close.v.04	conclude||conclude.v.02	pseudo leaf
+mellow||mellow.v.02	change||change.v.01	pseudo leaf
+constitutionalize||constitutionalize.v.03	change||change.v.01	pseudo leaf
+bandy_about||bandy_about.v.01	hash_out||hash_out.v.01	pseudo leaf
+preexist||preexist.v.01	exist||exist.v.01	pseudo leaf
+unionize||unionize.v.01	organize||organize.v.02	pseudo leaf
+construct||construct.v.05	create_by_mental_act||create_by_mental_act.v.01	pseudo leaf
+spiritualize||spiritualize.v.01	change||change.v.01	pseudo leaf
+decompose||decompose.v.01	separate||separate.v.05	macerate||macerate.v.01
+eject||eject.v.01	expel||expel.v.01	pseudo leaf
+slat||slat.v.01	equip||equip.v.01	pseudo leaf
+flense||flense.v.01	shed||shed.v.01	pseudo leaf
+lump||lump.v.01	arrange||arrange.v.01	pseudo leaf
+gerrymander||gerrymander.v.01	divide||divide.v.01	pseudo leaf
+depart||depart.v.03	pseudo root	pseudo leaf
+harmonize||harmonize.v.06	change||change.v.01	pseudo leaf
+fret||fret.v.07	carve||carve.v.01	pseudo leaf
+decrescendo||decrescendo.v.01	soften||soften.v.01	pseudo leaf
+become||become.v.01	change||change.v.02	be_born||be_born.v.01
+shoot||shoot.v.10	emit||emit.v.01	pseudo leaf
+source||source.v.02	specify||specify.v.04	pseudo leaf
+shamanize||shamanize.v.01	practice||practice.v.01	pseudo leaf
+waste||waste.v.08	change||change.v.01	pseudo leaf
+park||park.v.01	put||put.v.01	pseudo leaf
+feed||feed.v.02	pseudo root	pseudo leaf
+typify||typify.v.01	embody||embody.v.03	pseudo leaf
+dedifferentiate||dedifferentiate.v.01	change||change.v.01	pseudo leaf
+come_to_life||come_to_life.v.01	originate||originate.v.01	pseudo leaf
+plot||plot.v.04	plan||plan.v.01	pseudo leaf
+ask_for_it||ask_for_it.v.01	pseudo root	pseudo leaf
+stipple||stipple.v.01	engrave||engrave.v.04	pseudo leaf
+mirror||mirror.v.01	reflect||reflect.v.03	pseudo leaf
+eagle||eagle.v.02	shoot||shoot.v.02	pseudo leaf
+fence||fence.v.01	enclose||enclose.v.02	pseudo leaf
+jilt||jilt.v.01	dismiss||dismiss.v.01	pseudo leaf
+involve||involve.v.01	interact||interact.v.01	pseudo leaf
+lose||lose.v.06	pseudo root	pseudo leaf
+globe-trot||globe-trot.v.01	sightsee||sightsee.v.01	pseudo leaf
+uniformize||uniformize.v.01	change||change.v.01	pseudo leaf
+engage||engage.v.04	request||request.v.01	pseudo leaf
+acclaim||acclaim.v.01	praise||praise.v.01	pseudo leaf
+mitigate||mitigate.v.02	change||change.v.01	pseudo leaf
+hold||hold.v.28	pseudo root	pseudo leaf
+gobsmack||val.withdef.72	elate||elate.v.01	pseudo leaf
+lacerate||lacerate.v.01	tear||tear.v.01	pseudo leaf
+question||question.v.03	address||address.v.01	pseudo leaf
+frap||frap.v.01	fasten||fasten.v.01	pseudo leaf
+outweigh||outweigh.v.01	pseudo root	pseudo leaf
+shame||shame.v.02	shame||shame.v.03	pseudo leaf
+book||book.v.01	perform||perform.v.03	pseudo leaf
+rusticate||rusticate.v.04	change||change.v.01	pseudo leaf
+float||float.v.05	travel||travel.v.01	pseudo leaf
+resemble||resemble.v.01	pseudo root	pseudo leaf
+tribulate||tribulate.v.01	afflict||afflict.v.01	pseudo leaf
+replant||replant.v.01	change||change.v.01	pseudo leaf
+bush||bush.v.01	give||give.v.03	pseudo leaf
+luff||luff.v.02	wind||wind.v.03	pseudo leaf
+chillax||test.test.399	relax||relax.v.01	pseudo leaf
+spirit_away||spirit_away.v.02	scat||scat.v.01	pseudo leaf
+predicate||predicate.v.01	presuppose||presuppose.v.01	pseudo leaf
+catch_on||catch_on.v.02	pseudo root	pseudo leaf
+bolster||bolster.v.02	prop_up||prop_up.v.01	pseudo leaf
+ride||ride.v.06	pseudo root	pseudo leaf
+grab||grab.v.06	capture||capture.v.02	pseudo leaf
+cudgel||cudgel.v.01	strike||strike.v.01	pseudo leaf
+waft||waft.v.01	travel||travel.v.01	pseudo leaf
+lot||lot.v.01	divide||divide.v.01	pseudo leaf
+disapprove||disapprove.v.01	evaluate||evaluate.v.02	scoff||scoff.v.02
+step||step.v.08	put||put.v.01	pseudo leaf
+meddle||meddle.v.01	intrude||intrude.v.01	pseudo leaf
+gestate||gestate.v.01	plan||plan.v.01	pseudo leaf
+settle||settle.v.12	accept||accept.v.01	pseudo leaf
+crouch||crouch.v.01	change_posture||change_posture.v.01	pseudo leaf
+break||break.v.53	pseudo root	pseudo leaf
+accouter||accouter.v.01	provide||provide.v.02	pseudo leaf
+plant||plant.v.05	position||position.v.01	pseudo leaf
+recapture||recapture.v.01	experience||experience.v.01	pseudo leaf
+precontract||test.test.374	change||change.v.01	pseudo leaf
+grind||test.test.448	succeed||succeed.v.01	pseudo leaf
+twinkle||twinkle.v.02	sparkle||sparkle.v.01	pseudo leaf
+advance||advance.v.11	travel||travel.v.01	pseudo leaf
+clean||clean.v.01	change||change.v.01	pseudo leaf
+hawk||hawk.v.02	hunt||hunt.v.01	pseudo leaf
+drizzle||drizzle.v.01	precipitate||precipitate.v.03	pseudo leaf
+steal||steal.v.01	take||take.v.21	hijack||hijack.v.02
+partition||partition.v.01	divide||divide.v.01	pseudo leaf
+swim||swim.v.01	travel||travel.v.01	pseudo leaf
+transit||transit.v.04	pass||pass.v.01	pseudo leaf
+trace||trace.v.03	pseudo root	pseudo leaf
+reverse-engineer||train.withdef.291	duplicate||duplicate.v.01	pseudo leaf
+allowance||allowance.v.01	pay||pay.v.01	pseudo leaf
+ratchet||ratchet.v.01	move||move.v.02	pseudo leaf
+fall||fall.v.09	pseudo root	pseudo leaf
+quantize||quantize.v.01	approximate||approximate.v.01	pseudo leaf
+submit||submit.v.06	yield||yield.v.01	pseudo leaf
+get_off||get_off.v.06	enjoy||enjoy.v.04	pseudo leaf
+sin||sin.v.01	pseudo root	pseudo leaf
+air-ship||air-ship.v.01	transport||transport.v.01	pseudo leaf
+topdress||topdress.v.01	scatter||scatter.v.03	pseudo leaf
+reticulate||reticulate.v.01	form||form.v.02	pseudo leaf
+saber||saber.v.02	kill||kill.v.01	pseudo leaf
+research||research.v.01	pseudo root	pseudo leaf
+macadamize||macadamize.v.01	surface||surface.v.01	pseudo leaf
+vote||vote.v.05	pseudo root	pseudo leaf
+antiquate||antiquate.v.01	change||change.v.01	pseudo leaf
+sublime||sublime.v.01	dissolve||dissolve.v.02	pseudo leaf
+ladle||ladle.v.02	remove||remove.v.01	pseudo leaf
+putt||putt.v.02	pseudo root	pseudo leaf
+isomerize||isomerize.v.02	change||change.v.01	pseudo leaf
+remainder||remainder.v.01	sell||sell.v.01	pseudo leaf
+enamel||enamel.v.01	inlay||inlay.v.01	pseudo leaf
+watch||watch.v.01	pseudo root	pseudo leaf
+recurve||recurve.v.01	bend||bend.v.01	pseudo leaf
+excommunicate||excommunicate.v.01	expel||expel.v.01	pseudo leaf
+quench||quench.v.03	suppress||suppress.v.01	pseudo leaf
+confront||confront.v.04	meet||meet.v.01	pseudo leaf
+double-date||double-date.v.01	meet||meet.v.01	pseudo leaf
+augment||augment.v.02	intensify||intensify.v.02	pseudo leaf
+prologize||prologize.v.01	write||write.v.02	pseudo leaf
+compare||compare.v.03	pseudo root	pseudo leaf
+delouse||delouse.v.01	pseudo root	pseudo leaf
+kick||kick.v.04	pseudo root	pseudo leaf
+achieve||achieve.v.01	pseudo root	pseudo leaf
+drop_out||drop_out.v.01	pseudo root	pseudo leaf
+evangelize||evangelize.v.02	convert||convert.v.01	pseudo leaf
+feed||feed.v.10	gratify||gratify.v.02	pseudo leaf
+give_the_eye||give_the_eye.v.01	look||look.v.01	pseudo leaf
+outsell||outsell.v.02	pseudo root	pseudo leaf
+disinter||disinter.v.01	dig||dig.v.02	pseudo leaf
+islamize||islamize.v.02	convert||convert.v.01	pseudo leaf
+precipitate||precipitate.v.02	detach||detach.v.01	pseudo leaf
+come||come.v.06	pseudo root	pseudo leaf
+contain||contain.v.05	pseudo root	pseudo leaf
+attorn||attorn.v.01	acknowledge||acknowledge.v.02	pseudo leaf
+stack||stack.v.01	load||load.v.01	pseudo leaf
+say||say.v.07	interact||interact.v.01	pseudo leaf
+uncover||uncover.v.01	pseudo root	pseudo leaf
+expiate||expiate.v.01	forgive||forgive.v.01	pseudo leaf
+percolate||percolate.v.05	pseudo root	pseudo leaf
+presuppose||presuppose.v.02	necessitate||necessitate.v.01	pseudo leaf
+popularize||popularize.v.01	change||change.v.01	pseudo leaf
+comb||comb.v.01	straighten||straighten.v.01	pseudo leaf
+budget_for||budget_for.v.01	calculate||calculate.v.01	pseudo leaf
+coerce||coerce.v.01	induce||induce.v.02	pseudo leaf
+hack||hack.v.08	exhale||exhale.v.02	pseudo leaf
+bayonet||bayonet.v.01	kill||kill.v.01	pseudo leaf
+subtract||subtract.v.01	add||add.v.01	pseudo leaf
+waste||waste.v.02	use||use.v.01	pseudo leaf
+equip||equip.v.02	provide||provide.v.02	pseudo leaf
+joke||joke.v.01	interact||interact.v.01	pseudo leaf
+outsell||outsell.v.02	pseudo root	pseudo leaf
+barber||barber.v.01	shave||shave.v.01	pseudo leaf
+score||score.v.04	compose||compose.v.02	pseudo leaf
+sideline||sideline.v.01	remove||remove.v.01	pseudo leaf
+fail||fail.v.06	reject||reject.v.01	pseudo leaf
+toggle||toggle.v.02	fasten||fasten.v.01	pseudo leaf
+tidy||tidy.v.01	arrange||arrange.v.01	pseudo leaf
+exsert||exsert.v.01	thrust||thrust.v.01	pseudo leaf
+rubify||rubify.v.01	dye||dye.v.01	pseudo leaf
+color||color.v.04	change||change.v.01	pseudo leaf
+gate||gate.v.02	control||control.v.01	pseudo leaf
+annoy||annoy.v.01	upset||upset.v.02	faze||faze.v.01
+plasticize||plasticize.v.02	change||change.v.01	pseudo leaf
+delight||delight.v.02	arouse||arouse.v.01	elate||elate.v.01
+ask||ask.v.05	address||address.v.01	pseudo leaf
+blindfold||blindfold.v.01	conceal||conceal.v.02	pseudo leaf
+compromise||compromise.v.03	expose||expose.v.01	pseudo leaf
+brigade||brigade.v.01	form||form.v.02	pseudo leaf
+hand-pick||hand-pick.v.01	pick||pick.v.01	pseudo leaf
+club||club.v.03	strike||strike.v.01	pseudo leaf
+loop||loop.v.05	fasten||fasten.v.01	pseudo leaf
+declaim||declaim.v.01	recite||recite.v.03	pseudo leaf
+align||align.v.02	adjust||adjust.v.03	conform_to||conform_to.v.02
+tattoo||tattoo.v.01	stain||stain.v.04	pseudo leaf
+desulfurize||desulfurize.v.01	remove||remove.v.01	pseudo leaf
+hydrolyze||hydrolyze.v.01	change||change.v.01	hydrate||hydrate.v.03
+move||move.v.03	pseudo root	pseudo leaf
+dissimilate||dissimilate.v.02	change||change.v.01	pseudo leaf
+chug||chug.v.01	pseudo root	pseudo leaf
+break||break.v.40	pseudo root	pseudo leaf
+brandish||brandish.v.01	move_back_and_forth||move_back_and_forth.v.01	pseudo leaf
+whine||whine.v.03	make_noise||make_noise.v.01	pseudo leaf
+line_up||line_up.v.03	pseudo root	pseudo leaf
+pullulate||pullulate.v.04	grow||grow.v.02	pseudo leaf
+destroy||destroy.v.04	kill||kill.v.01	garrote||garrote.v.01
+solve||solve.v.01	understand||understand.v.01	riddle||riddle.v.06
+understand||understand.v.03	pseudo root	pseudo leaf
+disperse||disperse.v.04	pseudo root	pseudo leaf
+birdlime||birdlime.v.01	spread||spread.v.03	pseudo leaf
+learn||learn.v.04	pseudo root	pseudo leaf
+dither||dither.v.01	act||act.v.01	pseudo leaf
+overflow||overflow.v.01	run||run.v.05	pseudo leaf
+saltate||saltate.v.02	skip||skip.v.05	pseudo leaf
+dilute||test.test.568	reduce||reduce.v.01	pseudo leaf
+explode||explode.v.03	express_emotion||express_emotion.v.01	pseudo leaf
+close||close.v.08	engage||engage.v.10	pseudo leaf
+bloom||bloom.v.01	produce||produce.v.01	pseudo leaf
+render||render.v.04	give||give.v.03	pseudo leaf
+believe||believe.v.01	accept||accept.v.01	believe_in||believe_in.v.01
+transfer||transfer.v.09	pseudo root	pseudo leaf
+butt||butt.v.02	strike||strike.v.01	pseudo leaf
+cuff||cuff.v.01	injure||injure.v.01	pseudo leaf
+outbid||outbid.v.02	by-bid||by-bid.v.01	pseudo leaf
+thank||thank.v.01	greet||greet.v.02	compliment||compliment.v.02
+go_to_pot||go_to_pot.v.01	change||change.v.01	pseudo leaf
+hold_down||hold_down.v.01	pseudo root	pseudo leaf
+flabbergast||flabbergast.v.01	shock||shock.v.01	pseudo leaf
+skim||skim.v.06	remove||remove.v.01	pseudo leaf
+form||form.v.01	create_by_mental_act||create_by_mental_act.v.01	construct||construct.v.04
+spill_the_beans||spill_the_beans.v.01	tell||tell.v.02	pseudo leaf
+name||name.v.02	identify||identify.v.01	pseudo leaf
+interview||interview.v.03	address||address.v.01	pseudo leaf
+catcall||catcall.v.01	utter||utter.v.02	pseudo leaf
+solo||solo.v.01	fly||fly.v.01	pseudo leaf
+remember||remember.v.05	pseudo root	pseudo leaf
+seek||seek.v.04	travel||travel.v.01	pseudo leaf
+curse||curse.v.02	pseudo root	pseudo leaf
+stray||stray.v.02	pseudo root	pseudo leaf
+come_in_for||come_in_for.v.01	subject||subject.v.01	pseudo leaf
+mar||mar.v.01	change||change.v.01	pseudo leaf
+announce||announce.v.04	presuppose||presuppose.v.01	pseudo leaf
+bail_out||bail_out.v.02	remove||remove.v.01	pseudo leaf
+machicolate||machicolate.v.01	fill||fill.v.01	pseudo leaf
+stain||stain.v.01	dye||dye.v.01	pseudo leaf
+puzzle_over||puzzle_over.v.01	grok||grok.v.01	pseudo leaf
+groom||groom.v.03	change||change.v.01	pseudo leaf
+forget||forget.v.02	pseudo root	pseudo leaf
+think||think.v.09	pseudo root	pseudo leaf
+constitute||constitute.v.01	form||form.v.02	chelate||chelate.v.01
+take||take.v.06	interpret||interpret.v.01	pseudo leaf
+drain_the_cup||drain_the_cup.v.01	drink||drink.v.01	pseudo leaf
+spend||spend.v.01	pseudo root	pseudo leaf
+improvise||improvise.v.01	perform||perform.v.01	pseudo leaf
+stay||stay.v.10	fasten||fasten.v.01	pseudo leaf
+find||find.v.10	obtain||obtain.v.01	pseudo leaf
+reopen||reopen.v.01	open||open.v.01	pseudo leaf
+tag||tag.v.05	write||write.v.01	pseudo leaf
+capitalize||capitalize.v.01	change||change.v.01	pseudo leaf
+cling||cling.v.02	pseudo root	pseudo leaf
+people||people.v.02	furnish||furnish.v.02	pseudo leaf
+forge||forge.v.04	advance||advance.v.01	pseudo leaf
+writhe||writhe.v.01	pseudo root	pseudo leaf
+misperceive||misperceive.v.01	perceive||perceive.v.01	pseudo leaf
+deal||deal.v.12	give||give.v.03	pseudo leaf
+emasculate||emasculate.v.01	weaken||weaken.v.01	pseudo leaf
+encase||encase.v.01	enclose||enclose.v.02	pseudo leaf
+splash||splash.v.06	smear||smear.v.01	pseudo leaf
+drop||drop.v.07	stop||stop.v.01	pseudo leaf
+fall||fall.v.12	yield||yield.v.01	pseudo leaf
+territorialize||territorialize.v.01	organize||organize.v.02	pseudo leaf
+broach||broach.v.01	interact||interact.v.01	pseudo leaf
+cheer||cheer.v.05	spur||spur.v.01	pseudo leaf
+juggle||juggle.v.03	deal||deal.v.03	pseudo leaf
+spice||spice.v.01	change||change.v.01	pseudo leaf
+receive||receive.v.06	pseudo root	pseudo leaf
+hand_down||hand_down.v.01	inherit||inherit.v.01	pseudo leaf
+brush||brush.v.04	rub||rub.v.01	pseudo leaf
+roll||roll.v.15	pronounce||pronounce.v.02	pseudo leaf
+misplay||misplay.v.01	play||play.v.01	pseudo leaf
+keep_step||keep_step.v.01	pseudo root	pseudo leaf
+flambe||flambe.v.01	pour||pour.v.01	pseudo leaf
+get_through||get_through.v.01	complete||complete.v.01	pseudo leaf
+giggle||giggle.v.01	laugh||laugh.v.01	pseudo leaf
+mark_down||mark_down.v.01	reduce||reduce.v.01	pseudo leaf
+crystallize||crystallize.v.04	change||change.v.01	pseudo leaf
+requisition||requisition.v.02	take||take.v.02	pseudo leaf
+take_the_floor||take_the_floor.v.01	dance||dance.v.01	pseudo leaf
+shipwreck||shipwreck.v.04	destroy||destroy.v.01	pseudo leaf
+stave_in||stave_in.v.01	remove||remove.v.01	pseudo leaf
+fret||fret.v.05	upset||upset.v.02	pseudo leaf
+co-opt||co-opt.v.02	change||change.v.01	pseudo leaf
+ruffle||ruffle.v.08	smooth||smooth.v.01	pseudo leaf
+take_orders||take_orders.v.01	obey||obey.v.01	pseudo leaf
+underline||underline.v.02	draw||draw.v.06	pseudo leaf
+gobsmack||val.withdef.72	elate||elate.v.01	pseudo leaf
+atomize||atomize.v.01	spray||spray.v.01	pseudo leaf
+deserve||deserve.v.01	pseudo root	pseudo leaf
+barber||barber.v.01	shave||shave.v.01	pseudo leaf
+get_off_the_ground||get_off_the_ground.v.01	pseudo root	pseudo leaf
+overwork||overwork.v.01	use||use.v.01	pseudo leaf
+flex||flex.v.01	compress||compress.v.02	convulse||convulse.v.05
+throw||throw.v.08	pseudo root	pseudo leaf
+plaster||plaster.v.04	fancify||fancify.v.01	pseudo leaf
+refocus||refocus.v.02	focus||focus.v.02	pseudo leaf
+tank||tank.v.01	store||store.v.02	pseudo leaf
+mutate||mutate.v.01	change||change.v.01	pseudo leaf
+bear_down||bear_down.v.04	exert||exert.v.03	pseudo leaf
+guard||guard.v.04	pseudo root	pseudo leaf
+avail||avail.v.03	use||use.v.01	pseudo leaf
+destroy||destroy.v.02	pseudo root	pseudo leaf
+foal||foal.v.01	give_birth||give_birth.v.01	pseudo leaf
+ride||ride.v.01	travel||travel.v.01	pseudo leaf
+continue||continue.v.10	exist||exist.v.01	pseudo leaf
+regenerate||regenerate.v.08	change||change.v.01	pseudo leaf
+tumble||tumble.v.09	change||change.v.01	pseudo leaf
+rip||rip.v.04	abuse||abuse.v.03	pseudo leaf
+caper||caper.v.01	pseudo root	pseudo leaf
+confer||confer.v.02	present||present.v.02	pseudo leaf
+rebel||rebel.v.02	pseudo root	pseudo leaf
+discolor||discolor.v.03	change||change.v.02	speckle||speckle.v.02
+turn_off||turn_off.v.03	anger||anger.v.01	pseudo leaf
+mudwrestle||mudwrestle.v.01	wrestle||wrestle.v.01	pseudo leaf
+clap_up||clap_up.v.01	pseudo root	pseudo leaf
+entice||entice.v.01	provoke||provoke.v.02	pseudo leaf
+wash||wash.v.03	cleanse||cleanse.v.01	shampoo||shampoo.v.01
+devitalize||devitalize.v.01	exhaust||exhaust.v.01	pseudo leaf
+sheathe||sheathe.v.01	coat||coat.v.01	pseudo leaf
+mismate||mismate.v.01	change||change.v.01	pseudo leaf
+buckle||buckle.v.02	collapse||collapse.v.03	pseudo leaf
+shriek||shriek.v.01	pseudo root	pseudo leaf
+auscultate||auscultate.v.01	analyze||analyze.v.01	pseudo leaf
+debut||debut.v.03	pseudo root	pseudo leaf
+impend||impend.v.01	happen||happen.v.01	pseudo leaf
+twist||twist.v.03	turn||turn.v.01	pseudo leaf
+rejuvenate||rejuvenate.v.03	change||change.v.01	pseudo leaf
+outfox||outfox.v.01	outmaneuver||outmaneuver.v.01	pseudo leaf
+rack||rack.v.06	sail||sail.v.01	pseudo leaf
+sonnet||sonnet.v.02	compose||compose.v.02	pseudo leaf
+maroon||maroon.v.02	scat||scat.v.01	pseudo leaf
+nap||nap.v.01	doss||doss.v.01	pseudo leaf
+lighten||lighten.v.03	change||change.v.01	pseudo leaf
+unfold||unfold.v.02	pseudo root	pseudo leaf
+woo||woo.v.02	pseudo root	pseudo leaf
+broil||broil.v.02	heat||heat.v.01	pseudo leaf
+quadruplicate||quadruplicate.v.01	duplicate||duplicate.v.01	pseudo leaf
+bear||bear.v.06	pay||pay.v.01	pseudo leaf
+attitudinize||attitudinize.v.01	change||change.v.01	pseudo leaf
+handwrite||handwrite.v.01	write||write.v.01	pseudo leaf
+place||place.v.16	sing||sing.v.01	pseudo leaf
+coin||coin.v.01	pseudo root	pseudo leaf
+keep_note||keep_note.v.01	remember||remember.v.01	pseudo leaf
+cut_out||cut_out.v.06	pseudo root	pseudo leaf
+blame||blame.v.02	harass||harass.v.01	pseudo leaf
+canker||canker.v.02	confect||confect.v.01	pseudo leaf
+pack||pack.v.04	transport||transport.v.01	pseudo leaf
+revise||revise.v.01	change||change.v.01	pseudo leaf
+err||err.v.01	pseudo root	pseudo leaf
+transship||transship.v.01	transport||transport.v.01	pseudo leaf
+tumble||tumble.v.06	throw||throw.v.02	pseudo leaf
+transition||transition.v.01	change||change.v.01	pseudo leaf
+talk||talk.v.01	interact||interact.v.01	pseudo leaf
+drag_on||drag_on.v.01	last||last.v.01	pseudo leaf
+develop||develop.v.09	change||change.v.01	pseudo leaf
+recover||recover.v.04	pseudo root	pseudo leaf
+ice||ice.v.03	change||change.v.01	pseudo leaf
+elongate||elongate.v.01	lengthen||lengthen.v.01	pseudo leaf
+foot||foot.v.01	pay||pay.v.01	pseudo leaf
+match||match.v.05	correspond||correspond.v.03	pseudo leaf
+partake||partake.v.03	consume||consume.v.02	pseudo leaf
+outmarch||outmarch.v.01	march||march.v.01	pseudo leaf
+manifold||manifold.v.01	duplicate||duplicate.v.01	pseudo leaf
+demythologize||demythologize.v.01	remove||remove.v.01	pseudo leaf
+take_over||take_over.v.03	free||free.v.01	pseudo leaf
+differ||differ.v.01	pseudo root	pseudo leaf
+rub||rub.v.03	pseudo root	pseudo leaf
+monopolize||monopolize.v.02	exploit||exploit.v.01	pseudo leaf
+outspan||outspan.v.01	remove||remove.v.01	pseudo leaf
+tomahawk||tomahawk.v.02	kill||kill.v.01	pseudo leaf
+slip||slip.v.07	pass||pass.v.01	pseudo leaf
+avail||avail.v.01	use||use.v.01	pseudo leaf
+machicolate||machicolate.v.01	fill||fill.v.01	pseudo leaf
+return||return.v.16	submit||submit.v.01	pseudo leaf
+pimp_out||train.withdef.230	better||better.v.02	pseudo leaf
+x-ray||x-ray.v.01	analyze||analyze.v.01	pseudo leaf
+lose||lose.v.01	pseudo root	pseudo leaf
+whish||whish.v.02	travel||travel.v.01	pseudo leaf
+flee||flee.v.01	scat||scat.v.01	run_away||run_away.v.02
+curb||curb.v.03	pseudo root	pseudo leaf
+seed||seed.v.07	inoculate||inoculate.v.04	pseudo leaf
+embargo||embargo.v.01	withhold||withhold.v.01	pseudo leaf
+enshrine||enshrine.v.02	hold||hold.v.02	pseudo leaf
+overgrow||overgrow.v.01	grow||grow.v.02	pseudo leaf
+feast||feast.v.02	offer||offer.v.01	pseudo leaf
+befriend||befriend.v.01	pseudo root	pseudo leaf
+subtilize||subtilize.v.03	stimulate||stimulate.v.04	pseudo leaf
+cook||cook.v.01	prepare||prepare.v.03	rough_in||rough_in.v.01
+camp||camp.v.03	change||change.v.01	pseudo leaf
+concuss||concuss.v.02	injure||injure.v.01	pseudo leaf
+anagram||anagram.v.01	read||read.v.01	pseudo leaf
+spurt||spurt.v.01	issue_forth||issue_forth.v.01	pseudo leaf
+attest||attest.v.02	authenticate||authenticate.v.01	pseudo leaf
+pick||pick.v.05	remove||remove.v.01	pseudo leaf
+carry||carry.v.23	win||win.v.01	pseudo leaf
+peep||peep.v.02	appear||appear.v.02	pseudo leaf
+strap||strap.v.04	fasten||fasten.v.01	pseudo leaf
+outlive||outlive.v.01	live||live.v.02	pseudo leaf
+postdate||postdate.v.01	date||date.v.03	pseudo leaf
+dub||dub.v.01	name||name.v.01	pseudo leaf
+blind||blind.v.02	blind||blind.v.01	seel||seel.v.01
+powderize||powderize.v.02	change||change.v.01	pseudo leaf
+tug||tug.v.02	endeavor||endeavor.v.01	pseudo leaf
+stratify||stratify.v.01	change||change.v.01	pseudo leaf
+undo||undo.v.03	pseudo root	pseudo leaf
+probe||probe.v.02	examine||examine.v.04	pseudo leaf
+perceive||perceive.v.02	pseudo root	pseudo leaf
+impeach||impeach.v.01	challenge||challenge.v.04	pseudo leaf
+reassail||reassail.v.01	assail||assail.v.01	pseudo leaf
+keep_up||keep_up.v.01	pseudo root	pseudo leaf
+paw||paw.v.02	touch||touch.v.03	pseudo leaf
+bundle_off||bundle_off.v.01	send||send.v.01	pseudo leaf
+lexicalize||lexicalize.v.01	change||change.v.01	pseudo leaf
+mold||mold.v.05	fit||fit.v.04	pseudo leaf
+revitalize||revitalize.v.02	change||change.v.01	pseudo leaf
+welter||welter.v.01	pseudo root	pseudo leaf
+choreograph||choreograph.v.01	compose||compose.v.02	pseudo leaf
+blow||blow.v.06	change_shape||change_shape.v.01	pseudo leaf
+carry||carry.v.02	pseudo root	pseudo leaf
+add||add.v.06	pseudo root	pseudo leaf
+retrain||retrain.v.02	train||train.v.02	pseudo leaf
+lam_into||lam_into.v.01	hit||hit.v.02	pseudo leaf
+form||form.v.07	change_shape||change_shape.v.01	pseudo leaf
+mortgage||mortgage.v.01	lend||lend.v.01	pseudo leaf
+divaricate||divaricate.v.02	separate||separate.v.02	pseudo leaf
+fort||fort.v.03	station||station.v.01	pseudo leaf
+guillotine||guillotine.v.01	kill||kill.v.01	pseudo leaf
+meddle||meddle.v.01	intrude||intrude.v.01	pseudo leaf
+resolve||resolve.v.05	change||change.v.01	pseudo leaf
+bounce||bounce.v.07	pseudo root	pseudo leaf
+play_back||play_back.v.01	reproduce||reproduce.v.01	pseudo leaf
+give||give.v.20	communicate||communicate.v.01	pseudo leaf
+scoop_out||scoop_out.v.01	hollow||hollow.v.02	pseudo leaf
+stunt||stunt.v.02	perform||perform.v.03	pseudo leaf
+case||case.v.01	search||search.v.01	pseudo leaf
+give||give.v.08	pseudo root	pseudo leaf
+slink||slink.v.01	walk||walk.v.01	pseudo leaf
+fowl||fowl.v.01	hunt||hunt.v.01	pseudo leaf
+infuriate||infuriate.v.01	anger||anger.v.01	pseudo leaf
+equip||equip.v.02	provide||provide.v.02	pseudo leaf
+drink_in||drink_in.v.01	interest||interest.v.01	pseudo leaf
+thicken||thicken.v.03	change||change.v.02	agglomerate||agglomerate.v.01
+bestow||bestow.v.02	give||give.v.01	pseudo leaf
+goad||goad.v.02	urge||urge.v.01	pseudo leaf
+percolate||percolate.v.02	pseudo root	pseudo leaf
+grow_up||grow_up.v.01	change||change.v.01	pseudo leaf
+lay_over||lay_over.v.01	interrupt||interrupt.v.01	pseudo leaf
+abstain||abstain.v.01	refrain||refrain.v.01	pseudo leaf
+jump||jump.v.01	pseudo root	pseudo leaf
+excrete||excrete.v.01	exhaust||exhaust.v.05	dung||dung.v.02
+brachiate||brachiate.v.01	swing||swing.v.05	pseudo leaf
+seek_out||seek_out.v.01	search||search.v.01	pseudo leaf
+carry||carry.v.17	interact||interact.v.01	pseudo leaf
+enjoy||enjoy.v.01	pseudo root	pseudo leaf
+fry||fry.v.01	heat||heat.v.01	pseudo leaf
+unchain||unchain.v.02	free||free.v.01	pseudo leaf
+face||face.v.08	line||line.v.02	pseudo leaf
+personify||personify.v.03	associate||associate.v.01	pseudo leaf
+fend||fend.v.01	manage||manage.v.02	pseudo leaf
+assume||assume.v.02	pseudo root	pseudo leaf
+place||place.v.15	succeed||succeed.v.01	pseudo leaf
+radiate||radiate.v.05	emit||emit.v.02	pseudo leaf
+cense||cense.v.01	perfume||perfume.v.01	pseudo leaf
+ream||ream.v.03	enlarge||enlarge.v.01	pseudo leaf
+take_the_bull_by_the_horns||take_the_bull_by_the_horns.v.01	undertake||undertake.v.02	pseudo leaf
+disavow||disavow.v.01	reject||reject.v.01	pseudo leaf
+rectify||rectify.v.06	convert||convert.v.01	pseudo leaf
+queer||queer.v.02	put||put.v.01	pseudo leaf
+piggyback||piggyback.v.01	ride||ride.v.04	pseudo leaf
+hem_in||hem_in.v.01	surround||surround.v.01	pseudo leaf
+full||full.v.02	change||change.v.01	pseudo leaf
+rig||rig.v.03	attach||attach.v.01	pseudo leaf
+joyride||joyride.v.01	ride||ride.v.04	pseudo leaf
+ignore||ignore.v.05	pseudo root	pseudo leaf
+tweedle||tweedle.v.01	sing||sing.v.01	pseudo leaf
+allow||allow.v.03	pseudo root	pseudo leaf
+jaundice||jaundice.v.02	affect||affect.v.02	pseudo leaf
+mound||mound.v.01	change_shape||change_shape.v.01	pseudo leaf
+raid||raid.v.04	search||search.v.01	pseudo leaf
+rate||rate.v.01	evaluate||evaluate.v.02	pseudo leaf
+deny||deny.v.07	reject||reject.v.01	pseudo leaf
+recuperate||recuperate.v.03	restore||restore.v.01	pseudo leaf
+crumb||crumb.v.02	break||break.v.02	pseudo leaf
+impel||impel.v.01	urge||urge.v.01	pseudo leaf
+initial||initial.v.01	label||label.v.01	pseudo leaf
+doubt||doubt.v.01	pseudo root	pseudo leaf
+sizzle||sizzle.v.02	anger||anger.v.01	pseudo leaf
+grate||grate.v.04	rub||rub.v.01	pseudo leaf
+assay||assay.v.01	analyze||analyze.v.01	pseudo leaf
+decline||decline.v.06	decrease||decrease.v.01	pseudo leaf
+disprove||disprove.v.01	prove||prove.v.01	pseudo leaf
+date||date.v.01	pseudo root	pseudo leaf
+counter-drill||counter-drill.v.01	drill||drill.v.02	pseudo leaf
+route||route.v.01	bring||bring.v.01	pseudo leaf
+personify||personify.v.03	associate||associate.v.01	pseudo leaf
+overdress||overdress.v.02	dress||dress.v.01	pseudo leaf
+supply||supply.v.01	give||give.v.01	pseudo leaf
+toll||toll.v.01	ring||ring.v.01	pseudo leaf
+point||point.v.10	pseudo root	pseudo leaf
+sluice||sluice.v.03	bring||bring.v.01	pseudo leaf
+dovetail||dovetail.v.01	fit||fit.v.04	pseudo leaf
+falsify||falsify.v.04	change||change.v.01	pseudo leaf
+transpire||transpire.v.02	exude||exude.v.01	pseudo leaf
+spirit_away||spirit_away.v.01	lead||lead.v.01	pseudo leaf
+earth||earth.v.01	hide||hide.v.01	pseudo leaf
+recommend||recommend.v.01	urge||urge.v.01	preach||preach.v.02
+square||square.v.01	change_shape||change_shape.v.01	pseudo leaf
+hack||hack.v.06	change||change.v.01	pseudo leaf
+coapt||coapt.v.01	compress||compress.v.01	pseudo leaf
+reecho||reecho.v.01	utter||utter.v.04	pseudo leaf
+raft||raft.v.03	construct||construct.v.01	pseudo leaf
+swamp||swamp.v.01	submerge||submerge.v.03	pseudo leaf
+flag||flag.v.02	give||give.v.03	pseudo leaf
+beacon||beacon.v.01	shine||shine.v.02	pseudo leaf
+fruit||fruit.v.02	pseudo root	pseudo leaf
+violate||violate.v.01	pseudo root	pseudo leaf
+discriminate||discriminate.v.02	treat||treat.v.03	pseudo leaf
+set_about||set_about.v.01	deal||deal.v.03	pseudo leaf
+yawn||yawn.v.01	utter||utter.v.02	pseudo leaf
+censor||censor.v.02	pseudo root	pseudo leaf
+swim||swim.v.04	immerse||immerse.v.01	pseudo leaf
+embank||embank.v.01	enclose||enclose.v.02	pseudo leaf
+drag||drag.v.10	persuade||persuade.v.02	pseudo leaf
+miniate||miniate.v.02	change||change.v.01	pseudo leaf
+fracture||fracture.v.05	break||break.v.03	pseudo leaf
+grudge||grudge.v.02	admit||admit.v.02	pseudo leaf
+supply||supply.v.01	give||give.v.01	pseudo leaf
+stalinize||stalinize.v.01	change||change.v.01	pseudo leaf
+break_down||break_down.v.03	pseudo root	pseudo leaf
+renegociate||renegociate.v.02	change||change.v.01	pseudo leaf
+apostatize||apostatize.v.01	abandon||abandon.v.01	pseudo leaf
+burn||burn.v.05	change||change.v.02	blaze||blaze.v.03
+outsail||outsail.v.01	sail||sail.v.01	pseudo leaf
+plant||plant.v.01	put||put.v.01	pseudo leaf
+flow||flow.v.03	pseudo root	pseudo leaf
+impress||impress.v.02	change||change.v.01	pseudo leaf
+charge||charge.v.08	fill||fill.v.01	pseudo leaf
+sandpaper||sandpaper.v.01	rub||rub.v.01	pseudo leaf
+batten||batten.v.02	fasten||fasten.v.01	pseudo leaf
+center_punch||center_punch.v.01	hole||hole.v.02	pseudo leaf
+sluice||sluice.v.02	irrigate||irrigate.v.02	pseudo leaf
+unionize||unionize.v.01	organize||organize.v.02	pseudo leaf
+parcel||parcel.v.02	cover||cover.v.01	pseudo leaf
+dramatize||dramatize.v.02	portray||portray.v.02	pseudo leaf
+redeem||redeem.v.05	pay||pay.v.01	pseudo leaf
+trace||trace.v.05	uncover||uncover.v.02	pseudo leaf
+undercut||undercut.v.02	cut_away||cut_away.v.02	pseudo leaf
+be||be.v.01	pseudo root	pseudo leaf
+crank||crank.v.04	fasten||fasten.v.01	pseudo leaf
+bed_down||bed_down.v.01	pseudo root	pseudo leaf
+redevelop||redevelop.v.03	change||change.v.01	pseudo leaf
+shorten||shorten.v.01	reduce||reduce.v.01	pseudo leaf
+loop||loop.v.02	circle||circle.v.01	pseudo leaf
+precipitate||precipitate.v.02	detach||detach.v.01	pseudo leaf
+ionize||ionize.v.02	convert||convert.v.01	pseudo leaf
+shlep||shlep.v.02	pull||pull.v.01	pseudo leaf
+feel||feel.v.04	pseudo root	pseudo leaf
+grab||grab.v.06	capture||capture.v.02	pseudo leaf
+tender||tender.v.01	offer||offer.v.01	pseudo leaf
+wring||wring.v.04	compress||compress.v.02	pseudo leaf
+jettison||jettison.v.01	destroy||destroy.v.01	pseudo leaf
+skin_over||skin_over.v.01	harden||harden.v.01	pseudo leaf
+blare_out||blare_out.v.01	announce||announce.v.01	pseudo leaf
+enlighten||enlighten.v.01	understand||understand.v.01	pseudo leaf
+mill||mill.v.04	roll_up||roll_up.v.01	pseudo leaf
+compound||compound.v.04	create_from_raw_material||create_from_raw_material.v.01	pseudo leaf
+flour||flour.v.02	convert||convert.v.01	pseudo leaf
+beat_up||beat_up.v.02	gather||gather.v.01	pseudo leaf
+borrow||borrow.v.01	get||get.v.01	pseudo leaf
+parallel||parallel.v.01	pseudo root	pseudo leaf
+aggrade||aggrade.v.01	build_up||build_up.v.01	pseudo leaf
+spell||spell.v.01	write||write.v.02	transliterate||transliterate.v.01
+project||project.v.06	draw||draw.v.06	pseudo leaf
+expectorate||expectorate.v.02	exhaust||exhaust.v.05	pseudo leaf
+grab||grab.v.05	pseudo root	pseudo leaf
+have||have.v.02	pseudo root	pseudo leaf
+decoct||decoct.v.01	extract||extract.v.02	pseudo leaf
+peep||peep.v.01	look||look.v.01	pseudo leaf
+tinker||tinker.v.03	pseudo root	pseudo leaf
+spar||spar.v.03	flatten||flatten.v.01	pseudo leaf
+line_one's_pockets||line_one's_pockets.v.01	gain||gain.v.05	pseudo leaf
+dump||dump.v.01	pseudo root	pseudo leaf
+uproot||uproot.v.03	pull||pull.v.01	pseudo leaf
+skim||skim.v.04	skip||skip.v.05	pseudo leaf
+litter||litter.v.03	give_birth||give_birth.v.01	pseudo leaf
+aspirate||aspirate.v.02	pronounce||pronounce.v.01	pseudo leaf
+target||target.v.01	intend||intend.v.01	overrun||overrun.v.05
+synchronize||synchronize.v.04	arrange||arrange.v.06	pseudo leaf
+ask||ask.v.07	pseudo root	pseudo leaf
+intercede||intercede.v.01	interact||interact.v.01	pseudo leaf
+locate||locate.v.01	analyze||analyze.v.01	prospect||prospect.v.02
+blackmail||blackmail.v.01	threaten||threaten.v.03	pseudo leaf
+diagonalize||diagonalize.v.01	transform||transform.v.01	pseudo leaf
+barbeque||barbeque.v.01	grill||grill.v.01	pseudo leaf
+chance||chance.v.01	pseudo root	pseudo leaf
+pulsate||pulsate.v.02	move||move.v.02	pseudo leaf
+snog||snog.v.01	pet||pet.v.01	pseudo leaf
+apologize||apologize.v.02	pseudo root	pseudo leaf
+tie||tie.v.09	change||change.v.01	pseudo leaf
+cancel||cancel.v.03	pseudo root	pseudo leaf
+vanish||vanish.v.04	pseudo root	pseudo leaf
+abridge||abridge.v.02	reduce||reduce.v.01	pseudo leaf
+clean||clean.v.10	remove||remove.v.01	pseudo leaf
+die||die.v.02	suffer||suffer.v.01	pseudo leaf
+harmonize||harmonize.v.05	change||change.v.01	pseudo leaf
+unplug||unplug.v.01	change||change.v.01	pseudo leaf
+bring_home||bring_home.v.01	understand||understand.v.01	pseudo leaf
+project||project.v.08	present||present.v.02	pseudo leaf
+burst||burst.v.01	pseudo root	pseudo leaf
+disabuse||disabuse.v.01	free||free.v.01	pseudo leaf
+leave_off||leave_off.v.03	pseudo root	pseudo leaf
+gag||gag.v.04	joke||joke.v.02	pseudo leaf
+raven||raven.v.04	feed||feed.v.06	pseudo leaf
+cool||cool.v.02	change||change.v.01	pseudo leaf
+scald||scald.v.03	heat||heat.v.01	pseudo leaf
+foul||foul.v.05	spot||spot.v.04	pseudo leaf
+unveil||unveil.v.01	remove||remove.v.01	pseudo leaf
+quieten||quieten.v.01	change||change.v.01	hush||hush.v.05
+string||string.v.01	thread||thread.v.02	pseudo leaf
+outrival||outrival.v.01	rival||rival.v.02	pseudo leaf
+kick||kick.v.01	propel||propel.v.01	pseudo leaf
+budget_for||budget_for.v.01	calculate||calculate.v.01	pseudo leaf
+operate||operate.v.03	handle||handle.v.04	drive||drive.v.14
+overcome||overcome.v.02	pseudo root	pseudo leaf
+fib||fib.v.01	tell||tell.v.02	pseudo leaf
+drive||drive.v.15	urge||urge.v.01	pseudo leaf
+clamp_down||clamp_down.v.01	suppress||suppress.v.01	pseudo leaf
+drip||drip.v.01	drop||drop.v.01	pseudo leaf
+inject||inject.v.03	penetrate||penetrate.v.01	pseudo leaf
+answer||answer.v.09	satisfy||satisfy.v.01	pseudo leaf
+trip_up||trip_up.v.01	detect||detect.v.01	pseudo leaf
+conflict||conflict.v.01	pseudo root	pseudo leaf
+classify||classify.v.01	categorize||categorize.v.01	pseudo leaf
+ensky||ensky.v.01	praise||praise.v.01	pseudo leaf
+begin||begin.v.02	pseudo root	pseudo leaf
+control||control.v.05	regulate||regulate.v.02	pseudo leaf
+block||block.v.14	shape||shape.v.02	pseudo leaf
+dwindle||dwindle.v.01	decrease||decrease.v.01	pseudo leaf
+derail||derail.v.01	pseudo root	pseudo leaf
+wrap||wrap.v.04	coil||coil.v.03	pseudo leaf
+rain||rain.v.01	precipitate||precipitate.v.03	pseudo leaf
+stand_by||stand_by.v.01	pseudo root	pseudo leaf
+make||make.v.35	pseudo root	pseudo leaf
+rack||rack.v.06	sail||sail.v.01	pseudo leaf
+lose||lose.v.02	pseudo root	pseudo leaf
+attach||attach.v.02	pseudo root	pseudo leaf
+glide-bomb||glide-bomb.v.01	bombard||bombard.v.02	pseudo leaf
+electrocute||electrocute.v.02	kill||kill.v.01	pseudo leaf
+draw||draw.v.33	pseudo root	pseudo leaf
+rough-house||rough-house.v.01	treat||treat.v.03	pseudo leaf
+copolymerize||copolymerize.v.01	polymerize||polymerize.v.01	pseudo leaf
+scuffle||scuffle.v.02	contend||contend.v.06	pseudo leaf
+instill||instill.v.01	change||change.v.01	pseudo leaf
+strong-arm||strong-arm.v.01	handle||handle.v.06	pseudo leaf
+bump||bump.v.03	dance||dance.v.01	pseudo leaf
+drape||drape.v.02	put||put.v.01	pseudo leaf
+elaborate||elaborate.v.02	produce||produce.v.01	pseudo leaf
+reassail||reassail.v.01	assail||assail.v.01	pseudo leaf
+slash||slash.v.03	cut||cut.v.01	pseudo leaf
+glorify||glorify.v.02	embroider||embroider.v.01	pseudo leaf
+butcher||butcher.v.01	kill||kill.v.01	pseudo leaf
+effuse||effuse.v.03	emit||emit.v.01	pseudo leaf
+compose||compose.v.01	form||form.v.02	chelate||chelate.v.01
+drive_around||drive_around.v.01	travel||travel.v.01	pseudo leaf
+regulate||regulate.v.01	adjust||adjust.v.01	pseudo leaf
+contemn||contemn.v.01	flatter||flatter.v.01	pseudo leaf
+prepare||prepare.v.05	train||train.v.01	drill||drill.v.02
+relax||relax.v.06	change||change.v.01	pseudo leaf
+pale||pale.v.01	change||change.v.01	pseudo leaf
+rout||rout.v.03	change||change.v.01	pseudo leaf
+roach||roach.v.01	cut||cut.v.01	pseudo leaf
+note||note.v.01	notice||notice.v.04	mention||mention.v.03
+hand-dye||hand-dye.v.01	dye||dye.v.01	pseudo leaf
+distinguish||distinguish.v.03	pseudo root	pseudo leaf
+cover||cover.v.04	provide||provide.v.02	pseudo leaf
+bail||bail.v.01	pseudo root	pseudo leaf
+decarbonate||decarbonate.v.01	remove||remove.v.01	pseudo leaf
+reacquaint||reacquaint.v.01	familiarize||familiarize.v.01	pseudo leaf
+communicate||communicate.v.02	interact||interact.v.01	pseudo leaf
+eat_into||eat_into.v.01	anger||anger.v.01	pseudo leaf
+collate||collate.v.01	compare||compare.v.01	pseudo leaf
+exhaust||exhaust.v.04	pseudo root	pseudo leaf
+swear||swear.v.03	promise||promise.v.01	pseudo leaf
+fatten||fatten.v.01	change||change.v.01	pseudo leaf
+prefix||prefix.v.01	attach||attach.v.01	pseudo leaf
+lounge||lounge.v.01	sit||sit.v.01	sprawl||sprawl.v.01
+cheat||cheat.v.01	deceive||deceive.v.01	pseudo leaf
+grasp||grasp.v.01	hold||hold.v.02	interlock||interlock.v.03
+invert||invert.v.01	change||change.v.01	pseudo leaf
+hustle||hustle.v.05	urge||urge.v.01	pseudo leaf
+dull||dull.v.07	weaken||weaken.v.02	pseudo leaf
+sightread||sightread.v.01	perform||perform.v.01	pseudo leaf
+clock_in||clock_in.v.01	arrive||arrive.v.01	pseudo leaf
+prosecute||prosecute.v.03	participate||participate.v.01	pseudo leaf
+prim||prim.v.01	assume||assume.v.01	pseudo leaf
+touch||touch.v.05	pseudo root	pseudo leaf
+semaphore||semaphore.v.01	send||send.v.01	pseudo leaf
+reissue||reissue.v.02	issue||issue.v.02	pseudo leaf
+chlorinate||chlorinate.v.01	change||change.v.01	pseudo leaf
+revolutionize||revolutionize.v.01	change||change.v.01	pseudo leaf
+recombine||recombine.v.01	undergo||undergo.v.01	pseudo leaf
+transact||transact.v.01	conduct||conduct.v.01	pseudo leaf
+shroud||shroud.v.01	cover||cover.v.01	pseudo leaf
+format||format.v.01	pseudo root	pseudo leaf
+face-lift||face-lift.v.01	change||change.v.01	pseudo leaf
+manipulate||manipulate.v.06	treat||treat.v.03	pseudo leaf
+fixate||fixate.v.02	pseudo root	pseudo leaf
+buckram||buckram.v.01	stiffen||stiffen.v.02	pseudo leaf
+reserve||reserve.v.01	pseudo root	pseudo leaf
+float||float.v.02	pseudo root	pseudo leaf
+infuscate||infuscate.v.01	darken||darken.v.01	pseudo leaf
+evacuate||evacuate.v.05	pseudo root	pseudo leaf
+windsurf||windsurf.v.01	sail||sail.v.01	pseudo leaf
+thin_out||thin_out.v.02	decrease||decrease.v.01	pseudo leaf
+scab||scab.v.01	pseudo root	pseudo leaf
+calcify||calcify.v.04	convert||convert.v.01	pseudo leaf
+bench||bench.v.01	pseudo root	pseudo leaf
+undergird||undergird.v.01	support||support.v.02	pseudo leaf
+begin||begin.v.03	pseudo root	pseudo leaf
+wire||wire.v.01	give||give.v.03	pseudo leaf
+star||star.v.01	portray||portray.v.02	pseudo leaf
+smolder||smolder.v.02	suppress||suppress.v.01	pseudo leaf
+update||update.v.01	change||change.v.01	pseudo leaf
+throw||throw.v.04	put||put.v.01	pseudo leaf
+approach||approach.v.01	advance||advance.v.01	pseudo leaf
+water_ski||water_ski.v.01	ski||ski.v.01	pseudo leaf
+toggle||toggle.v.01	pseudo root	pseudo leaf
+stuff||stuff.v.05	treat||treat.v.03	pseudo leaf
+jump_off||jump_off.v.01	pseudo root	pseudo leaf
+fight||fight.v.02	pseudo root	resist||resist.v.05

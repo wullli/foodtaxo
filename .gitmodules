@@ -1,0 +1,9 @@
+[submodule "dspy-ai"]
+	path = dspy-ai
+	url = git@github.com:wullli/dspy.git
+[submodule "baselines"]
+	path = baselines
+	url = git@github.com:wullli/TacoPrompt.git
+[submodule "RaTE"]
+	path = RaTE
+	url = git@github.com:CestLucas/RaTE.git

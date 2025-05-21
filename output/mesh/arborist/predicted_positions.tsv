@@ -1,0 +1,820 @@
+Query	Parent	Child
+patient_identification_systems	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+skin_absorption	root	leaf
+cobalt_isotopes	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+health_impact_assessment	leishmania major@@@1577	leaf
+continuity_of_patient_care	health care activity@@@1023	leaf
+transportation	intraoperative complications@@@7668	blood loss , surgical@@@5234
+physicians_'_offices	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+asthma_,_occupational	pubmed@@@1430	leaf
+social_skills	type b personality@@@7302	leaf
+combat_disorders	leishmania major@@@1577	leaf
+dictionary_,_dental	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+pulmonary_valve	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+acidosis_,_renal_tubular	nursing research@@@5821	nursing education research@@@8760
+lens_,_crystalline	eye proteins@@@6587	leaf
+ventricular_function_,_right	nursing research@@@5821	nursing education research@@@8760
+arthroplasty_,_replacement_,_shoulder	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+synovial_cyst	nursing research@@@5821	nursing education research@@@8760
+health_planning_support	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+portion_size	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+ferm_domains	intraoperative complications@@@7668	blood loss , surgical@@@5234
+crack_cocaine	leishmania major@@@1577	leaf
+epidemiological_monitoring	appendix@@@2707	leaf
+meningitis_,_viral	leishmania major@@@1577	leaf
+online_social_networking	ferm domains@@@164	leaf
+pathology_,_veterinary	ventricular outflow obstruction@@@5785	pulmonary valve stenosis@@@4797
+account_book	appendix@@@2707	leaf
+pneumonia_,_pneumococcal	leishmania major@@@1577	leaf
+vascular_diseases	molecular sequence data@@@9575	carbohydrate sequence@@@7028
+dermatitis_,_allergic_contact	leishmania major@@@1577	leaf
+diabetes_mellitus_,_type_2	root	leaf
+social_marketing	social determinants of health@@@8138	leaf
+health_records_,_personal	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+education_,_medical_,_continuing	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+nervous_system_autoimmune_disease_,_experimental	leishmania major@@@1577	leaf
+rna_,_algal	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+receptors_,_peptide	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+culture_media	root	leaf
+mesenchymal_stem_cells	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+lithium	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+ion_channel_gating	wnt signaling pathway@@@8980	leaf
+dental_pulp	appendix@@@2707	leaf
+rna_precursors	root	leaf
+cos_cells	intraoperative complications@@@7668	blood loss , surgical@@@5234
+african_union	intraoperative complications@@@7668	blood loss , surgical@@@5234
+ear_neoplasms	root	leaf
+feeder_cells	intraoperative complications@@@7668	blood loss , surgical@@@5234
+eye_injuries	leishmania major@@@1577	leaf
+hospital_bed_capacity	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+systematic_review	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+cortical_spreading_depression	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+auditory_brain_stem_implantation	blood chemical analysis@@@4865	blood gas analysis@@@3935
+interview_,_psychological	interpersonal psychotherapy@@@8985	leaf
+education_,_veterinary	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+streptavidin	root	leaf
+electronic_supplementary_materials	publication components@@@1260	leaf
+sex_characteristics	intraoperative complications@@@7668	blood loss , surgical@@@5234
+plant_viral_movement_proteins	nursing research@@@5821	nursing education research@@@8760
+consciousness_monitors	health care activity@@@1023	leaf
+age_groups	intraoperative complications@@@7668	blood loss , surgical@@@5234
+muscle_weakness	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+phantom_limb	leishmania major@@@1577	leaf
+housing	intraoperative complications@@@7668	blood loss , surgical@@@5234
+posterior_cerebral_artery	appendix@@@2707	leaf
+practice_patterns_,_physicians_'	intraoperative complications@@@7668	blood loss , surgical@@@5234
+adenocarcinoma_in_situ	nursing research@@@5821	nursing education research@@@8760
+models_,_molecular	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+bile_ducts	nursing research@@@5821	nursing education research@@@8760
+single_photon_emission_computed_tomography_computed_tomography	tomography@@@2032	leaf
+catalog	appendix@@@2707	leaf
+trigger_points	nursing research@@@5821	nursing education research@@@8760
+north_sea	antarctic regions@@@4098	leaf
+secretory_component	root	leaf
+dna	root	leaf
+abdominal_muscles	muscles@@@8782	leaf
+aortic_valve_insufficiency	nursing research@@@5821	nursing education research@@@8760
+veterans_health	root	leaf
+ethics_,_nursing	ferm domains@@@164	leaf
+prosthesis_fitting	root	leaf
+sepsis	nursing research@@@5821	nursing education research@@@8760
+animals_,_inbred_strains	intraoperative complications@@@7668	blood loss , surgical@@@5234
+carcinoma_,_transitional_cell	appendix@@@2707	leaf
+new_south_wales	intraoperative complications@@@7668	blood loss , surgical@@@5234
+tai_ji	root	leaf
+perioperative_medicine	molecular sequence data@@@9575	amino acid sequence@@@8825
+survival_rate	leishmania major@@@1577	leaf
+prospective_studies	multicenter studies as topic@@@8442	leaf
+cell_respiration	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+clinical_protocols	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+molar_,_third	root	leaf
+receptors_,_glucocorticoid	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+pattern_recognition_,_visual	leishmania major@@@1577	leaf
+receptors_,_death_domain	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+tibia	root	leaf
+patient_care_planning	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+photons	root	leaf
+insulin_antibodies	root	leaf
+body_remains	root	leaf
+chief_executive_officers_,_hospital	intraoperative complications@@@7668	blood loss , surgical@@@5234
+anger	personality@@@4554	leaf
+anomalous_left_coronary_artery	nursing research@@@5821	nursing education research@@@8760
+narrative_medicine	leishmania major@@@1577	leaf
+polymorphism_,_restriction_fragment_length	preexisting condition coverage@@@1908	leaf
+child_language	child reactive disorders@@@3469	leaf
+midline_thalamic_nuclei	root	leaf
+period_circadian_proteins	intraoperative complications@@@7668	blood loss , surgical@@@5234
+language_arts	language@@@2168	leaf
+miller_fisher_syndrome	nursing research@@@5821	nursing education research@@@8760
+carrier_state	leishmania major@@@1577	leaf
+nitrogen_compounds	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+egg_proteins_,_dietary	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+delivery_rooms	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+contraception	leishmania major@@@1577	leaf
+aneurysm	nursing research@@@5821	nursing education research@@@8760
+sequence_deletion	appendix@@@2707	leaf
+death_domain_superfamily	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+dental_marginal_adaptation	root	leaf
+dental_instruments	biomedical or dental material@@@4481	leaf
+computed_tomography_angiography	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+international_classification_of_functioning_,_disability_and_health	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+nursing_assessment	health care activity@@@1023	leaf
+limited_english_proficiency	visually impaired persons@@@3791	leaf
+elbow_joint	root	leaf
+hypothalamus_,_middle	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+collection	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+absorption_,_radiation	pharmacological phenomena@@@4167	leaf
+osteoporosis	spinal cord ventral horn@@@213	anterior horn cells@@@1532
+abortion_applicants	internal medicine@@@8756	sleep medicine specialty@@@6653
+microscopy_,_scanning_probe	electron microscope tomography@@@3659	leaf
+disease_models_,_animal	ventricular outflow obstruction@@@5785	aortic valve stenosis@@@2028
+seasons	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+hospital_bed_capacity_,_100_to_299	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+burn_units	cardiac care facilities@@@1653	leaf
+students_,_nursing	tertiary healthcare@@@1537	leaf
+glasgow_coma_scale	pubmed@@@1430	leaf
+popular_work	cranial nerve diseases@@@4347	cranial nerve injuries@@@9277
+medicare_part_b	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+exercise_therapy	therapeutic or preventive procedure@@@1975	leaf
+ireland	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+thymic_factor_,_circulating	ventricular outflow obstruction@@@5785	pulmonary valve stenosis@@@4797
+secretory_vesicles	root	leaf
+lung_diseases_,_parasitic	nursing research@@@5821	nursing education research@@@8760
+receptors_,_thyroid_hormone	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+axillary_artery	root	leaf
+umbilical_cord	clinical study@@@3909	observational study , veterinary@@@1915
+cadmium_compounds	root	leaf
+leishmania_major	leishmania major@@@1577	leaf
+headache_disorders_,_primary	guided tissue regeneration@@@7306	guided tissue regeneration , periodontal@@@8918
+surgical_clearance	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+focal_infection	leishmania major@@@1577	leaf
+milk_banks	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+hematopoietic_stem_cell_mobilization	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+veins	nursing research@@@5821	nursing education research@@@8760
+corneal_perforation	preexisting condition coverage@@@1908	leaf
+silicon_dioxide	root	leaf
+legislation_,_food	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+sleep_stages	pubmed@@@1430	leaf
+core_binding_factor_alpha_2_subunit	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+hypertension_,_pulmonary	spinal cord dorsal horn@@@759	posterior horn cells@@@3701
+occupational_health	health care activity@@@1023	leaf
+airway_management	organization and administration@@@6199	leaf
+proportional_hazards_models	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+safety_management	preexisting condition coverage@@@1908	leaf
+fibroblast_growth_factor_8	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+global_health	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+lipid_droplets	nursing research@@@5821	nursing education research@@@8760
+hepatitis_,_animal	molecular sequence data@@@9575	protein sorting signals@@@2849
+manifest_anxiety_scale	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+rna_,_fungal	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+veterans_disability_claims	molecular sequence data@@@9575	regulatory sequences , nucleic acid@@@7878
+preexisting_condition_coverage	preexisting condition coverage@@@1908	leaf
+articulation_disorders	leishmania major@@@1577	leaf
+nadh_dehydrogenase	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+taste_disorders	nursing research@@@5821	nursing education research@@@8760
+abortion_,_legal	root	leaf
+infection_control_,_dental	health care activity@@@1023	leaf
+insurance_,_nursing_services	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+genes_,_bacterial	intraoperative complications@@@7668	blood loss , surgical@@@5234
+expert_systems	ventricular outflow obstruction@@@5785	pulmonary valve stenosis@@@4797
+tears	nursing research@@@5821	nursing education research@@@8760
+work_capacity_evaluation	appendix@@@2707	leaf
+lip_diseases	nursing research@@@5821	nursing education research@@@8760
+anal_canal	appendix@@@2707	leaf
+egg_shell	fully formed anatomical structure@@@8691	leaf
+melanoma	root	leaf
+educational_activity	personality development@@@6056	leaf
+management_information_systems	genital diseases , male@@@7573	tuberculosis , male genital@@@9562
+biomedical_enhancement	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+physical_and_rehabilitation_medicine	leishmania major@@@1577	leaf
+logical_observation_identifiers_names_and_codes	appendix@@@2707	leaf
+cold_injury	leishmania major@@@1577	leaf
+identity_crisis	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+group_practice_,_dental	ferm domains@@@164	leaf
+fresh_water	nursing research@@@5821	nursing education research@@@8760
+manual_lymphatic_drainage	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+dilatation_,_pathologic	preexisting condition coverage@@@1908	leaf
+cell_fusion	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+public_housing	visually impaired persons@@@3791	leaf
+glia_maturation_factor	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+paternal_age	family characteristics@@@718	leaf
+ventral_striatum	root	leaf
+models_,_immunological	appendix@@@2707	leaf
+gaba_agonists	nursing research@@@5821	nursing education research@@@8760
+femoral_artery	root	leaf
+blood_sedimentation	erythrocyte transfusion@@@2335	leaf
+brain_tissue_transplantation	intraoperative complications@@@7668	blood loss , surgical@@@5234
+chromosomes_,_human_,_y	root	leaf
+smoking_cessation	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+state_health_planning_and_development_agencies	intraoperative complications@@@7668	blood loss , surgical@@@5234
+isotopes	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+fetal_resorption	leishmania major@@@1577	leaf
+greek_world	ferm domains@@@164	leaf
+forms_and_records_control	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+data_collection	appendix@@@2707	leaf
+artificial_lens_implant_migration	nursing research@@@5821	nursing education research@@@8760
+religion_and_science	leishmania major@@@1577	leaf
+violence	preexisting condition coverage@@@1908	leaf
+air_bags	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+child_guidance	ferm domains@@@164	leaf
+prostatic_diseases	nursing research@@@5821	nursing education research@@@8760
+central_nervous_system_bacterial_infections	nursing research@@@5821	nursing education research@@@8760
+lighting	preexisting condition coverage@@@1908	leaf
+chemical_engineering	tertiary healthcare@@@1537	leaf
+electrophoresis_,_cellulose_acetate	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+mitosis_modulators	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+immunoglobulin_domains	pubmed@@@1430	leaf
+meat_proteins	intraoperative complications@@@7668	intraoperative awareness@@@4720
+rupture_,_spontaneous	root	leaf
+heavy_metal_poisoning	leishmania major@@@1577	leaf
+prion_diseases	nursing research@@@5821	nursing education research@@@8760
+adult_survivors_of_child_abuse	child reactive disorders@@@3469	leaf
+touch_perception	preexisting condition coverage@@@1908	leaf
+probability_learning	appendix@@@2707	leaf
+retinal_degeneration	nursing research@@@5821	nursing education research@@@8760
+random_allocation	root	leaf
+kidney_cortex_necrosis	nursing research@@@5821	nursing education research@@@8760
+diagnostic_techniques_,_neurological	leishmania major@@@1577	leaf
+radiotherapy_dosage	leishmania major@@@1577	leaf
+sodium_acetate	nursing research@@@5821	nursing education research@@@8760
+international_system_of_units	root	leaf
+muscle_fibers_,_skeletal	root	leaf
+microtubule_proteins	intraoperative complications@@@7668	blood loss , surgical@@@5234
+organ_preservation_solutions	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+fibrin_clot_lysis_time	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+neurological_rehabilitation	molecular sequence data@@@9575	amino acid sequence@@@8825
+sensation_disorders	leishmania major@@@1577	leaf
+bodily_secretions	appendix@@@2707	leaf
+hospitals_,_pediatric	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+lipid_accumulation_product	root	leaf
+united_states_government_agencies	intraoperative complications@@@7668	blood loss , surgical@@@5234
+litter_size	blood chemical analysis@@@4865	blood gas analysis@@@3935
+lecture	appendix@@@2707	leaf
+solute_carrier_family_22_member_5	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+prenatal_injuries	root	leaf
+mathematical_computing	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+orthopedic_procedures	molecular sequence data@@@9575	amino acid sequence@@@8825
+animal_fur	root	leaf
+religion_and_medicine	religion and medicine@@@3155	leaf
+sand	leishmania major@@@1577	leaf
+bacillus_subtilis	intraoperative complications@@@7668	blood loss , surgical@@@5234
+metals_,_light	pubmed@@@1430	leaf
+temporal_bone	root	leaf
+handling_,_psychological	root	leaf
+eye_infections_,_parasitic	leishmania major@@@1577	leaf
+relative_biological_effectiveness	root	leaf
+confidence_intervals	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+fees_,_medical	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+radiation_hybrid_mapping	root	leaf
+mediterranean_islands	intraoperative complications@@@7668	blood loss , surgical@@@5234
+spiral_ganglion	nursing research@@@5821	nursing education research@@@8760
+rna_splice_sites	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+rats_,_inbred_wf	intraoperative complications@@@7668	blood loss , surgical@@@5234
+electrophoresis_,_paper	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+multiple_system_atrophy	nursing research@@@5821	nursing education research@@@8760
+logistic_models	root	leaf
+drug_administration_schedule	cranial nerve diseases@@@4347	cranial nerve neoplasms@@@9574
+classical_article	appendix@@@2707	leaf
+abdominal_cavity	appendix@@@2707	leaf
+quartz	root	leaf
+stromal_interaction_molecule_2	wnt signaling pathway@@@8980	leaf
+hydrophobic_and_hydrophilic_interactions	root	leaf
+type_d_personality	leishmania major@@@1577	leaf
+healthy_lifestyle	ferm domains@@@164	leaf
+antibodies_,_immobilized	root	leaf
+sugar_alcohols	root	leaf
+lipid_metabolism_disorders	spinal cord ventral horn@@@213	anterior horn cells@@@1532
+drug_resistance_,_bacterial	leishmania major@@@1577	leaf
+geographic_area	intraoperative complications@@@7668	blood loss , surgical@@@5234
+renal_blood_flow_,_effective	nursing research@@@5821	nursing education research@@@8760
+child_reactive_disorders	intraoperative complications@@@7668	blood loss , surgical@@@5234
+asian_continental_ancestry_group	intraoperative complications@@@7668	blood loss , surgical@@@5234
+radiation_oncology	leishmania major@@@1577	leaf
+personnel_management	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+cerebral_arterial_diseases	nursing research@@@5821	nursing education research@@@8760
+pseudomonas_vaccines	leishmania major@@@1577	leaf
+intensive_care_units	cardiac care facilities@@@1653	leaf
+kidney_tubules_,_collecting	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+thermal_diffusion	preexisting condition coverage@@@1908	leaf
+combined_modality_therapy	ventricular outflow obstruction@@@5785	pulmonary valve stenosis@@@4797
+urbanization	interpersonal relations@@@5842	leaf
+job_description	ferm domains@@@164	leaf
+erythrocyte_indices	nursing research@@@5821	nursing education research@@@8760
+strategic_planning	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+chlorine_compounds	root	leaf
+poultry	cellular reprogramming techniques@@@9541	nuclear transfer techniques@@@2462
+judgment	preexisting condition coverage@@@1908	leaf
+liver_regeneration	pathologic processes@@@5217	leaf
+oxytocin	root	leaf
+carcinoma_,_ductal	root	leaf
+antigens_,_differentiation	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+hemodialysis_units_,_hospital	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+atp_binding_cassette_transporter_,_subfamily_b_,_member_3	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+nuclease_protection_assays	root	leaf
+hepatitis_b_core_antigens	hepatitis b core antigens@@@3720	leaf
+factor_ix	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+uterine_cervical_dysplasia	leishmania major@@@1577	leaf
+quality_assurance_,_health_care	health care activity@@@1023	leaf
+cell_adhesion_molecules_,_neuronal	ventricular outflow obstruction@@@5785	pulmonary valve stenosis@@@4797
+ion_channels	wnt signaling pathway@@@8980	leaf
+purchasing_,_hospital	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+membranes_,_artificial	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+recombination_,_genetic	leishmania major@@@1577	leaf
+skull	root	leaf
+pulmonary_ventilation	root	leaf
+anatomical_abnormality	nursing research@@@5821	nursing education research@@@8760
+hospitals_,_general	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+legislation_,_hospital	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+cyclic_imp	root	leaf
+creatine_kinase_,_bb_form	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+abbreviations	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+viral_envelope_proteins	intraoperative complications@@@7668	blood loss , surgical@@@5234
+gene_dosage	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+nursing_service_,_hospital	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+protective_clothing	intraoperative complications@@@7668	blood loss , surgical@@@5234
+dental_casting_technique	leishmania major@@@1577	leaf
+ethics_,_professional	ferm domains@@@164	leaf
+dna_replication_timing	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+glycogen_storage_disease_type_iv	root	leaf
+metals_,_alkali	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+postoperative_complications	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+brain_injuries_,_traumatic	leishmania major@@@1577	leaf
+community_participation	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+handbook	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+gene_pool	appendix@@@2707	leaf
+hospital_departments	genetic techniques@@@8450	random amplified polymorphic dna technique@@@7048
+fast_foods	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+historical_article	leishmania major@@@1577	leaf
+orthodontic_wires	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+directed_molecular_evolution	preexisting condition coverage@@@1908	leaf
+gc_rich_sequence	root	leaf
+fluorescent_antibody_technique_,_direct	root	leaf
+coup_transcription_factors	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+liposomes	root	leaf
+genes_,_chloroplast	intraoperative complications@@@7668	blood loss , surgical@@@5234
+blood_pressure_monitoring_,_ambulatory	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+plant_proteins_,_dietary	intraoperative complications@@@7668	blood loss , surgical@@@5234
+adrenal_glands	nursing research@@@5821	nursing education research@@@8760
+reference_standards	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+bone_matrix	root	leaf
+endothelial_progenitor_cells	nursing research@@@5821	nursing education research@@@8760
+copper	root	leaf
+freedom	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+body_fluid_compartments	nursing research@@@5821	nursing education research@@@8760
+foundations	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+child_welfare	intraoperative complications@@@7668	blood loss , surgical@@@5234
+brain_diseases	nursing research@@@5821	nursing education research@@@8760
+lakes	intraoperative complications@@@7668	blood loss , surgical@@@5234
+clay	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+dental_prosthesis_design	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+anatomy_,_veterinary	appendix@@@2707	leaf
+cranial_nerve_diseases	nursing research@@@5821	nursing education research@@@8760
+intercellular_signaling_peptides_and_proteins	intraoperative complications@@@7668	blood loss , surgical@@@5234
+hospitals_,_urban	intraoperative complications@@@7668	blood loss , surgical@@@5234
+retirement	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+dynamic_light_scattering	root	leaf
+sleep_hygiene	ferm domains@@@164	leaf
+nanostructures	pubmed@@@1430	leaf
+sclerosis	leishmania major@@@1577	leaf
+ureter	nursing research@@@5821	nursing education research@@@8760
+hypertension_,_portal	nursing research@@@5821	nursing education research@@@8760
+ethics_committees	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+atp_binding_cassette_transporter_,_subfamily_g_,_member_2	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+neonatal_brachial_plexus_palsy	leishmania major@@@1577	leaf
+single_person	visually impaired persons@@@3791	leaf
+psychology	intraoperative complications@@@7668	blood loss , surgical@@@5234
+income	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+hereditary_sensory_and_motor_neuropathy	leishmania major@@@1577	leaf
+food_safety	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+ultrasonic_waves	root	leaf
+dental_records	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+receptors_,_angiotensin	nursing research@@@5821	nursing education research@@@8760
+fluorescent_dyes	root	leaf
+patient_discharge	appendix@@@2707	leaf
+leukocyte_reduction_procedures	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+islands	pregnancy complications@@@8651	prenatal exposure delayed effects@@@8919
+house_calls	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+problem_solving	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+thyroid_nuclear_factor_1	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+public_policy	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+shoulder_joint	root	leaf
+occupational_health_nursing	health care activity@@@1023	leaf
+patient_care_team	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+historical_geographic_locations	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+lewis_acids	root	leaf
+cytoskeleton	intraoperative complications@@@7668	blood loss , surgical@@@5234
+central_nervous_system_fungal_infections	nursing research@@@5821	nursing education research@@@8760
+tumor_escape	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+chlorophyll_a	root	leaf
+fish_proteins_,_dietary	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+sodium_bicarbonate	root	leaf
+pain_threshold	root	leaf
+nerve_regeneration	wnt signaling pathway@@@8980	leaf
+forensic_toxicology	pharmacology@@@3382	leaf
+conservative_treatment	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+reagent_strips	root	leaf
+death_effector_domain	root	leaf
+skin_ulcer	skin diseases@@@5380	leaf
+paralysis	leishmania major@@@1577	leaf
+gallbladder	root	leaf
+fat_body	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+water_pollution_,_chemical	pubmed@@@1430	leaf
+lactation	pregnancy proteins@@@6320	leaf
+ultrasonic_surgical_procedures	leishmania major@@@1577	leaf
+ribosome_subunits_,_large_,_bacterial	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+muscle_strength	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+carcinoma_,_squamous_cell	nursing research@@@5821	nursing education research@@@8760
+organ_dysfunction_scores	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+abdominal_fat	appendix@@@2707	leaf
+eye_infections_,_viral	leishmania major@@@1577	leaf
+dental_clinics	cell growth processes@@@7357	asymmetric cell division@@@6978
+amino_acid_transport_systems_,_basic	amino acid transport systems , basic@@@5079	leaf
+musculoskeletal_physiological_phenomena	appendix@@@2707	leaf
+emergence_delirium	leishmania major@@@1577	leaf
+device_approval	leishmania major@@@1577	leaf
+western_australia	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+hematologic_tests	clinical enzyme tests@@@396	leaf
+receptors_,_tumor_necrosis_factor	nursing research@@@5821	nursing education research@@@8760
+brain_edema	nursing research@@@5821	nursing education research@@@8760
+occipital_lobe	root	leaf
+travel	intraoperative complications@@@7668	blood loss , surgical@@@5234
+sudden_infant_death	leishmania major@@@1577	leaf
+stem_cells	nursing research@@@5821	nursing education research@@@8760
+intracellular_membranes	organelles@@@748	leaf
+fatty_acid_transport_proteins	intraoperative complications@@@7668	blood loss , surgical@@@5234
+gray_literature	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+drug_industry	leishmania major@@@1577	leaf
+rectal_fistula	appendix@@@2707	leaf
+online_systems	information management@@@169	leaf
+membrane_potential_,_mitochondrial	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+protective_devices	nursing research@@@5821	nursing education research@@@8760
+data_systems	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+intention_to_treat_analysis	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+genes_,_synthetic	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+live_birth	child reactive disorders@@@3469	leaf
+counseling	interpersonal psychotherapy@@@8985	leaf
+united_states_department_of_veterans_affairs	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+rna_,_mitochondrial	abdominal wound closure techniques@@@8043	open abdomen techniques@@@3589
+pain_,_intractable	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+disability_evaluation	root	leaf
+pleural_cavity	root	leaf
+sex_work	intraoperative complications@@@7668	blood loss , surgical@@@5234
+data_mining	information management@@@169	leaf
+acoustic_impedance_tests	root	leaf
+receptors_,_estradiol	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+epithelial_cells	root	leaf
+drugs_,_chinese_herbal	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+olfactory_pathways	wnt signaling pathway@@@8980	leaf
+biologic_function	spinal cord ventral horn@@@213	anterior horn cells@@@1532
+cardiac_surgical_procedures	membrane transport proteins@@@8280	fatty acid transport proteins@@@5216
+psychological_tests	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+family_separation	interpersonal relations@@@5842	leaf
+books	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+absorption	root	leaf
+rectal_diseases	nursing research@@@5821	nursing education research@@@8760
+nuclear_envelope	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+eating	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+serum_sickness	ventricular outflow obstruction@@@5785	pulmonary valve stenosis@@@4797
+names	intraoperative complications@@@7668	blood loss , surgical@@@5234
+food_,_preserved	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+antisense_elements_(_genetics_)	gene components@@@6318	leaf
+neurotoxicity_syndromes	leishmania major@@@1577	leaf
+mental_healing	leishmania major@@@1577	leaf
+reality_testing	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+human_growth_hormone	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+hiv_long_terminal_repeat	root	leaf
+cataract_extraction	root	leaf
+beer	intraoperative complications@@@7668	blood loss , surgical@@@5234
+patient_positioning	root	leaf
+united_states_public_health_service	intraoperative complications@@@7668	blood loss , surgical@@@5234
+rehabilitation_centers	intraoperative complications@@@7668	blood loss , surgical@@@5234
+neuromuscular_blocking_agents	root	leaf
+ribosome_subunits_,_small_,_bacterial	intraoperative complications@@@7668	blood loss , surgical@@@5234
+fluorescence	root	leaf
+leukemia_,_myeloid_,_acute	leishmania major@@@1577	leaf
+exosomes	nursing research@@@5821	nursing education research@@@8760
+genome_,_plant	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+science_in_the_arts	leishmania major@@@1577	leaf
+vomiting	appendix@@@2707	leaf
+periodic_acid	chemical viewed structurally@@@1504	leaf
+subcutaneous_absorption	root	leaf
+angiotensin_ii_type_1_receptor_blockers	root	leaf
+hardness	fungal structures@@@3026	leaf
+infarction_,_posterior_cerebral_artery	leishmania major@@@1577	leaf
+neck_injuries	appendix@@@2707	leaf
+wounds_,_penetrating	wounds and injuries@@@3991	leaf
+lymphocyte_antigen_96	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+maximum_allowable_concentration	root	leaf
+transplant_recipients	intraoperative complications@@@7668	blood loss , surgical@@@5234
+association_learning	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+bayes_theorem	leishmania major@@@1577	leaf
+essay	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+anxiety_,_separation	interpersonal relations@@@5842	leaf
+health_planning_guidelines	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+estrogen_receptor_alpha	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+outline	appendix@@@2707	leaf
+dermatitis_,_occupational	leishmania major@@@1577	leaf
+disease_eradication	leishmania major@@@1577	leaf
+hot_melt_extrusion_technology	root	leaf
+rural_health	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+transplantation_,_autologous	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+forensic_pathology	leishmania major@@@1577	leaf
+united_states_department_of_agriculture	intraoperative complications@@@7668	blood loss , surgical@@@5234
+noise_,_occupational	ferm domains@@@164	leaf
+elasticity_imaging_techniques	root	leaf
+actin_cytoskeleton	intraoperative complications@@@7668	blood loss , surgical@@@5234
+nursing_services	organization and administration@@@6199	leaf
+aortic_arch_syndromes	nursing research@@@5821	nursing education research@@@8760
+protein_degradation_end_products	nursing research@@@5821	nursing education research@@@8760
+social_behavior	root	leaf
+lateral_thalamic_nuclei	root	leaf
+dual_use_research	ferm domains@@@164	leaf
+workplace_violence	interpersonal relations@@@5842	leaf
+observational_study	appendix@@@2707	leaf
+mentally_disabled_persons	intraoperative complications@@@7668	blood loss , surgical@@@5234
+surrogate_mothers	intraoperative complications@@@7668	blood loss , surgical@@@5234
+patient_transfer	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+hydrogen_bonding	root	leaf
+pregnancy_proteins	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+dental_plaque	nursing research@@@5821	nursing education research@@@8760
+radiography_,_dental_,_digital	root	leaf
+pair_bond	intraoperative complications@@@7668	blood loss , surgical@@@5234
+tomography_,_optical	root	leaf
+tobacco_smoking	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+salt_stress	root	leaf
+epidemiology	leishmania major@@@1577	leaf
+sentinel_surveillance	appendix@@@2707	leaf
+observer_variation	preexisting condition coverage@@@1908	leaf
+epileptic_syndromes	abdominal wound closure techniques@@@8043	open abdomen techniques@@@3589
+connective_tissue_cells	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+biologically_active_substance	biologically active substance@@@6464	leaf
+nucleotides_,_cyclic	root	leaf
+ectopic_gene_expression	root	leaf
+tissue_engineering	tertiary lymphoid structures@@@1114	leaf
+meningitis_,_pneumococcal	leishmania major@@@1577	leaf
+rrna_operon	intraoperative complications@@@7668	blood loss , surgical@@@5234
+reproductive_rights	ferm domains@@@164	leaf
+nuclear_reactors	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+spindle_apparatus	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+duodenal_obstruction	nursing research@@@5821	nursing education research@@@8760
+kidneys_,_artificial	nursing research@@@5821	nursing education research@@@8760
+behavioral_symptoms	behavioral symptoms@@@6641	leaf
+atp_binding_cassette_transporter_,_subfamily_b_,_member_2	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+parasitic_sensitivity_tests	clinical enzyme tests@@@396	leaf
+pregnancy_complications_,_cardiovascular	pregnancy proteins@@@6320	leaf
+friends	intraoperative complications@@@7668	blood loss , surgical@@@5234
+cell_membrane_structures	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+food_analysis	root	leaf
+multiplex_polymerase_chain_reaction	root	leaf
+s_phase	root	leaf
+pathology_,_oral	leishmania major@@@1577	leaf
+veterinary_drugs	intraoperative complications@@@7668	blood loss , surgical@@@5234
+genes_,_rev	root	leaf
+transition_elements	leishmania major@@@1577	leaf
+retinal_pigment_epithelium	eye proteins@@@6587	leaf
+genetic_fitness	root	leaf
+growth_differentiation_factor_2	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+selenium	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+psychology_,_developmental	ferm domains@@@164	leaf
+erythrocyte_aggregation	root	leaf
+truth_disclosure	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+ovarian_follicle	root	leaf
+facial_asymmetry	acquired abnormality@@@8907	leaf
+biological_monitoring	appendix@@@2707	leaf
+portugal	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+intraocular_lymphoma	nursing research@@@5821	nursing education research@@@8760
+education_,_nursing_,_associate	tertiary healthcare@@@1537	leaf
+nigeria	intraoperative complications@@@7668	blood loss , surgical@@@5234
+complement_factor_d	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+laboratory_infection	leishmania major@@@1577	leaf
+elimination_disorders	diffusion magnetic resonance imaging@@@7784	diffusion tensor imaging@@@4005
+williams_syndrome	leishmania major@@@1577	leaf
+tablets	root	leaf
+medical_savings_accounts	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+recycling	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+brain_neoplasms	nursing research@@@5821	nursing education research@@@8760
+air_filters	preexisting condition coverage@@@1908	leaf
+attitude_to_health	health care activity@@@1023	leaf
+polysaccharides_,_bacterial	biofilms@@@1322	leaf
+fatty_acids	pubmed@@@1430	leaf
+plaque_,_amyloid	nursing research@@@5821	nursing education research@@@8760
+reproductive_isolation	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+gene_expression_regulation	root	leaf
+excitatory_amino_acid_transporter_4	nursing research@@@5821	nursing education research@@@8760
+optical_phenomena	preexisting condition coverage@@@1908	leaf
+heart	nursing research@@@5821	nursing education research@@@8760
+radiation_effects	appendix@@@2707	leaf
+cord_factors	nursing research@@@5821	nursing education research@@@8760
+systems_biology	appendix@@@2707	leaf
+cpg_islands	ferm domains@@@164	leaf
+posture	root	leaf
+thoracic_wall	appendix@@@2707	leaf
+speech_recognition_software	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+type_b_personality	leishmania major@@@1577	leaf
+hypertensive_retinopathy	nursing research@@@5821	nursing education research@@@8760
+atmospheric_pressure	overall@@@2797	leaf
+economics_,_pharmaceutical	tertiary healthcare@@@1537	leaf
+medicare	insurance carriers@@@3581	leaf
+purple_membrane	root	leaf
+base_pairing	amino acids , basic@@@8859	leaf
+protein_corona	root	leaf
+silver_staining	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+wrist_injuries	root	leaf
+raf_kinases	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+epidural_neoplasms	nursing research@@@5821	nursing education research@@@8760
+fish_oils	intraoperative complications@@@7668	blood loss , surgical@@@5234
+postoperative_nausea_and_vomiting	pubmed@@@1430	leaf
+sensory_thresholds	wnt signaling pathway@@@8980	leaf
+operative_time	surgical procedures , operative@@@3154	leaf
+bronchial_neoplasms	nursing research@@@5821	nursing education research@@@8760
+core_binding_factor_alpha_1_subunit	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+apnea	root	leaf
+early_growth_response_protein_1	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+blood_circulation	nursing research@@@5821	nursing education research@@@8760
+reproductive_physiological_phenomena	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+serine_proteinase_inhibitors	angiogenesis inhibitors@@@4524	leaf
+serotonin_antagonists	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+yeast_,_dried	root	leaf
+tissue_extracts	intraoperative complications@@@7668	blood loss , surgical@@@5234
+light_signal_transduction	wnt signaling pathway@@@8980	leaf
+fractional_precipitation	root	leaf
+creatine_kinase_,_mitochondrial_form	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+fatty_liver	nursing research@@@5821	nursing education research@@@8760
+parasitic_diseases_,_animal	nursing research@@@5821	nursing education research@@@8760
+database	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+parental_notification	child reactive disorders@@@3469	leaf
+psychology_,_applied	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+organic_anion_transport_protein_1	root	leaf
+small_business	visually impaired persons@@@3791	leaf
+myocardium	nursing research@@@5821	nursing education research@@@8760
+metabolic_side_effects_of_drugs_and_substances	root	leaf
+pregnancy_,_ovarian	root	leaf
+adrenal_cortex	root	leaf
+israel	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+corneal_stroma	root	leaf
+psychology_,_sports	intraoperative complications@@@7668	blood loss , surgical@@@5234
+fuzzy_logic	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+auditory_threshold	taste perception@@@8831	leaf
+dental_etching	root	leaf
+poverty_areas	leishmania major@@@1577	leaf
+bones_of_upper_extremity	root	leaf
+renal_insufficiency	nursing research@@@5821	nursing education research@@@8760
+library_administration	pubmed@@@1430	leaf
+erythrocyte_count	nursing research@@@5821	nursing education research@@@8760
+acute_disease	spinal cord ventral horn@@@213	anterior horn cells@@@1532
+peer_influence	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+extremities	root	leaf
+drug_combinations	root	leaf
+mars	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+aorta_,_abdominal	nursing research@@@5821	nursing education research@@@8760
+advanced_cardiac_life_support	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+health_facility_administrators	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+splenic_infarction	nursing research@@@5821	nursing education research@@@8760
+adrenal_cortex_diseases	nursing research@@@5821	nursing education research@@@8760
+jordan	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+anemia_,_refractory	nursing research@@@5821	nursing education research@@@8760
+schools_,_pharmacy	intraoperative complications@@@7668	blood loss , surgical@@@5234
+abdomen_,_acute	nursing research@@@5821	nursing education research@@@8760
+carcinoma_,_papillary	leishmania major@@@1577	leaf
+united_states_office_of_national_drug_control_policy	leishmania major@@@1577	leaf
+tool_use_behavior	leishmania major@@@1577	leaf
+capillary_leak_syndrome	nursing research@@@5821	nursing education research@@@8760
+iran	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+maze_procedure	root	leaf
+spores_,_fungal	fungal structures@@@3026	leaf
+embryo_disposition	root	leaf
+tuberculosis_,_pulmonary	nursing research@@@5821	nursing education research@@@8760
+group_structure	interpersonal relations@@@5842	leaf
+insurance_coverage	preexisting condition coverage@@@1908	leaf
+oral_ulcer	leishmania major@@@1577	leaf
+colony_count_,_microbial	root	leaf
+editorial	appendix@@@2707	leaf
+social_values	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+olfactory_perception	school health services@@@504	school mental health services@@@362
+brain_injuries	nursing research@@@5821	nursing education research@@@8760
+dietary_fiber	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+aids_dementia_complex	leishmania major@@@1577	leaf
+biological_transport_,_active	wnt signaling pathway@@@8980	leaf
+college_admission_test	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+polar_bodies	root	leaf
+rats_,_inbred_shr	abdominal wound closure techniques@@@8043	open abdomen techniques@@@3589
+diet_,_healthy	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+pancreatic_fistula	nursing research@@@5821	nursing education research@@@8760
+cerebral_angiography	root	leaf
+form_perception	root	leaf
+orthopedic_surgeons	blood chemical analysis@@@4865	blood protein electrophoresis@@@4722
+dendrites	intraoperative complications@@@7668	blood loss , surgical@@@5234
+physician_payment_review_commission	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+receptor_,_angiotensin_,_type_1	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+receptors_,_artificial	nursing research@@@5821	nursing education research@@@8760
+phagocytosis	leukocytes@@@8748	leaf
+arabia	intraoperative complications@@@7668	blood loss , surgical@@@5234
+virus_shedding	leishmania major@@@1577	leaf
+reproductive_health	blood chemical analysis@@@4865	blood protein electrophoresis@@@4722
+peripheral_nerves	nursing research@@@5821	nursing education research@@@8760
+cerebrospinal_fluid_pressure	nursing research@@@5821	nursing education research@@@8760
+vaccines_,_contraceptive	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+fibroblast_growth_factors	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+manufactured_materials	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+genetic_testing	root	leaf
+milk_,_human	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+electronic_waste	pubmed@@@1430	leaf
+posterior_thalamic_nuclei	root	leaf
+respiratory_aspiration_of_gastric_contents	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+receptors_,_chemokine	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+cholinergic_antagonists	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+prefrontal_cortex	root	leaf
+focal_epithelial_hyperplasia	leishmania major@@@1577	leaf
+skull_base	root	leaf
+iron_carbonyl_compounds	nursing research@@@5821	nursing education research@@@8760
+insurance_,_disability	preexisting condition coverage@@@1908	leaf
+dental_prosthesis_repair	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+chronic_disease	leishmania major@@@1577	leaf
+intelligence	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+health_plan_implementation	cranial nerve diseases@@@4347	cranial nerve neoplasms@@@9574
+peptide_termination_factors	wnt signaling pathway@@@8980	leaf
+organizations	intraoperative complications@@@7668	blood loss , surgical@@@5234
+leukocytes	leukocytes@@@8748	leaf
+reverse_transcriptase_polymerase_chain_reaction	root	leaf
+outpatient_clinics_,_hospital	health services administration@@@9510	leaf
+mycobacterium_tuberculosis	root	leaf
+plasmids	intraoperative complications@@@7668	blood loss , surgical@@@5234
+bone_neoplasms	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+colitis	leishmania major@@@1577	leaf
+computer_graphics	appendix@@@2707	leaf
+alpha_rhythm	root	leaf
+taste_perception	root	leaf
+lymphatic_system	nursing research@@@5821	nursing education research@@@8760
+color	preexisting condition coverage@@@1908	leaf
+in_situ_hybridization_,_fluorescence	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+liver_diseases	spinal cord ventral horn@@@213	anterior horn cells@@@1532
+neoplastic_process	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+accidents_,_home	clinical laboratory techniques@@@9479	blood chemical analysis@@@4865
+health_facility_environment	ventricular outflow obstruction@@@5785	aortic valve stenosis@@@2028
+neoplasm_recurrence_,_local	leishmania major@@@1577	leaf
+mirror_neurons	root	leaf
+insect_viruses	intraoperative complications@@@7668	blood loss , surgical@@@5234
+pain_perception	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+accessory_nerve_injuries	leishmania major@@@1577	leaf
+heat_exhaustion	leishmania major@@@1577	leaf
+antiretroviral_therapy_,_highly_active	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+nuclear_proteins	intraoperative complications@@@7668	blood loss , surgical@@@5234
+fees_,_pharmaceutical	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+pulse_wave_analysis	root	leaf
+vaginal_fistula	nursing research@@@5821	nursing education research@@@8760
+integrated_advanced_information_management_systems	tertiary healthcare@@@1537	leaf
+adaptation_,_psychological	leishmania major@@@1577	leaf
+cerebellar_ataxia	leishmania major@@@1577	leaf
+philosophy_,_medical	organization and administration@@@6199	leaf
+state_medicine	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+dental_caries_activity_tests	dental caries activity tests@@@9131	leaf
+measles_vaccine	leishmania major@@@1577	leaf
+enhanced_recovery_after_surgery	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+maternal_welfare	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+obstetric_labor_,_premature	blood chemical analysis@@@4865	blood protein electrophoresis@@@4722
+protective_factors	preexisting condition coverage@@@1908	leaf
+nuclear_export_signals	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+motor_vehicles	pubmed@@@1430	leaf
+treatment_outcome	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+argentina	intraoperative complications@@@7668	blood loss , surgical@@@5234
+pediatrics	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+forensic_genetics	clinical enzyme tests@@@396	leaf
+activities_of_daily_living	ferm domains@@@164	leaf
+blood_protein_disorders	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+cerebellar_neoplasms	nursing research@@@5821	nursing education research@@@8760
+pulmonary_surfactants	root	leaf
+idea_or_concept	conceptual entity@@@7879	leaf
+lysine	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+tonic_pupil	leishmania major@@@1577	leaf
+resistance_training	root	leaf
+adrenal_cortex_function_tests	united states public health service@@@5743	united states indian health service@@@7974
+adaptor_protein_complex_1	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+pain_management	fetal diseases@@@6149	fetal nutrition disorders@@@8001
+laboratory_procedure	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+platelet_membrane_glycoprotein_iib	root	leaf
+retrospective_studies	ferm domains@@@164	leaf
+pancreas_,_artificial	root	leaf
+paper	neoplasms by site@@@1575	leaf
+femur_head	root	leaf
+hair_cells_,_auditory_,_outer	root	leaf
+wnt_proteins	united states public health service@@@5743	united states substance abuse and mental health services administration@@@5140
+tinnitus	leishmania major@@@1577	leaf
+saliva	root	leaf
+bone_density_conservation_agents	nursing research@@@5821	nursing education research@@@8760
+uterine_rupture	leishmania major@@@1577	leaf
+transition_to_adult_care	cranial nerve injuries@@@9277	optic nerve injuries@@@7911
+animal_proteins_,_dietary	intraoperative complications@@@7668	blood loss , surgical@@@5234
+saccharomyces_cerevisiae_proteins	intraoperative complications@@@7668	blood loss , surgical@@@5234
+soil_microbiology	intraoperative complications@@@7668	blood loss , surgical@@@5234
+prenatal_care	pregnancy proteins@@@6320	leaf
+indole_alkaloids	root	leaf
+community_psychiatry	leishmania major@@@1577	leaf
+salivary_ducts	nursing research@@@5821	nursing education research@@@8760
+adoption	child reactive disorders@@@3469	leaf
+insurance_,_psychiatric	health care activity@@@1023	leaf
+burns_,_electric	burns , chemical@@@8284	leaf
+mutation	ventricular outflow obstruction@@@5785	pulmonary valve stenosis@@@4797
+sugar_acids	intraoperative complications@@@7668	blood loss , surgical@@@5234
+infection_control_practitioners	cranial nerve injuries@@@9277	facial nerve injuries@@@5146
+pregnancy_,_prolonged	root	leaf
+blindness	leishmania major@@@1577	leaf

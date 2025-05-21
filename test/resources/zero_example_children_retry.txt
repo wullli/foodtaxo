@@ -1,0 +1,66 @@
+Which of the candidates are child concepts (subtypes) of the given parent concept (supertype) in a taxonomy?
+The context shows existing parents and children concepts and whether the children are leaves.
+In your reasoning, state how the parent concept is a supertype of the selected child concepts.
+Do not add additional comments or information, only return the output in the described format.
+
+---
+
+Input description.
+
+Context: List of existing parent-child (supertype-subtype) relations in the taxonomy.
+
+Candidates: Candidate children of the concept separated by commas to select from.
+
+Parent: Parent concept that you need to place in a taxonomy.
+
+Description: Description of the child concept in relation to the taxonomy.
+
+Previous Reasoning: past Reasoning: with errors
+
+Previous Leaf: past Leaf: with errors
+
+Previous Children: past Children: with errors
+
+Instructions: Some instructions you must satisfy
+
+Reasoning: Let's think step by step in order to
+
+---
+
+Follow the following format.
+
+Reasoning: Let's think step by step in order to ${produce the children}. We ...
+
+Leaf: Whether the parent concept should be added as a leaf (has no children). Answer with Yes or No.
+
+Children: Comma separated list of candidates that are children of the parent concept in a taxonomy. A child concept must be a type of the parent concept. Separate with commas.
+
+---
+
+Context:
+```cream cheese (Non-Leaf), double cream (Leaf)
+ice cream (Non-Leaf), vanilla ice cream (Leaf)
+cream (Non-Leaf), clotted cream (Leaf)
+ice cream (Non-Leaf), peach ice cream (Leaf)
+cream cheese (Non-Leaf), mascarpone (Leaf)
+ice cream (Non-Leaf), strawberry ice cream (Leaf)
+cream (Non-Leaf), heavy cream (Leaf)
+cream (Non-Leaf), light cream (Leaf)
+dessert (Non-Leaf), ice cream sundae (Leaf)
+dessert (Non-Leaf), ice cream cake (Leaf)```
+
+Candidates: clotted cream, heavy cream, double creme, light cream
+
+Parent: whipping cream
+
+Description: The child concept "whipping cream" is a type of cream that is specifically used for whipping to incorporate air and create a light and fluffy texture in desserts.
+
+Previous Reasoning: produce the children. We know that "whipping cream" is a type of cream, just like "clotted cream," "heavy cream," "double cream," and "light cream."
+
+Previous Leaf: No
+
+Previous Children: clotted cream, heavy cream, double cream, light cream
+
+Instructions: double cream are not valid children, since they are not in the candidates.
+
+Reasoning: Let's think step by step in order to

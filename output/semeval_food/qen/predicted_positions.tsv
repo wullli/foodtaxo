@@ -1,0 +1,149 @@
+Query	Parent	Child
+stinger	cocktail	pseudo leaf
+papaya juice	fruit juice	pseudo leaf
+buffalo wing	dessert	pseudo leaf
+clary sage	herb	pseudo leaf
+cinnamon toast	shortcake	pseudo leaf
+malmsey	red wine	pseudo leaf
+taco sauce	stew	porkholt
+pulque	beverage	pseudo leaf
+chicken soup	soup	pseudo leaf
+chili sauce	sauce	pseudo leaf
+milk	dairy product	pseudo leaf
+emmenthal	swiss cheese	pseudo leaf
+sparkling wine	red wine	pseudo leaf
+sweetening	ingredient	pseudo leaf
+drambuie	liquor	pseudo leaf
+munich beer	beverage	pseudo leaf
+scone	quick bread	pseudo leaf
+brandy	liquor	pseudo leaf
+fried rice	dish	pseudo leaf
+fish cake	dish	pseudo leaf
+fad diet	diet	pseudo leaf
+high protein diet	diet	pseudo leaf
+side dish	meal	pseudo leaf
+biryani	dish	pseudo leaf
+loblolly	bite	pseudo leaf
+neutral spirits	liquor	pseudo leaf
+neapolitan ice cream	ice cream	pseudo leaf
+hotchpotch	meal	pseudo leaf
+cup	meal	pseudo leaf
+beef stroganoff	dish	pseudo leaf
+boston baked beans	dish	pseudo leaf
+bun	starches	pseudo leaf
+hard boiled egg	dish	pseudo leaf
+mulligatawny	soup	pseudo leaf
+black bread	starches	pseudo leaf
+confectionery	sweet	pseudo leaf
+powdered milk	dairy product	pseudo leaf
+bourbon	liquor	pseudo leaf
+cheese	dairy product	pseudo leaf
+moselle	wine	pseudo leaf
+french fries	dish	pseudo leaf
+bread sauce	sauce	blanc
+catsup	condiment	pseudo leaf
+caesar salad	dish	pseudo leaf
+choice morsel	fruit salad	pseudo leaf
+creme brulee	yogurt	pseudo leaf
+pepperoni pizza	pizza	pseudo leaf
+stuffed peppers	dish	pseudo leaf
+sugarplum	hard candy	pseudo leaf
+suds	dairy product	pseudo leaf
+claret	beverage	pseudo leaf
+treacle	syrup	pseudo leaf
+soave	wine	pseudo leaf
+gravy	spread	pseudo leaf
+saute	dish	pseudo leaf
+bordelaise	sauce	pseudo leaf
+bubble and squeak	dish	pseudo leaf
+burgoo	porridge	pseudo leaf
+limpa	sweet roll	pseudo leaf
+macon	dessert	pseudo leaf
+julep	candy	pseudo leaf
+honey crisp	candy	pseudo leaf
+bean dip	dip	pseudo leaf
+sour bread	starches	pseudo leaf
+newburg sauce	spaghetti sauce	pseudo leaf
+cheese souffle	dish	pseudo leaf
+demerara	sugar	pseudo leaf
+barbecue sauce	condiment	pseudo leaf
+tequila	liquor	pseudo leaf
+buttermilk	dairy product	pseudo leaf
+open face sandwich	sandwich	pseudo leaf
+culture medium	ingredient	pseudo leaf
+mixed drink	course	pseudo leaf
+mushy peas	dish	pseudo leaf
+ravigote	sauce	pseudo leaf
+fodder	flour	pseudo leaf
+old fashioned	cocktail	pseudo leaf
+limburger	dairy product	pseudo leaf
+aioli	dressing	pseudo leaf
+parfait	dessert	pseudo leaf
+stock cube	patty	pseudo leaf
+tamale	dessert	pseudo leaf
+salad	cookout	pseudo leaf
+goats' milk	dairy product	pseudo leaf
+puff paste	candy	pseudo leaf
+vitamin b12	b complex vitamin	pseudo leaf
+shrimp newburg	seafood newburg	pseudo leaf
+congou	green tea	pseudo leaf
+vitamin k3	vitamin k	pseudo leaf
+ginger ale	liquor	pseudo leaf
+near beer	beverage	pseudo leaf
+whole wheat flour	flour	pseudo leaf
+flip	dessert	pseudo leaf
+philter	beverage	pseudo leaf
+baked alaska	dessert	pseudo leaf
+chocolate mousse	conserve	pseudo leaf
+spaghetti	dish	pseudo leaf
+barbecued spareribs	dish	pseudo leaf
+whole milk	dairy product	pseudo leaf
+salmi	dish	pseudo leaf
+gazpacho	soup	pseudo leaf
+bulgur	dish	pseudo leaf
+banquet	meal	pseudo leaf
+egg roll	dish	pseudo leaf
+custard	yogurt	pseudo leaf
+horehound	herb	pseudo leaf
+life saver	candy	pseudo leaf
+eau de vie	liquor	pseudo leaf
+tapioca pudding	pudding	pseudo leaf
+marshmallow	kiss	pseudo leaf
+olive	sweet	pseudo leaf
+generic	wine	pseudo leaf
+veal parmesan	dish	pseudo leaf
+frozen dessert	dessert	pseudo leaf
+blood meal	nutriment	pseudo leaf
+chili powder	flavorer	pseudo leaf
+brunch	meal	pseudo leaf
+cocktail sauce	sauce	pseudo leaf
+shrimp butter	spread	pseudo leaf
+cane sugar	sugar	pseudo leaf
+dough	concoction	lekvar
+soya milk	dairy product	pseudo leaf
+proof spirit	herb	pseudo leaf
+marjoram	herb	pseudo leaf
+brew	beverage	pseudo leaf
+tom and jerry	hors d'oeuvre	pseudo leaf
+sack	flour	pseudo leaf
+rosemary	herb	pseudo leaf
+tipsy cake	dessert	pseudo leaf
+stuffed tomato	casserole	pseudo leaf
+juniper berries	candy	pseudo leaf
+light diet	diet	pseudo leaf
+inositol	soft drink	pseudo leaf
+hotdog	beverage	pseudo leaf
+castor sugar	sugar	pseudo leaf
+rhone wine	wine	pseudo leaf
+cheese spread	flavorer	pseudo leaf
+weizenbier	highball	pseudo leaf
+pastis	condiment	pseudo leaf
+whip	meal	pseudo leaf
+horseradish	herb	pseudo leaf
+simnel	starches	pseudo leaf
+water biscuit	quick bread	pseudo leaf
+frankfurter bun	starches	pseudo leaf
+yorkshire pudding	quick bread	pseudo leaf
+saccharin	flavorer	pseudo leaf
+darjeeling	green tea	pseudo leaf
+center	dairy product	pseudo leaf

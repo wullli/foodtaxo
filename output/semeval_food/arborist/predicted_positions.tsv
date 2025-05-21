@@ -1,0 +1,149 @@
+Query	Parent	Child
+stinger	host@@@693	leaf
+papaya_juice	chocolate sauce@@@309	hot fudge sauce@@@694
+buffalo_wing	brandy@@@144	grappa@@@630
+clary_sage	host@@@693	leaf
+cinnamon_toast	sweetening@@@1327	leaf
+malmsey	boiled egg@@@126	chocolate egg@@@301
+taco_sauce	sauce@@@1171	leaf
+pulque	chocolate sauce@@@309	hot fudge sauce@@@694
+chicken_soup	chocolate ice cream@@@304	choc ice@@@300
+chili_sauce	condiment@@@369	leaf
+milk	chocolate sauce@@@309	hot fudge sauce@@@694
+emmenthal	dairy product@@@445	leaf
+sparkling_wine	scone@@@1186	drop scone@@@484
+sweetening	swiss cheese@@@1329	emmenthal@@@506
+drambuie	liqueur@@@788	leaf
+munich_beer	host@@@693	leaf
+scone	host@@@693	leaf
+brandy	chocolate sauce@@@309	hot fudge sauce@@@694
+fried_rice	chocolate ice cream@@@304	choc ice@@@300
+fish_cake	brandy@@@144	grappa@@@630
+fad_diet	chocolate sauce@@@309	hot fudge sauce@@@694
+high_protein_diet	host@@@693	leaf
+side_dish	chocolate sauce@@@309	hot fudge sauce@@@694
+biryani	chocolate ice cream@@@304	choc ice@@@300
+loblolly	gruel@@@644	leaf
+neutral_spirits	host@@@693	leaf
+neapolitan_ice_cream	host@@@693	leaf
+hotchpotch	chocolate sauce@@@309	hot fudge sauce@@@694
+cup	host@@@693	leaf
+beef_stroganoff	brandy@@@144	grappa@@@630
+boston_baked_beans	chocolate ice cream@@@304	choc ice@@@300
+bun	starches@@@1279	leaf
+hard_boiled_egg	chocolate sauce@@@309	hot fudge sauce@@@694
+mulligatawny	chocolate ice cream@@@304	choc ice@@@300
+black_bread	starches@@@1279	leaf
+confectionery	madeira@@@818	malmsey@@@820
+powdered_milk	dairy product@@@445	leaf
+bourbon	chocolate sauce@@@309	hot fudge sauce@@@694
+cheese	host@@@693	leaf
+moselle	chocolate sauce@@@309	hot fudge sauce@@@694
+french_fries	brandy@@@144	grappa@@@630
+bread_sauce	starches@@@1279	leaf
+catsup	sauce@@@1171	leaf
+caesar_salad	brandy@@@144	grappa@@@630
+choice_morsel	chocolate sauce@@@309	hot fudge sauce@@@694
+creme_brulee	dish@@@468	leaf
+pepperoni_pizza	brandy@@@144	armagnac@@@40
+stuffed_peppers	chocolate ice cream@@@304	choc ice@@@300
+sugarplum	swiss cheese@@@1329	emmenthal@@@506
+suds	host@@@693	leaf
+claret	cocktail@@@341	leaf
+treacle	sweetening@@@1327	leaf
+soave	wine@@@1466	leaf
+gravy	chocolate ice cream@@@304	choc ice@@@300
+saute	dish@@@468	leaf
+bordelaise	scone@@@1186	drop scone@@@484
+bubble_and_squeak	chocolate ice cream@@@304	choc ice@@@300
+burgoo	chocolate sauce@@@309	hot fudge sauce@@@694
+limpa	starches@@@1279	leaf
+macon	chocolate sauce@@@309	hot fudge sauce@@@694
+julep	rye bread@@@1145	swedish rye bread@@@1318
+honey_crisp	sweetening@@@1327	leaf
+bean_dip	brandy@@@144	grappa@@@630
+sour_bread	host@@@693	leaf
+newburg_sauce	scone@@@1186	drop scone@@@484
+cheese_souffle	gin@@@605	sloe gin@@@1224
+demerara	sweetening@@@1327	leaf
+barbecue_sauce	sauce@@@1171	leaf
+tequila	chocolate sauce@@@309	hot fudge sauce@@@694
+buttermilk	dairy product@@@445	leaf
+open_face_sandwich	host@@@693	leaf
+culture_medium	host@@@693	leaf
+mixed_drink	chocolate sauce@@@309	hot fudge sauce@@@694
+mushy_peas	chocolate ice cream@@@304	choc ice@@@300
+ravigote	sauce@@@1171	leaf
+fodder	host@@@693	leaf
+old_fashioned	chocolate sauce@@@309	hot fudge sauce@@@694
+limburger	host@@@693	leaf
+aioli	condiment@@@369	leaf
+parfait	dessert@@@456	leaf
+stock_cube	host@@@693	leaf
+tamale	chocolate sauce@@@309	hot fudge sauce@@@694
+salad	dish@@@468	leaf
+goats'_milk	dairy product@@@445	leaf
+puff_paste	starches@@@1279	leaf
+vitamin_b12	chocolate sauce@@@309	hot fudge sauce@@@694
+shrimp_newburg	chocolate ice cream@@@304	choc ice@@@300
+congou	rye bread@@@1145	swedish rye bread@@@1318
+vitamin_k3	chocolate sauce@@@309	hot fudge sauce@@@694
+ginger_ale	beverage@@@92	leaf
+near_beer	chocolate sauce@@@309	hot fudge sauce@@@694
+whole_wheat_flour	chocolate sauce@@@309	hot fudge sauce@@@694
+flip	host@@@693	leaf
+philter	chocolate sauce@@@309	hot fudge sauce@@@694
+baked_alaska	dish@@@468	leaf
+chocolate_mousse	rye bread@@@1145	swedish rye bread@@@1318
+spaghetti	dish@@@468	leaf
+barbecued_spareribs	dish@@@468	leaf
+whole_milk	chocolate sauce@@@309	hot fudge sauce@@@694
+salmi	dish@@@468	leaf
+gazpacho	dish@@@468	leaf
+bulgur	foodstuff@@@559	leaf
+banquet	chocolate ice cream@@@304	choc ice@@@300
+egg_roll	brandy@@@144	grappa@@@630
+custard	dish@@@468	leaf
+horehound	host@@@693	leaf
+life_saver	white wine@@@1461	sauterne@@@1177
+eau_de_vie	liqueur@@@788	leaf
+tapioca_pudding	pudding@@@1087	leaf
+marshmallow	swiss cheese@@@1329	emmenthal@@@506
+olive	chocolate sauce@@@309	hot fudge sauce@@@694
+generic	chocolate sauce@@@309	hot fudge sauce@@@694
+veal_parmesan	dish@@@468	leaf
+frozen_dessert	brandy@@@144	armagnac@@@40
+blood_meal	chocolate sauce@@@309	hot fudge sauce@@@694
+chili_powder	condiment@@@369	leaf
+brunch	chocolate sauce@@@309	hot fudge sauce@@@694
+cocktail_sauce	rye bread@@@1145	swedish rye bread@@@1318
+shrimp_butter	dish@@@468	leaf
+cane_sugar	salad@@@1152	chef's salad@@@266
+dough	starches@@@1279	leaf
+soya_milk	host@@@693	leaf
+proof_spirit	host@@@693	leaf
+marjoram	herb@@@672	leaf
+brew	swiss cheese@@@1329	emmenthal@@@506
+tom_and_jerry	swiss cheese@@@1329	emmenthal@@@506
+sack	chocolate sauce@@@309	hot fudge sauce@@@694
+rosemary	host@@@693	leaf
+tipsy_cake	swiss cheese@@@1329	emmenthal@@@506
+stuffed_tomato	chocolate ice cream@@@304	choc ice@@@300
+juniper_berries	chocolate sauce@@@309	hot fudge sauce@@@694
+light_diet	chocolate sauce@@@309	hot fudge sauce@@@694
+inositol	host@@@693	leaf
+hotdog	white wine@@@1461	sauterne@@@1177
+castor_sugar	sweetening@@@1327	leaf
+rhone_wine	biscuit@@@99	buttermilk biscuit@@@186
+cheese_spread	dairy product@@@445	leaf
+weizenbier	chocolate sauce@@@309	hot fudge sauce@@@694
+pastis	host@@@693	leaf
+whip	host@@@693	leaf
+horseradish	host@@@693	leaf
+simnel	starches@@@1279	leaf
+water_biscuit	brandy@@@144	grappa@@@630
+frankfurter_bun	brandy@@@144	grappa@@@630
+yorkshire_pudding	brandy@@@144	grappa@@@630
+saccharin	swiss cheese@@@1329	emmenthal@@@506
+darjeeling	chocolate sauce@@@309	hot fudge sauce@@@694
+center	chocolate sauce@@@309	hot fudge sauce@@@694

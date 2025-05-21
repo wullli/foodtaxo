@@ -1,0 +1,1 @@
+{"n_train_samples": 20, "n_val_samples": 20, "k_relations": 5, "nli_validation": true, "max_backtracks": 3, "unsupervised": false, "model": "meta-llama/Llama-3.3-70B-Instruct", "quantize": 0, "method": "none"}

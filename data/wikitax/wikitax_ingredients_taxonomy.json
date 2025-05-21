@@ -1,0 +1,1490 @@
+{
+    "0:food": {
+        "1:food product": {
+            "2:cheese": {
+                "3:processed cheese": {
+                    "4:American cheese": {}
+                },
+                "8:pressed cheese": {
+                    "9:Appenzeller cheese": {},
+                    "31:Cotija cheese": {},
+                    "955:Bergk\u00e4se": {
+                        "956:raclette cheese": {}
+                    }
+                },
+                "81:French cheese": {
+                    "82:Philadelphia Cream Cheese": {},
+                    "568:fromage blanc": {}
+                },
+                "86:mould cheese": {
+                    "87:Roquefort cheese": {},
+                    "93:Stilton cheese": {},
+                    "243:blue cheese": {},
+                    "616:gorgonzola": {}
+                },
+                "267:brick cheese": {},
+                "357:cow's-milk cheese": {
+                    "358:cheese curds": {},
+                    "458:cream cheese": {}
+                },
+                "361:cheese spread": {},
+                "449:fresh cheese": {
+                    "450:cottage cheese": {},
+                    "569:fromage frais": {},
+                    "776:mascarpone": {}
+                },
+                "544:farmer cheese": {},
+                "547:mixed milk cheese": {
+                    "548:feta": {}
+                },
+                "653:hard cheese": {},
+                "763:manchego cheese": {},
+                "902:pasta filata": {
+                    "903:pizza cheese": {}
+                },
+                "953:queso blanco": {},
+                "992:whey cheese": {
+                    "993:ricotta salata": {}
+                },
+                "1057:smoked cheese": {}
+            },
+            "25:meat product": {
+                "26:cold cut": {
+                    "27:raw sausage": {
+                        "28:Chinese sausage": {},
+                        "67:Italian sausage": {},
+                        "263:breakfast sausage": {},
+                        "1062:smoked meat": {},
+                        "1069:soppressata": {}
+                    },
+                    "90:Spam": {},
+                    "883:pepperoni": {}
+                },
+                "156:processed meat": {
+                    "157:charcuterie": {
+                        "158:back bacon": {},
+                        "229:black pudding": {},
+                        "266:bresaola": {},
+                        "384:chicken sausage": {},
+                        "434:cooked ham": {},
+                        "597:garlic sausage": {},
+                        "650:ham": {},
+                        "712:kielbasa": {},
+                        "750:liverwurst": {},
+                        "802:mortadella": {},
+                        "845:pancetta": {},
+                        "915:pork belly": {},
+                        "942:prosciutto": {},
+                        "1015:salami": {},
+                        "1056:smoked bacon": {},
+                        "1064:smoked sausage": {},
+                        "1114:summer sausage": {}
+                    }
+                }
+            },
+            "146:starch": {
+                "147:arrowroot": {},
+                "935:potato starch": {},
+                "1131:tapioca": {}
+            },
+            "159:bakery products, pastry, cakes and long-term cakes": {
+                "160:baked good": {
+                    "161:bagel": {},
+                    "262:breadstick": {},
+                    "291:bread roll": {
+                        "292:bun": {},
+                        "663:hoagie roll": {}
+                    },
+                    "308:cake": {},
+                    "362:torta": {
+                        "363:cheesecake": {}
+                    },
+                    "467:crouton": {},
+                    "489:dinner roll": {},
+                    "617:graham cracker crust": {},
+                    "844:pancake": {},
+                    "893:pie crust": {},
+                    "940:pretzel": {},
+                    "1075:sourdough bread": {},
+                    "1204:waffle": {}
+                },
+                "257:bread": {},
+                "943:dietary products": {
+                    "944:protein powder": {}
+                }
+            },
+            "268:brine": {},
+            "269:vegetables and gourds (except potatoes)": {
+                "270:Brassica oleracea": {
+                    "271:broccoflower": {},
+                    "1226:white cabbage": {}
+                }
+            },
+            "293:dairy product": {
+                "294:milk and dairy products": {
+                    "295:cheese and cottage cheese": {
+                        "296:butter": {}
+                    },
+                    "356:cheese": {}
+                },
+                "416:clotted cream": {},
+                "433:condensed milk": {},
+                "495:cream": {
+                    "496:double cream": {},
+                    "739:light cream": {},
+                    "1221:whipped cream": {}
+                },
+                "540:evaporated milk": {},
+                "1122:sweetened condensed milk": {},
+                "1220:whey": {},
+                "1247:yogurt": {}
+            },
+            "498:dried apricot": {},
+            "557:flounder": {},
+            "649:haddock": {},
+            "792:knife cut": {
+                "793:minced meat": {}
+            },
+            "855:block-milk": {
+                "856:pasta": {}
+            },
+            "899:pink salmon": {},
+            "1013:sago": {},
+            "1038:seafood": {},
+            "1052:shrimp": {},
+            "1067:sockeye salmon": {},
+            "1068:sole": {},
+            "1097:steak": {},
+            "1166:tuna": {},
+            "1219:wheat starch": {}
+        },
+        "5:drink": {
+            "6:alcoholic beverage": {
+                "7:Angostura bitters": {},
+                "14:fermented alcoholic beverage": {
+                    "15:wine": {
+                        "16:Burgundy wine": {},
+                        "353:champagne": {},
+                        "509:dry white wine": {},
+                        "510:dry wine": {},
+                        "682:ice wine": {},
+                        "804:muscatel": {},
+                        "927:port wine": {},
+                        "1121:sweet wine": {},
+                        "1200:vermouth": {}
+                    },
+                    "406:cider": {}
+                },
+                "85:Ricard": {},
+                "207:beer": {},
+                "276:alcopop": {
+                    "277:beer": {
+                        "278:brown ale": {},
+                        "478:dark beer": {},
+                        "738:light beer": {},
+                        "928:porter": {},
+                        "947:pumpkin ale": {}
+                    }
+                },
+                "303:butterscotch schnapps": {},
+                "398:cocktail": {
+                    "399:chocolate liqueur": {},
+                    "528:elderflower cordial": {},
+                    "1024:sangria": {}
+                },
+                "480:rum": {
+                    "481:dark rum": {},
+                    "1087:spiced rum": {},
+                    "1231:white rum": {}
+                },
+                "507:vermouth": {
+                    "508:dry vermouth": {},
+                    "1233:white vermouth": {}
+                },
+                "833:orange flower water": {},
+                "868:peach schnapps": {},
+                "882:peppermint schnapps": {},
+                "991:rice wine": {},
+                "1014:sake": {},
+                "1036:schnapps": {},
+                "1106:strawberry schnapps": {},
+                "1140:tequila": {}
+            },
+            "10:spirit drink": {
+                "11:liqueur": {
+                    "12:cream liqueur": {
+                        "13:Baileys Irish Cream": {}
+                    },
+                    "50:Frangelico": {},
+                    "56:herbal liqueur": {
+                        "57:Galliano": {},
+                        "61:Herbsaint": {},
+                        "94:Strega": {},
+                        "132:anisette": {}
+                    },
+                    "58:fruit liqueur": {
+                        "59:Grand Marnier": {},
+                        "89:Southern Comfort": {},
+                        "143:apricot liqueur": {},
+                        "176:banana liqueur": {},
+                        "240:blackberry liqueur": {},
+                        "364:cherry brandy": {},
+                        "785:melon liqueur": {},
+                        "867:peach liqueur": {},
+                        "965:raspberry liqueur": {},
+                        "1161:triple sec": {}
+                    },
+                    "116:nuts liqueur": {
+                        "117:almond liqueur": {},
+                        "1205:walnut liqueur": {}
+                    },
+                    "423:coconut liqueur": {},
+                    "430:coffee liqueur": {},
+                    "669:honey liqueur": {},
+                    "744:lemon liqueur": {
+                        "745:limoncello": {}
+                    },
+                    "779:mead": {},
+                    "1055:sloe gin": {}
+                },
+                "63:liquor": {
+                    "64:grain spirit": {
+                        "65:Irish whiskey": {},
+                        "242:blended whiskey": {},
+                        "1010:rye whiskey": {}
+                    },
+                    "83:wine spirit": {
+                        "84:Pisco": {}
+                    },
+                    "100:flavored liquor": {
+                        "101:absinthe": {}
+                    },
+                    "237:fruit brandy": {
+                        "238:blackberry brandy": {},
+                        "713:kirsch": {},
+                        "864:peach brandy": {}
+                    },
+                    "256:brandy": {},
+                    "431:cognac": {},
+                    "627:pomace brandy": {
+                        "628:grappa": {}
+                    },
+                    "967:raspberry vodka": {},
+                    "1006:rum": {},
+                    "1202:vodka": {}
+                },
+                "80:Pernod": {},
+                "505:jenever": {
+                    "506:dry gin": {},
+                    "601:gin": {}
+                },
+                "832:orange bitters": {},
+                "859:pastis": {}
+            },
+            "118:almond milk": {},
+            "525:warm alcoholic drink": {
+                "526:eggnog": {}
+            },
+            "869:peach vodka": {},
+            "1238:wine": {}
+        },
+        "17:food ingredient": {
+            "18:food additive": {
+                "19:condiment": {
+                    "20:sauce": {
+                        "21:Cheez Whiz": {},
+                        "52:French dressing": {},
+                        "53:French onion dip": {},
+                        "66:Italian dressing": {},
+                        "72:Miracle Whip": {},
+                        "105:aioli": {},
+                        "106:ajvar": {},
+                        "175:banana ketchup": {},
+                        "177:barbecue sauce": {},
+                        "244:blue cheese dressing": {},
+                        "247:blueberry sauce": {},
+                        "248:bolognese sauce": {},
+                        "281:brown sauce": {},
+                        "359:cheese sauce": {},
+                        "392:chili sauce": {},
+                        "404:chutney": {},
+                        "457:cranberry sauce": {},
+                        "477:curry sauce": {},
+                        "534:espagnole sauce": {},
+                        "580:fruit sauce": {},
+                        "596:garlic sauce": {},
+                        "611:gochujang": {},
+                        "630:gravy": {},
+                        "644:guacamole": {},
+                        "654:harissa": {},
+                        "664:hoisin sauce": {},
+                        "665:hollandaise sauce": {},
+                        "668:honey garlic sauce": {},
+                        "671:horseradish": {},
+                        "770:marinade": {},
+                        "796:mint sauce": {},
+                        "801:mole": {},
+                        "805:mushroom gravy": {},
+                        "824:okonomiyaki sauce": {},
+                        "841:oyster sauce": {},
+                        "852:parsley sauce": {},
+                        "857:pasta sauce": {},
+                        "874:peanut sauce": {},
+                        "904:pizza sauce": {},
+                        "908:plum sauce": {},
+                        "961:ranch dressing": {},
+                        "976:relish": {},
+                        "1026:satay sauce": {},
+                        "1082:soy sauce": {},
+                        "1089:spinach dip": {},
+                        "1093:sriracha sauce": {},
+                        "1098:steak sauce": {},
+                        "1118:sweet and sour sauce": {},
+                        "1135:tartar sauce": {},
+                        "1141:teriyaki sauce": {},
+                        "1149:tomato chutney": {},
+                        "1154:tomato sauce": {},
+                        "1179:tzatziki": {},
+                        "1198:verjuice": {},
+                        "1201:vinaigrette": {},
+                        "1203:vodka sauce": {}
+                    },
+                    "73:Molly McButter": {},
+                    "76:spice": {
+                        "77:Old Bay Seasoning": {},
+                        "95:Thai basil": {},
+                        "111:allspice": {},
+                        "131:anise seed": {},
+                        "164:baharat": {},
+                        "180:basil": {},
+                        "182:bay leaf": {},
+                        "185:beau monde seasoning": {},
+                        "217:berbere": {},
+                        "331:cardamom": {},
+                        "348:celery powder": {},
+                        "349:celery salt": {},
+                        "389:chili oil": {},
+                        "390:chili pepper": {},
+                        "391:chili powder": {},
+                        "407:cilantro": {},
+                        "408:cinnamon": {},
+                        "411:cinnamon sugar": {},
+                        "417:clove": {},
+                        "439:coriander seed": {},
+                        "476:curry powder": {},
+                        "499:dried basil": {},
+                        "586:garam masala": {},
+                        "587:garlic": {},
+                        "593:garlic powder": {},
+                        "602:ginger": {},
+                        "612:gomashio": {},
+                        "619:grains of paradise": {},
+                        "686:instant chicken broth": {},
+                        "735:lemon pepper": {},
+                        "760:mahleb": {},
+                        "775:masala": {},
+                        "811:mustard powder": {},
+                        "830:onion powder": {},
+                        "838:oregano": {},
+                        "846:panch phoron": {},
+                        "848:paprika": {},
+                        "880:peppercorn": {},
+                        "949:pumpkin pie spice": {},
+                        "1012:saffron": {},
+                        "1025:sansho pepper": {},
+                        "1044:shallot": {},
+                        "1095:star anise": {},
+                        "1113:sumac": {},
+                        "1124:tabil": {},
+                        "1129:tandoori masala": {},
+                        "1176:turmeric": {},
+                        "1181:vanilla": {},
+                        "1184:vanilla sugar": {},
+                        "1208:wasabi paste": {}
+                    },
+                    "97:Vegeta": {},
+                    "126:anchovy paste": {},
+                    "136:apple cider vinegar": {},
+                    "170:balsamic vinegar": {},
+                    "227:black cumin": {},
+                    "235:vinegar": {
+                        "236:black vinegar": {},
+                        "966:raspberry vinegar": {},
+                        "974:red wine vinegar": {},
+                        "990:rice vinegar": {},
+                        "1234:white wine vinegar": {},
+                        "1239:wine vinegar": {}
+                    },
+                    "254:bouquet garni": {},
+                    "329:caraway seeds": {},
+                    "394:chocolate": {},
+                    "470:cumin seed": {},
+                    "491:distilled vinegar": {},
+                    "605:ginger powder": {},
+                    "636:gremolata": {},
+                    "672:fruit ketchup": {
+                        "673:horseradish root": {},
+                        "808:mustard": {}
+                    },
+                    "679:hummus": {},
+                    "758:mace": {},
+                    "778:mayonnaise": {},
+                    "797:mirin": {},
+                    "798:miso": {},
+                    "815:nutmeg": {},
+                    "850:parsley": {},
+                    "888:pickled capers": {},
+                    "892:pico de gallo": {},
+                    "1002:rosemary": {},
+                    "1004:roux": {},
+                    "1017:salsa": {},
+                    "1018:salt and pepper": {},
+                    "1021:salt substitute": {},
+                    "1039:seasoned rice vinegar": {},
+                    "1112:sugar syrup": {},
+                    "1123:syrup": {},
+                    "1207:wasabi": {},
+                    "1224:white balsamic vinegar": {}
+                },
+                "68:Kitchen Bouquet": {},
+                "166:baker's yeast": {},
+                "208:beeswax": {},
+                "241:bleach": {},
+                "245:blue food coloring": {},
+                "561:food coloring": {},
+                "634:green food coloring": {},
+                "730:lemon essence": {},
+                "748:liquid smoke": {},
+                "1110:flavour enhancer": {
+                    "1111:sugar substitute": {}
+                },
+                "1242:yeast": {}
+            },
+            "22:vegetable": {
+                "23:leaf vegetable": {
+                    "24:Chinese cabbage": {},
+                    "346:celery": {},
+                    "393:chives": {},
+                    "403:choy sum": {},
+                    "464:creamed spinach": {},
+                    "530:endive": {},
+                    "623:grape leaves": {},
+                    "683:lettuce": {
+                        "684:iceberg lettuce": {}
+                    },
+                    "701:kale": {},
+                    "723:leaf lettuce": {},
+                    "957:radicchio": {},
+                    "971:red cabbage": {},
+                    "1088:spinach": {},
+                    "1178:turnip greens": {},
+                    "1210:watercress": {}
+                },
+                "102:fruit vegetable": {
+                    "103:gourd": {
+                        "104:acorn squash": {},
+                        "302:butternut squash": {},
+                        "946:pumpkin": {},
+                        "1115:summer squash": {},
+                        "1248:zucchini": {}
+                    }
+                },
+                "107:sprouting": {
+                    "108:alfalfa sprouts": {}
+                },
+                "148:asparagus": {},
+                "149:avocado": {},
+                "171:root vegetable": {
+                    "172:bamboo shoots": {},
+                    "209:beet": {},
+                    "851:parsley root": {},
+                    "853:parsnip": {},
+                    "958:radish": {},
+                    "1177:turnip": {},
+                    "1229:white radish": {}
+                },
+                "216:bell pepper": {},
+                "224:bitter melon": {},
+                "272:broccoli": {},
+                "273:broccoli sprouts": {},
+                "306:cabbage": {},
+                "324:canned tomato": {},
+                "339:inflorescence vegetable": {
+                    "340:cauliflower": {}
+                },
+                "432:collard greens": {},
+                "468:cucumber": {},
+                "527:eggplant": {},
+                "545:fennel": {},
+                "546:fennel bulb": {},
+                "584:galangal": {},
+                "631:green asparagus": {},
+                "632:green bell pepper": {},
+                "714:kohlrabi": {},
+                "726:leek": {},
+                "772:marrow": {},
+                "784:melon": {},
+                "809:mustard greens": {},
+                "825:okra": {},
+                "828:onion": {},
+                "863:pattypan squash": {},
+                "878:pearl onions": {},
+                "884:pickle": {},
+                "889:pickled cucumber": {},
+                "905:plantain": {},
+                "930:potato": {},
+                "970:red bell pepper": {},
+                "973:red onion": {},
+                "979:rhubarb": {},
+                "1005:rucola": {},
+                "1008:rutabaga": {},
+                "1031:scallion": {},
+                "1120:sweet onion": {},
+                "1209:water chestnut": {},
+                "1246:yellow onion": {}
+            },
+            "96:Thai curry paste": {},
+            "115:almond extract": {},
+            "178:barley": {},
+            "179:barley malt syrup": {},
+            "186:bee pollen": {},
+            "228:black pepper": {},
+            "261:breadfruit": {},
+            "307:cabbage leaf": {},
+            "332:carp": {},
+            "336:cassava": {},
+            "422:coconut": {},
+            "438:cooking apple": {},
+            "472:curing salt": {},
+            "519:eel": {},
+            "520:egg": {},
+            "523:egg white": {},
+            "524:egg yolk": {},
+            "556:fleur de sel": {},
+            "558:flour": {},
+            "592:garlic paste": {},
+            "594:table salt": {
+                "595:garlic salt": {},
+                "716:kosher salt": {}
+            },
+            "613:goose": {},
+            "633:green chili": {},
+            "635:green pepper": {},
+            "647:chili pepper": {
+                "648:habanero": {},
+                "854:pasilla chile": {}
+            },
+            "734:lemon peel": {},
+            "751:lobster": {},
+            "780:meat": {},
+            "783:meat tenderizer": {},
+            "800:molasses": {},
+            "816:nutritional yeast": {},
+            "836:orange peel": {},
+            "872:peanut flour": {},
+            "885:pickle juice": {},
+            "891:pickling salt": {},
+            "907:plum": {},
+            "977:food thickener": {
+                "978:rennet": {}
+            },
+            "1037:sea salt": {},
+            "1081:soy protein isolate": {},
+            "1096:starch": {},
+            "1152:tomato paste": {},
+            "1153:tomato powder": {},
+            "1165:truffle salt": {},
+            "1172:turkey heart": {},
+            "1212:watermelon rind": {},
+            "1216:wheat flakes": {},
+            "1225:white breadcrumbs": {},
+            "1228:white pepper": {},
+            "1243:yeast": {
+                "1244:nutritional yeast": {
+                    "1245:yeast extract": {}
+                }
+            }
+        },
+        "29:edible fats and oils": {
+            "30:Copha": {},
+            "112:shortening": {
+                "113:fat spread": {
+                    "114:almond butter": {},
+                    "414:butter": {
+                        "415:clarified butter": {},
+                        "589:garlic butter": {},
+                        "600:ghee": {},
+                        "1163:truffle butter": {},
+                        "1180:unsalted butter": {}
+                    },
+                    "657:hazelnut butter": {},
+                    "720:lard": {},
+                    "769:margarine": {},
+                    "814:nut butter": {},
+                    "870:peanut butter": {}
+                }
+            },
+            "119:cooking oil": {
+                "120:vegetable oil": {
+                    "121:seed oil": {
+                        "122:almond oil": {},
+                        "325:canola oil": {},
+                        "427:coconut oil": {},
+                        "442:corn oil": {},
+                        "658:hazelnut oil": {},
+                        "699:jojoba oil": {},
+                        "962:rapeseed oil": {},
+                        "1084:soybean oil": {},
+                        "1206:walnut oil": {}
+                    },
+                    "130:anise oil": {},
+                    "145:argan oil": {},
+                    "150:avocado oil": {},
+                    "181:basil oil": {},
+                    "338:castor oil": {},
+                    "409:essential oil": {
+                        "410:cinnamon oil": {},
+                        "418:clove oil": {},
+                        "562:fragrance oil": {},
+                        "591:garlic oil": {},
+                        "721:lavender oil": {},
+                        "743:lime oil": {},
+                        "835:orange oil": {},
+                        "881:peppermint oil": {},
+                        "1003:rosemary oil": {}
+                    },
+                    "539:eucalyptus oil": {},
+                    "733:lemon oil": {},
+                    "827:olive oil": {},
+                    "873:peanut oil": {},
+                    "950:pumpkin seed oil": {},
+                    "1011:safflower oil": {},
+                    "1041:sesame oil": {},
+                    "1116:sunflower oil": {},
+                    "1136:tea tree oil": {},
+                    "1164:truffle oil": {}
+                },
+                "810:mustard oil": {},
+                "842:palm oil": {},
+                "901:pistachio oil": {},
+                "983:rice bran oil": {}
+            },
+            "191:animal fats and oils": {
+                "192:beef fat": {},
+                "374:chicken fat": {},
+                "511:duck fat": {},
+                "615:goose fat": {},
+                "921:pork fat": {},
+                "1128:tallow": {}
+            },
+            "420:cocoa butter": {},
+            "1045:shea butter": {},
+            "1171:turkey fat": {},
+            "1192:vegetable oil": {}
+        },
+        "32:staple food": {
+            "33:bread": {
+                "34:yeast bread": {
+                    "35:Cuban bread": {},
+                    "253:boule": {},
+                    "847:panettone": {}
+                },
+                "49:English muffin": {},
+                "51:French bread": {},
+                "162:white bread": {
+                    "163:baguette": {},
+                    "405:ciabatta": {},
+                    "1023:sandwich bread": {},
+                    "1074:sourdough baguette": {}
+                },
+                "173:sweet bread": {
+                    "174:banana bread": {},
+                    "959:raisin bread": {}
+                },
+                "221:quick bread": {
+                    "222:biscuit": {},
+                    "948:pumpkin bread": {}
+                },
+                "226:black bread": {},
+                "258:bread bowl": {},
+                "279:brown bread": {},
+                "352:challah": {},
+                "354:flatbread": {
+                    "355:chapati": {},
+                    "443:corn tortilla": {},
+                    "1158:tortilla": {}
+                },
+                "444:maize bread": {
+                    "445:cornbread": {}
+                },
+                "574:fruit bread": {},
+                "588:garlic bread": {},
+                "675:bun": {
+                    "676:hot dog bun": {}
+                },
+                "803:multigrain bread": {},
+                "931:potato bread": {},
+                "1147:toast": {},
+                "1236:whole wheat bread": {}
+            },
+            "124:pasta": {
+                "125:alphabet pasta": {},
+                "326:capellini": {},
+                "350:string-like macaroni products": {
+                    "351:cellophane noodles": {}
+                },
+                "492:ditalini": {},
+                "549:fettuccine": {},
+                "583:fusilli": {},
+                "609:gnocchi": {},
+                "747:linguine": {},
+                "757:macaroni": {},
+                "837:orecchiette": {},
+                "858:pastina": {},
+                "879:penne": {},
+                "894:stuffed pasta": {
+                    "895:pierogi": {},
+                    "968:ravioli": {},
+                    "1157:tortellini": {}
+                },
+                "933:potato gnocchi": {},
+                "1085:spaghetti": {},
+                "1090:spinach noodles": {},
+                "1126:egg pasta": {
+                    "1127:tagliolini": {}
+                },
+                "1199:vermicelli": {}
+            },
+            "284:flour": {
+                "285:barley flour": {
+                    "286:buckwheat flour": {},
+                    "1009:rye flour": {},
+                    "1217:wheat flour": {}
+                },
+                "309:cake flour": {},
+                "370:chestnut flour": {},
+                "516:wheat flour": {
+                    "517:durum flour": {}
+                },
+                "532:enriched flour": {},
+                "761:maida flour": {},
+                "762:maize flour": {},
+                "777:matzo meal": {},
+                "818:oat flour": {},
+                "932:potato flour": {},
+                "1079:soy flour": {},
+                "1086:spelt flour": {},
+                "1132:tapioca flour": {}
+            },
+            "287:noodle": {
+                "288:buckwheat noodles": {},
+                "988:rice noodle": {
+                    "989:rice vermicelli": {}
+                },
+                "1048:Japanese noodles": {
+                    "1049:shirataki noodles": {}
+                }
+            },
+            "341:cavatelli": {},
+            "451:couscous": {},
+            "618:grain": {},
+            "621:gram flour": {},
+            "981:rice": {}
+        },
+        "36:non-alcoholic beverage": {
+            "37:soft drink": {
+                "38:diet soda": {
+                    "39:Diet Coke": {},
+                    "488:diet cola": {}
+                },
+                "78:caffeinated soft drink": {
+                    "79:Pepsi": {}
+                },
+                "88:Rose's lime juice": {},
+                "91:citrus soft drink": {
+                    "92:Sprite": {},
+                    "626:grapefruit soda": {}
+                },
+                "330:carbonated water": {},
+                "531:energy drink": {},
+                "603:ginger ale": {},
+                "624:grape soda": {},
+                "703:fermented milk product": {
+                    "704:fermented milk products, other than sour cream and cottage cheese": {
+                        "705:kefir": {},
+                        "1076:soured milk": {}
+                    },
+                    "1073:sour cream": {}
+                },
+                "715:kombucha": {},
+                "741:lime cordial": {},
+                "998:root beer": {},
+                "1156:tonic water": {}
+            },
+            "62:Irish moss": {},
+            "233:tea": {
+                "234:black tea": {},
+                "685:iced tea": {},
+                "691:instant tea": {},
+                "696:jasmine tea": {}
+            },
+            "428:coffee": {},
+            "604:ginger beer": {},
+            "700:juice": {},
+            "788:milk": {},
+            "1001:rose water": {},
+            "1092:squash": {}
+        },
+        "40:parivyaya": {
+            "41:Dijon mustard": {},
+            "60:Grey Poupon": {},
+            "620:grainy mustard": {},
+            "677:mustard": {
+                "678:hot mustard": {}
+            }
+        },
+        "42:dish": {
+            "43:sweet dish": {
+                "44:snack": {
+                    "45:Doritos": {},
+                    "518:edamame": {},
+                    "787:microwave popcorn": {},
+                    "912:popcorn": {},
+                    "941:pretzel sticks": {},
+                    "1042:sev": {},
+                    "1066:snack mix": {},
+                    "1125:taco shell": {},
+                    "1159:trail mix": {}
+                },
+                "69:confection": {
+                    "70:Maltesers": {},
+                    "167:chocolate": {
+                        "168:baking chocolate": {},
+                        "225:bittersweet chocolate": {},
+                        "402:chocolate syrup": {},
+                        "479:dark chocolate": {},
+                        "585:ganache": {},
+                        "789:milk chocolate": {},
+                        "795:mint chocolate": {},
+                        "1227:white chocolate": {}
+                    },
+                    "314:candy": {
+                        "315:candied orange peel": {}
+                    },
+                    "419:cocoa": {},
+                    "437:cookie": {},
+                    "490:dipping chocolate": {},
+                    "667:honey": {},
+                    "694:jam": {},
+                    "774:marzipan": {},
+                    "794:mint": {},
+                    "813:nonpareils": {},
+                    "871:peanut butter cup": {}
+                },
+                "123:almond paste": {},
+                "127:bakers' confection": {
+                    "128:cake": {
+                        "129:angel food cake": {},
+                        "396:chocolate cake": {},
+                        "471:cupcake": {},
+                        "581:fruitcake": {},
+                        "722:layer cake": {},
+                        "937:pound cake": {}
+                    },
+                    "465:croissant": {},
+                    "497:doughnut": {},
+                    "1119:sweet bread": {}
+                },
+                "144:apricot marmalade": {},
+                "311:candied almonds": {},
+                "316:sweetmeat": {
+                    "317:sugar candy": {
+                        "318:candy bar": {},
+                        "319:candy cane": {}
+                    }
+                },
+                "327:chocolate and sugar confectionery": {
+                    "328:caramel": {}
+                },
+                "395:chocolate bar": {},
+                "401:chocolate spread": {},
+                "452:granola bar": {
+                    "453:cracker": {}
+                },
+                "560:fondant": {},
+                "582:fudge": {},
+                "606:Western confection": {
+                    "607:gingerbread": {}
+                },
+                "732:lemon marmalade": {},
+                "767:maple sugar": {},
+                "771:marmalade": {},
+                "773:marshmallow creme": {},
+                "1046:sherbet": {}
+            },
+            "71:Mexican rice": {},
+            "165:baked beans": {},
+            "189:hamburger": {
+                "190:beef burger": {}
+            },
+            "195:meat dish": {
+                "196:beef dish": {
+                    "197:beef jerky": {},
+                    "929:pot roast": {},
+                    "996:roast beef": {}
+                },
+                "342:seafood dish": {
+                    "343:fish dish": {
+                        "344:caviar": {},
+                        "554:fish sauce": {},
+                        "629:gravlax": {},
+                        "702:kamaboko": {},
+                        "756:lox": {},
+                        "890:pickled herring": {},
+                        "972:red caviar": {},
+                        "1043:sevruga caviar": {},
+                        "1059:smoked haddock": {},
+                        "1063:smoked salmon": {},
+                        "1167:tuna salad": {}
+                    },
+                    "413:clam juice": {},
+                    "822:octopus dish": {
+                        "823:octopus": {}
+                    },
+                    "1032:shrimp dish": {
+                        "1033:scampi": {}
+                    },
+                    "1053:shrimp paste": {}
+                },
+                "375:poultry dish": {
+                    "376:chicken feet": {},
+                    "382:chicken dish": {
+                        "383:chicken salad": {},
+                        "385:chicken soup": {},
+                        "564:fried chicken": {},
+                        "1058:smoked chicken": {}
+                    }
+                },
+                "454:pork dish": {
+                    "455:cracklings": {},
+                    "914:pork and beans": {},
+                    "924:pork steak": {},
+                    "1107:suckling pig": {}
+                },
+                "533:escargot": {},
+                "610:goat meat": {},
+                "917:pork chop": {},
+                "918:cutlet": {
+                    "919:breaded cutlet": {
+                        "920:pork cutlet": {}
+                    }
+                }
+            },
+            "333:finger food": {
+                "334:carrot": {},
+                "590:garlic clove": {},
+                "651:sandwich": {
+                    "652:hamburger": {},
+                    "674:hot dog": {},
+                    "1240:wrap": {}
+                }
+            },
+            "466:crostini": {},
+            "521:salad": {
+                "522:egg salad": {},
+                "934:potato salad": {},
+                "1241:yam": {}
+            },
+            "541:falafel": {},
+            "559:foie gras": {},
+            "565:fried rice": {},
+            "637:porridge": {
+                "638:grits": {},
+                "688:mashed potato": {
+                    "689:instant mashed potatoes": {}
+                }
+            },
+            "839:oxtail": {},
+            "910:polenta": {},
+            "945:pudding": {},
+            "995:roast": {},
+            "1007:rump steak": {},
+            "1050:fast food": {
+                "1051:shoestring potatoes": {}
+            },
+            "1072:soup": {},
+            "1101:stock": {},
+            "1170:turkey burgers": {}
+        },
+        "46:food": {
+            "47:food powder": {
+                "48:Dream Whip": {},
+                "169:baking powder": {},
+                "345:cayenne pepper": {},
+                "421:cocoa powder": {},
+                "426:coconut milk powder": {},
+                "690:instant pudding mix": {},
+                "939:powdered sugar": {}
+            },
+            "140:jam": {
+                "141:apricot jam": {},
+                "246:blueberry jam": {},
+                "368:cherry jam": {},
+                "550:fig jam": {},
+                "575:fruit jam": {},
+                "746:lingonberry jam": {},
+                "865:peach jam": {},
+                "896:pineapple jam": {},
+                "963:raspberry jam": {},
+                "1104:strawberry jam": {},
+                "1150:tomato jam": {}
+            },
+            "322:canned fruit": {},
+            "323:canned pineapple": {},
+            "446:corned beef": {},
+            "459:cream soup": {
+                "460:cream of asparagus soup": {},
+                "461:cream of broccoli soup": {},
+                "462:cream of mushroom soup": {},
+                "1155:tomato soup": {}
+            },
+            "641:ground hazelnuts": {},
+            "692:brown sugar": {
+                "693:jaggery": {},
+                "812:natural cane sugar": {}
+            },
+            "698:jelly powder": {},
+            "759:mackerel": {},
+            "799:mixed nuts": {},
+            "886:pickled cucumber": {
+                "887:pickle relish": {}
+            },
+            "906:plantain chips": {},
+            "960:raita": {},
+            "975:refried beans": {},
+            "997:rolled oats": {},
+            "1099:cooked grain": {
+                "1100:steamed rice": {}
+            },
+            "1102:strawberry": {},
+            "1108:suet": {},
+            "1134:tarama": {},
+            "1146:thyme": {},
+            "1182:vanilla extract": {}
+        },
+        "54:soup": {
+            "55:French onion soup": {},
+            "74:chowder": {
+                "75:New England clam chowder": {}
+            },
+            "360:cheese soup": {},
+            "463:cream soup": {},
+            "737:lentil soup": {},
+            "831:onion soup": {}
+        },
+        "98:breakfast cereal": {
+            "99:Weetabix": {},
+            "255:bran flakes": {},
+            "440:corn flakes": {}
+        },
+        "109:meat": {
+            "110:alligator meat": {},
+            "183:game meat": {
+                "184:bear meat": {},
+                "529:elk meat": {},
+                "1196:venison": {},
+                "1197:venison loin": {}
+            },
+            "187:beef": {},
+            "188:beef brisket": {},
+            "198:liver": {
+                "199:beef liver": {},
+                "310:calf liver": {},
+                "719:lamb liver": {},
+                "922:pork liver": {}
+            },
+            "200:beef shank": {},
+            "204:primal cut": {
+                "205:fillet": {
+                    "206:beef tenderloin": {},
+                    "926:pork tenderloin": {},
+                    "1139:tenderloin": {}
+                },
+                "371:chicken breast": {},
+                "551:filet mignon": {},
+                "717:lamb breast": {},
+                "980:ribs": {},
+                "1094:standing rib roast": {}
+            },
+            "223:bison meat": {},
+            "312:confit": {
+                "313:candied fruit": {}
+            },
+            "372:chicken meat": {
+                "373:chicken drumstick": {},
+                "377:chicken leg quarters": {},
+                "378:chicken liver": {},
+                "388:chicken thigh": {}
+            },
+            "379:white meat": {
+                "380:poultry": {
+                    "381:chicken meat": {},
+                    "512:duck liver": {},
+                    "614:goose breast": {},
+                    "840:oyster": {},
+                    "938:poussin": {},
+                    "1091:squab": {},
+                    "1168:turkey bacon": {},
+                    "1169:turkey breast": {},
+                    "1173:turkey leg": {},
+                    "1174:turkey liver": {},
+                    "1175:turkey meat": {}
+                }
+            },
+            "639:minced meat": {
+                "640:ground beef": {},
+                "642:ground pork": {},
+                "643:ground turkey": {},
+                "923:pork mince": {},
+                "1030:sausage meat": {}
+            },
+            "724:lean beef": {},
+            "725:lean meat": {},
+            "727:mutton": {
+                "728:lamb meat": {
+                    "729:leg of lamb": {},
+                    "954:rack of lamb": {}
+                }
+            },
+            "752:lobster meat": {},
+            "782:meat stock": {},
+            "860:pastrami": {},
+            "936:poultry": {},
+            "1016:salmon": {},
+            "1019:salt-cured meat": {
+                "1020:salt pork": {}
+            },
+            "1060:smoked meat": {
+                "1061:smoked ham": {},
+                "1065:smoked turkey": {}
+            },
+            "1185:veal": {},
+            "1186:veal shank": {},
+            "1187:veal shoulder": {}
+        },
+        "133:juice": {
+            "134:fruit juice": {
+                "135:apple cider": {},
+                "137:apple juice": {},
+                "142:apricot juice": {},
+                "369:cherry juice": {},
+                "412:citrus juice": {},
+                "456:cranberry juice": {},
+                "473:currant juice": {},
+                "622:grape juice": {},
+                "731:lemon juice": {},
+                "742:lime juice": {},
+                "764:mandarin orange juice": {},
+                "826:olive juice": {},
+                "866:peach juice": {},
+                "911:pomegranate juice": {},
+                "964:raspberry juice": {},
+                "1105:strawberry juice": {},
+                "1211:watermelon juice": {}
+            },
+            "210:fruit and vegetable juices (OKPD and CPA 2002 15.32.1, 15.32.10": {
+                "211:OKPD2 and CPA 2008 10.32.1)": {
+                    "212:beet juice": {},
+                    "335:carrot juice": {},
+                    "347:celery juice": {},
+                    "469:cucumber juice": {},
+                    "579:fruit juice": {},
+                    "645:guava juice": {},
+                    "766:mango juice": {},
+                    "829:onion juice": {},
+                    "875:pear juice": {},
+                    "1151:tomato juice": {},
+                    "1191:vegetable juice": {}
+                }
+            },
+            "239:blackberry juice": {},
+            "570:frozen concentrated orange juice": {},
+            "625:grapefruit juice": {},
+            "834:orange juice": {},
+            "897:pineapple juice": {},
+            "898:pink grapefruit juice": {},
+            "1029:sauerkraut juice": {},
+            "1130:tangerine juice": {}
+        },
+        "138:dessert": {
+            "139:apple pie": {},
+            "259:pudding": {
+                "260:bread pudding": {},
+                "400:chocolate pudding": {},
+                "1133:tapioca pudding": {}
+            },
+            "365:frozen dessert": {
+                "366:ice cream": {
+                    "367:cherry ice cream": {},
+                    "397:chocolate ice cream": {},
+                    "598:gelato": {},
+                    "680:ice cream": {},
+                    "765:mango ice cream": {},
+                    "900:pistachio ice cream": {},
+                    "1103:strawberry ice cream": {},
+                    "1183:vanilla ice cream": {}
+                },
+                "573:frozen yogurt": {},
+                "736:lemon sorbet": {},
+                "1070:sorbet": {}
+            },
+            "514:dessert with spoon": {
+                "515:dulce de leche": {},
+                "861:custard": {
+                    "862:pastry cream": {}
+                }
+            },
+            "786:meringue": {}
+        },
+        "151:seed": {
+            "152:grain": {
+                "153:baby corn": {},
+                "230:cereal": {
+                    "231:rice": {
+                        "232:black rice": {},
+                        "280:brown rice": {},
+                        "608:glutinous rice": {},
+                        "695:jasmine rice": {},
+                        "754:long grain brown rice": {},
+                        "755:long grain rice": {},
+                        "849:parboiled rice": {},
+                        "909:poha": {},
+                        "994:risotto rice": {},
+                        "1230:white rice": {},
+                        "1237:wild rice": {}
+                    },
+                    "289:wheat": {
+                        "290:bulgur": {}
+                    },
+                    "447:grist": {
+                        "448:cornmeal": {}
+                    },
+                    "790:millet": {},
+                    "791:millet flour": {},
+                    "817:oat bran": {},
+                    "821:oats": {},
+                    "876:barley": {
+                        "877:pearl barley": {}
+                    },
+                    "982:rice bran": {},
+                    "1215:wheat bran": {}
+                },
+                "320:maize": {
+                    "321:canned corn": {}
+                },
+                "542:groat": {
+                    "543:farina": {},
+                    "820:oatmeal": {},
+                    "1040:semolina": {}
+                },
+                "1071:sorghum": {},
+                "1214:wheat": {}
+            },
+            "441:corn kernel": {},
+            "571:bean": {
+                "572:frozen peas": {},
+                "1213:wax bean": {}
+            },
+            "710:common bean": {
+                "711:kidney bean": {}
+            },
+            "913:poppy seed": {},
+            "1137:teff": {}
+        },
+        "154:food substitute": {
+            "155:baby food": {},
+            "297:butter substitute": {},
+            "1077:cheese analogue": {
+                "1078:soy cheese": {},
+                "1148:tofu": {},
+                "1190:vegan cheese": {}
+            },
+            "1138:tempeh": {},
+            "1194:vegetarian bacon": {}
+        },
+        "193:offal": {
+            "194:beef heart": {},
+            "749:liver": {},
+            "1160:tripe": {}
+        },
+        "201:processed food": {
+            "202:convenience food": {
+                "203:beef stock": {},
+                "1022:salted almonds": {},
+                "1193:vegetable stock": {}
+            },
+            "1117:surimi": {}
+        },
+        "213:stimulant foodstuff": {
+            "214:sugar product": {
+                "215:beet sugar": {},
+                "283:brown sugar": {},
+                "337:caster sugar": {},
+                "486:date sugar": {},
+                "599:gelling sugar": {},
+                "843:palm sugar": {},
+                "969:raw sugar": {},
+                "1109:sugar cube": {},
+                "1232:white sugar": {}
+            }
+        },
+        "218:animal feed": {
+            "219:fodder": {
+                "220:bird seed": {},
+                "493:pet food": {
+                    "494:dog food": {}
+                }
+            },
+            "646:guava nectar": {}
+        },
+        "249:drinking water": {
+            "250:bottled water": {},
+            "563:fresh water": {},
+            "681:ice cube": {}
+        },
+        "251:broth": {
+            "252:bouillon": {},
+            "282:brown stock": {},
+            "386:stock": {
+                "387:chicken stock": {},
+                "513:duck stock": {},
+                "553:fish fumet": {},
+                "555:fish stock": {},
+                "753:lobster stock": {},
+                "925:pork stock": {},
+                "1188:veal stock": {}
+            },
+            "485:dashi": {},
+            "718:lamb broth": {},
+            "781:meat broth": {},
+            "916:pork broth": {},
+            "1054:shrimp stock": {}
+        },
+        "264:milk": {
+            "265:breast milk": {},
+            "298:Processed milk. Dairy products and dairy constituents other than cow milk butter, butter paste, cheese, cheese products and milk fat": {
+                "299:fermented milk products, other than sour cream and cottage cheese": {
+                    "300:yogurt": {
+                        "301:buttermilk": {}
+                    }
+                },
+                "1235:whole milk": {}
+            }
+        },
+        "274:first course": {
+            "275:broth": {}
+        },
+        "304:human food": {
+            "305:button mushroom": {},
+            "500:dried mushrooms": {},
+            "566:tofu": {
+                "567:fried tofu": {}
+            },
+            "670:hops": {},
+            "999:edible flower": {
+                "1000:rose petals": {}
+            },
+            "1047:shiitake mushroom": {},
+            "1162:truffle": {}
+        },
+        "424:milk substitute": {
+            "425:coconut milk": {},
+            "429:coffee creamer": {},
+            "659:plant milk": {
+                "660:hemp milk": {},
+                "819:oat milk": {}
+            },
+            "985:rice milk": {}
+        },
+        "435:rice dish": {
+            "436:cooked rice": {},
+            "984:rice cake": {}
+        },
+        "474:topping": {
+            "475:curry": {},
+            "487:dessert topping": {}
+        },
+        "482:soy product": {
+            "483:soy food": {
+                "484:dark soy sauce": {},
+                "740:light soy sauce": {},
+                "1083:soy yogurt": {}
+            },
+            "1080:soy protein": {}
+        },
+        "501:aromatic plant": {
+            "502:dried oregano": {},
+            "552:fines herbes": {}
+        },
+        "503:edible plant": {
+            "504:dried rosemary": {}
+        },
+        "535:caffeinated drink": {
+            "536:coffee drink": {
+                "537:caff\u00e8": {
+                    "538:espresso": {}
+                },
+                "687:instant coffee": {}
+            }
+        },
+        "576:fruit preparation": {
+            "577:fruit preserves": {
+                "578:fruit jelly": {},
+                "697:jelly": {}
+            },
+            "768:maraschino cherry": {}
+        },
+        "655:potato dish": {
+            "656:hash browns": {},
+            "666:home fries": {}
+        },
+        "661:hot beverage": {
+            "662:herbal tea": {}
+        },
+        "706:vegetable dish": {
+            "707:tomato dish": {
+                "708:tomato sauce": {
+                    "709:ketchup": {}
+                }
+            },
+            "806:mushroom dish": {
+                "807:mushroom soup": {}
+            }
+        },
+        "951:egg": {
+            "952:quail eggs": {}
+        },
+        "986:edible paper": {
+            "987:rice paper": {}
+        },
+        "1027:side dish": {
+            "1028:sauerkraut": {}
+        },
+        "1034:spread": {
+            "1035:schmaltz": {}
+        },
+        "1142:diet": {
+            "1143:plant-based diet": {
+                "1144:plant-based meat analogue": {
+                    "1145:textured vegetable protein": {},
+                    "1189:vegan burger": {},
+                    "1195:veggie burger": {},
+                    "1218:wheat gluten": {}
+                }
+            }
+        },
+        "1222:asparagus": {
+            "1223:white asparagus": {}
+        }
+    }
+}

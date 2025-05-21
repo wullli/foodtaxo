@@ -1,0 +1,95 @@
+Query	Parent	Child
+pickled_capers	okpd2 and cpa 2008 10321@@@883	leaf
+veal_shoulder	okpd2 and cpa 2008 10321@@@883	leaf
+gin	alcoholic beverage@@@476	leaf
+dark_soy_sauce	french cheese@@@222	philadelphia cream cheese@@@491
+curry_powder	food ingredient@@@154	leaf
+hemp_milk	okpd2 and cpa 2008 10321@@@883	leaf
+sea_salt	food ingredient@@@154	leaf
+olive_juice	alcoholic beverage@@@476	leaf
+pepperoni	cheese@@@258	leaf
+frozen_dessert	food ingredient@@@154	mayonnaise@@@713
+stimulant_foodstuff	chicken meat@@@166	chicken drumstick@@@24
+palm_sugar	chicken meat@@@166	chicken drumstick@@@24
+suet	french cheese@@@222	philadelphia cream cheese@@@491
+tagliolini	dish@@@325	leaf
+fermented_milk_products_other_than_sour_cream_and_cottage_cheese	alcoholic beverage@@@476	leaf
+wheat_flakes	condiment@@@655	leaf
+barley	grain@@@639	leaf
+french_onion_soup	okpd2 and cpa 2008 10321@@@883	leaf
+ground_beef	okpd2 and cpa 2008 10321@@@883	leaf
+coconut_liqueur	alcoholic beverage@@@476	leaf
+lamb_broth	okpd2 and cpa 2008 10321@@@883	leaf
+parsnip	vegetable@@@820	leaf
+shirataki_noodles	chicken meat@@@166	chicken drumstick@@@24
+quail_eggs	chicken meat@@@166	chicken drumstick@@@24
+cucumber_juice	okpd2 and cpa 2008 10321@@@883	leaf
+sesame_oil	okpd2 and cpa 2008 10321@@@883	leaf
+strawberry	chicken meat@@@166	chicken drumstick@@@24
+hamburger	liqueur@@@458	honey liqueur@@@471
+fresh_cheese	okpd2 and cpa 2008 10321@@@883	leaf
+instant_mashed_potatoes	alcoholic beverage@@@476	leaf
+confection	chicken meat@@@166	chicken drumstick@@@24
+rapeseed_oil	okpd2 and cpa 2008 10321@@@883	leaf
+bottled_water	chicken meat@@@166	chicken drumstick@@@24
+offal	french cheese@@@222	philadelphia cream cheese@@@491
+meringue	dessert@@@776	leaf
+mustard	vegetable@@@820	leaf
+marmalade	sweet dish@@@859	leaf
+cornbread	asparagus@@@747	white asparagus@@@567
+turkey_heart	okpd2 and cpa 2008 10321@@@883	leaf
+cracklings	game meat@@@610	leaf
+lean_meat	okpd2 and cpa 2008 10321@@@883	leaf
+salt_pork	dietary products@@@475	leaf
+pork_belly	french cheese@@@222	philadelphia cream cheese@@@491
+dessert_with_spoon	chicken meat@@@166	chicken drumstick@@@24
+ginger_beer	drink@@@569	leaf
+beef_liver	cream soup@@@181	cream of asparagus soup@@@885
+cottage_cheese	food@@@826	leaf
+mixed_nuts	chicken meat@@@166	chicken drumstick@@@24
+home_fries	dish@@@325	leaf
+alfalfa_sprouts	dietary products@@@475	leaf
+layer_cake	chicken meat@@@166	chicken liver@@@604
+grape_leaves	chicken meat@@@166	chicken drumstick@@@24
+rice	french cheese@@@222	philadelphia cream cheese@@@491
+canned_pineapple	okpd2 and cpa 2008 10321@@@883	leaf
+hot_mustard	condiment@@@655	leaf
+double_cream	chicken meat@@@166	chicken drumstick@@@24
+roux	soup@@@810	leaf
+apricot_marmalade	food ingredient@@@154	leaf
+apple_cider	chicken meat@@@166	chicken drumstick@@@24
+grape_soda	cows milk cheese@@@383	cheese curds@@@654
+popcorn	chicken meat@@@166	chicken liver@@@604
+truffle	barley flour@@@607	wheat flour@@@651
+sandwich	brown sugar@@@928	natural cane sugar@@@293
+buckwheat_noodles	chicken meat@@@166	chicken drumstick@@@24
+garam_masala	condiment@@@655	leaf
+bakers_yeast	chicken meat@@@166	chicken drumstick@@@24
+textured_vegetable_protein	condiment@@@655	leaf
+elderflower_cordial	alcoholic beverage@@@476	leaf
+potato_salad	bread@@@88	leaf
+peach_jam	food ingredient@@@154	leaf
+tenderloin	barley flour@@@607	wheat flour@@@651
+milk_substitute	okpd2 and cpa 2008 10321@@@883	leaf
+kidney_bean	okpd2 and cpa 2008 10321@@@883	leaf
+nonpareils	chicken meat@@@166	chicken drumstick@@@24
+raspberry_juice	alcoholic beverage@@@476	leaf
+asparagus	french cheese@@@222	philadelphia cream cheese@@@491
+garlic_paste	okpd2 and cpa 2008 10321@@@883	leaf
+meat_product	okpd2 and cpa 2008 10321@@@883	leaf
+hazelnut_butter	okpd2 and cpa 2008 10321@@@883	leaf
+paprika	food ingredient@@@154	leaf
+pink_grapefruit_juice	chicken meat@@@166	chicken drumstick@@@24
+spiced_rum	okpd2 and cpa 2008 10321@@@883	leaf
+almond_butter	alcoholic beverage@@@476	leaf
+iced_tea	dish@@@325	leaf
+garlic_salt	food ingredient@@@154	leaf
+fruit_jam	okpd2 and cpa 2008 10321@@@883	leaf
+cayenne_pepper	food ingredient@@@154	leaf
+liverwurst	asparagus@@@747	white asparagus@@@567
+pork_stock	parivyaya@@@811	leaf
+sangria	chicken meat@@@166	chicken drumstick@@@24
+fennel_bulb	convenience food@@@241	leaf
+capellini	pasta@@@679	leaf
+fruit_dish	chicken meat@@@166	chicken drumstick@@@24
+drinking_water	alcoholic beverage@@@476	leaf

@@ -1,0 +1,199 @@
+Query	Parent	Child
+celery_greens	vegetables@@@1409	leaf
+salmon_trout	dairy products dairy substitute products@@@110	leaf
+white_mushroom	processed meat products@@@151	leaf
+baking_decorations	dairy products dairy substitute products@@@110	leaf
+elderflower_umbel	nut butter@@@887	white almond butter@@@1948
+mozzarella_stick	dairy products dairy substitute products@@@110	leaf
+muffin_baking_mix	dairy products dairy substitute products@@@110	leaf
+smoked_raclette_cheese	processed meat products@@@151	leaf
+sour_gummy_candy	snacks@@@258	leaf
+lambs_lettuce	nut butter@@@887	white almond butter@@@1948
+fondants_icing	nut butter@@@887	white almond butter@@@1948
+albeli	nut butter@@@887	white almond butter@@@1948
+caramel_liqueur	chocolates@@@1026	leaf
+cake_decorating_pen	nut butter@@@887	white almond butter@@@1948
+sweet_potato	vegetables@@@1409	leaf
+lemongrass	herbs spices@@@610	leaf
+frozen_spinach	vegetables@@@1409	leaf
+cheese_skewers	food@@@938	leaf
+cream	ice cream@@@1177	leaf
+okra	beer apple wine@@@215	wheat beer@@@386
+sweet_chili_sauce	processed meat products@@@151	leaf
+stone_fruits	food@@@938	leaf
+fennel	vegetables@@@1409	leaf
+canned_mushrooms_marinated_in_oil	dairy products dairy substitute products@@@110	leaf
+cacao_nibs	dairy products dairy substitute products@@@110	leaf
+pea_sprouts	nut butter@@@887	white almond butter@@@1948
+grischuna_minipic	cabbage@@@1069	cooked red cabbage@@@1742
+greek_yogurt_with_honey	dairy products dairy substitute products@@@110	leaf
+beer	nut butter@@@887	white almond butter@@@1948
+corn_fed_chicken_breast	nut butter@@@887	white almond butter@@@1948
+apple_wine	nut butter@@@887	white almond butter@@@1948
+licorice_root	chocolates@@@1026	leaf
+mettwurst	broth powder cubes@@@334	vegetable bouillon powder@@@481
+whole_grain_pasta	vegetables@@@1409	leaf
+vanilla_flavor	chocolates@@@1026	leaf
+veal_cutlets_from_the_nut	nut butter@@@887	white almond butter@@@1948
+almond_cookies	vegetables@@@1409	leaf
+goose_meat	processed meat products@@@151	leaf
+beer_radish	vegetables@@@1409	leaf
+fresh_parsley	dairy products dairy substitute products@@@110	leaf
+thai_jasmine_rice	nut butter@@@887	white almond butter@@@1948
+sugar	food@@@938	leaf
+dlicorn_minced	processed meat products@@@151	leaf
+frozen_pomme_duchesse	nut butter@@@887	white almond butter@@@1948
+red_leaf_lettuce	vegetables@@@1409	leaf
+herb_mustard	processed meat products@@@151	leaf
+veal_liver	processed meat products@@@151	leaf
+brook_trout	dairy products dairy substitute products@@@110	leaf
+amaretti	baking decorations@@@37	leaf
+frozen_berry_mix	processed meat products@@@151	leaf
+cream_quark	dried herbs@@@268	dried lemon verbena@@@339
+gin	alcoholic beverages@@@1642	leaf
+apricot_ice_cream	food@@@938	leaf
+flatfish	fish seafood@@@1883	leaf
+chia_seeds	nut butter@@@887	white almond butter@@@1948
+veal_sausage	meat meat substitute products@@@1432	leaf
+azuki_bean_paste	nut butter@@@887	white almond butter@@@1948
+heart_cherry	vegetables@@@1409	leaf
+colored_fondant	nut butter@@@887	white almond butter@@@1948
+garlic_clove	vegetables@@@1409	leaf
+nut_seed_mixes	dairy products dairy substitute products@@@110	leaf
+dry_vermouth	dairy products dairy substitute products@@@110	leaf
+strawberry_jam	vegetables@@@1409	leaf
+creole_rice	vegetables@@@1409	leaf
+chili_raclette_cheese	processed meat products@@@151	leaf
+veal_feet	processed meat products@@@151	leaf
+wild_broth	dairy products dairy substitute products@@@110	leaf
+ham	sugar@@@426	lemon syrup@@@1399
+beef_sirloin_steak	nut butter@@@887	white almond butter@@@1948
+coop_jam_sugar	nut butter@@@887	white almond butter@@@1948
+poppy	fruit vegetables@@@1536	leaf
+pickled_pepper	processed meat products@@@151	leaf
+fleur_de_sel	nut butter@@@887	white almond butter@@@1948
+lumpfish_roe	pork@@@324	pork stew@@@77
+fruit_liqueur	nut butter@@@887	white almond butter@@@1948
+kernel_roll	dairy products dairy substitute products@@@110	leaf
+dried_rosemary	processed meat products@@@151	leaf
+black_lentils_from_the_can	processed meat products@@@151	leaf
+guetzli	nut butter@@@887	white almond butter@@@1948
+t_bone_steak	meat meat substitute products@@@1432	leaf
+flaxseed	plant based oils@@@1469	leaf
+betty_bossi_shanghai_asian_wok_mix	processed meat products@@@151	leaf
+green_tabasco	processed meat products@@@151	leaf
+dark_bread	dairy products dairy substitute products@@@110	leaf
+fondue_cheese_mix_moiti_moiti	processed meat products@@@151	leaf
+floury_boiled_potatoes	dairy products dairy substitute products@@@110	leaf
+plum_yogurt	chocolates@@@1026	leaf
+passion_fruit_juice	snacks@@@258	leaf
+non_alcoholic_beer_apple_wine	dairy products dairy substitute products@@@110	leaf
+clear_apple_juice	chicken meat@@@1111	soup chicken@@@664
+bell_minced_meatballs	dairy products dairy substitute products@@@110	leaf
+chickpea_flour	processed meat products@@@151	leaf
+frozen_green_pea	vegetables@@@1409	leaf
+early_potato	chocolates@@@1026	leaf
+romanesco	vegetables@@@1409	leaf
+ovomaltine_noir_chocolate	dairy products dairy substitute products@@@110	leaf
+other_oily_saltwater_fish	nut butter@@@887	white almond butter@@@1948
+grissini	other baked goods@@@1052	leaf
+tapenade	herbs spices@@@610	leaf
+piadina	pasta@@@364	leaf
+pearl_sugar	nut butter@@@887	white almond butter@@@1948
+iceberg_lettuce	nut butter@@@887	white almond butter@@@1948
+cailler_cuisine_cocoa_powder	dairy products dairy substitute products@@@110	leaf
+psyllium_husks	nut butter@@@887	white almond butter@@@1948
+dry_sparkling_wine	nut butter@@@887	white almond butter@@@1948
+nutmeg_pumpkin	chocolates@@@1026	leaf
+guinea_fowl_meat	alcoholic beverages@@@1642	leaf
+red_grape	nut butter@@@887	white almond butter@@@1948
+sesame_oil	processed meat products@@@151	leaf
+calvados	alcoholic beverages@@@1642	leaf
+hazelnut_spread	hard cheese@@@371	leaf
+spelt_cake_dough	dairy products dairy substitute products@@@110	leaf
+almond_mush	dairy products dairy substitute products@@@110	leaf
+cornbread	beer apple wine@@@215	apple wine@@@330
+salted_cashew_nut	processed meat products@@@151	leaf
+tuna	beer apple wine@@@215	apple wine@@@330
+white_toblerone	chocolates@@@1026	leaf
+gingerbread_dough	dairy products dairy substitute products@@@110	leaf
+fermented_seasonings	meat meat substitute products@@@1432	leaf
+hawaii_salt	vegetables@@@1409	wirz@@@792
+cotton_candy	chicken meat@@@1111	soup chicken@@@664
+beef_burger	fruit juice@@@359	quince juice@@@804
+tapioca_starch	dairy products dairy substitute products@@@110	leaf
+frozen_broccoli	vegetables@@@1409	leaf
+candied_peel	nut butter@@@887	white almond butter@@@1948
+vanilla_sugar	processed meat products@@@151	leaf
+wine	nut butter@@@887	white almond butter@@@1948
+plum_brandy	nut butter@@@887	white almond butter@@@1948
+medium_hot_mustard	nut butter@@@887	white almond butter@@@1948
+gluten_free_risoni_made_from_lentils_and_chickpeas	nut butter@@@887	white almond butter@@@1948
+grape_leaf_in_salt_water	nut butter@@@887	white almond butter@@@1948
+puffed_amaranth	processed meat products@@@151	leaf
+dried_white_beans	nut butter@@@887	white almond butter@@@1948
+cod	products from fish seafood@@@1456	leaf
+strawberry_jelly	nut butter@@@887	peanut butter@@@232
+ice_cream_cone	hard cheese@@@371	leaf
+emmi_gala_cheese	hard cheese@@@371	leaf
+maizena	dairy products dairy substitute products@@@110	leaf
+peach_syrup	dairy products dairy substitute products@@@110	leaf
+nettle_leaves	nut butter@@@887	white almond butter@@@1948
+cola_drink	chocolates@@@1026	leaf
+alfalfa_arugula_sprouts	dairy products dairy substitute products@@@110	leaf
+seedless_grape	dairy products dairy substitute products@@@110	leaf
+sour_cherry	nut butter@@@887	white almond butter@@@1948
+34_fat_quark	nut butter@@@887	white almond butter@@@1948
+sweet_and_sour_sauce	cabbage@@@1069	cooked red cabbage@@@1742
+blood_orange_juice	alcoholic beverages@@@1642	leaf
+apple_cider_vinegar	vegetables@@@1409	leaf
+juniper_berry	other fruits@@@1388	leaf
+mixed_bell_peppers	nut butter@@@887	white almond butter@@@1948
+soft_cheese	nut butter@@@887	white almond butter@@@1948
+lamb_loin	chocolates@@@1026	leaf
+milk_chocolate	processed meat products@@@151	leaf
+rye_wholemeal_flour	dairy products dairy substitute products@@@110	leaf
+crunchy_roll_dough	nut butter@@@887	white almond butter@@@1948
+emmental	hard cheese@@@371	leaf
+candied_sugar	chocolates@@@1026	leaf
+nail_powder	nut butter@@@887	white almond butter@@@1948
+marinated_feta_with_garlic	processed meat products@@@151	leaf
+wasabi_paste	dairy products dairy substitute products@@@110	leaf
+cornelian_cherry	vegetables@@@1409	leaf
+other_snacks	pork@@@324	pork stew@@@77
+plant_based_meat_alternatives	nut butter@@@887	white almond butter@@@1948
+galangal	herbs spices@@@610	leaf
+tomato_puree	dairy products dairy substitute products@@@110	leaf
+sherry_vinegar	dairy products dairy substitute products@@@110	leaf
+fresh_dill	dairy products dairy substitute products@@@110	leaf
+summer_truffle	nut butter@@@887	white almond butter@@@1948
+sweet_potato_chips	vegetables@@@1409	leaf
+strawberry_ice_cream	chocolates@@@1026	leaf
+mustard	herbs spices@@@610	leaf
+papaya	veal@@@903	veal adrio@@@718
+apple_jelly	nut butter@@@887	white almond butter@@@1948
+vintners_bread	chocolates@@@1026	leaf
+grilled_cheese	processed meat products@@@151	leaf
+sea_bass	syrup@@@356	lemon syrup@@@1399
+gluten_free_butter_cookies	chicken meat@@@1111	soup chicken@@@664
+truffle_oil	processed meat products@@@151	leaf
+boiled_potatoes	nut butter@@@887	white almond butter@@@1948
+peach	chicken meat@@@1111	soup chicken@@@664
+tofu_with_provence_herbs	hard cheese@@@371	leaf
+sweetened_condensed_milk	dairy products dairy substitute products@@@110	leaf
+gelatin	broths@@@883	leaf
+salt	herbs spices@@@610	leaf
+curd	dairy products dairy substitute products@@@110	leaf
+peach_jam	processed meat products@@@151	leaf
+coconut_cream	alcoholic beverages@@@1642	leaf
+potato_flakes	processed meat products@@@151	leaf
+vegetable_mix	nut butter@@@887	peanut butter@@@232
+falafel	fruit juice@@@359	quince juice@@@804
+ice_cubes	chicken meat@@@1111	chicken cutlets@@@462
+blackberry_sorbet	nut butter@@@887	white almond butter@@@1948
+lychee	chicken meat@@@1111	soup chicken@@@664
+soft_drink_concentrates	alcoholic beverages@@@1642	leaf
+tropical_fruits	broth powder cubes@@@334	fat free chicken broth powder@@@668
+zwieback	bread baked goods@@@209	leaf
+nuts_seeds	snacks@@@258	leaf
+coffee_chocolate	dairy products dairy substitute products@@@110	leaf

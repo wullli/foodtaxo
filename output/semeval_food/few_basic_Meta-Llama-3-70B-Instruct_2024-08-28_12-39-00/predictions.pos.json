@@ -1,0 +1,1006 @@
+{
+  "aioli": [
+    [
+      "spread",
+      "garlic butter"
+    ],
+    [
+      "sauce",
+      null
+    ]
+  ],
+  "baked alaska": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "banquet": [
+    [
+      "course",
+      "entree"
+    ]
+  ],
+  "barbecue sauce": [
+    [
+      "sauce",
+      null
+    ]
+  ],
+  "barbecued spareribs": [
+    [
+      "barbecue",
+      null
+    ]
+  ],
+  "bean dip": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "beef stroganoff": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "biryani": [
+    [
+      "pilaf",
+      null
+    ]
+  ],
+  "black bread": [
+    [
+      "dark bread",
+      null
+    ]
+  ],
+  "blood meal": [
+    [
+      "meal",
+      null
+    ],
+    [
+      "nutriment",
+      null
+    ]
+  ],
+  "bordelaise": [
+    [
+      "sauce",
+      null
+    ]
+  ],
+  "boston baked beans": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "bourbon": [],
+  "brandy": [
+    [
+      "liquor",
+      null
+    ]
+  ],
+  "bread sauce": [
+    [
+      "white sauce",
+      null
+    ]
+  ],
+  "brew": [
+    [
+      "beverage",
+      "beer"
+    ]
+  ],
+  "brunch": [
+    [
+      "lunch",
+      null
+    ],
+    [
+      "breakfast",
+      "continental breakfast"
+    ]
+  ],
+  "bubble and squeak": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "buffalo wing": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "bulgur": [
+    [
+      "wheat",
+      null
+    ]
+  ],
+  "bun": [
+    [
+      "loaf of bread",
+      null
+    ]
+  ],
+  "burgoo": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "buttermilk": [
+    [
+      "dairy product",
+      "sour milk"
+    ],
+    [
+      "sour milk",
+      null
+    ]
+  ],
+  "caesar salad": [
+    [
+      "tossed salad",
+      null
+    ]
+  ],
+  "cane sugar": [
+    [
+      "sugar",
+      null
+    ]
+  ],
+  "castor sugar": [
+    [
+      "granulated sugar",
+      null
+    ]
+  ],
+  "catsup": [
+    [
+      "sauce",
+      null
+    ]
+  ],
+  "center": [],
+  "cheese": [
+    [
+      "dairy product",
+      "cottage cheese"
+    ],
+    [
+      "dairy product",
+      "process cheese"
+    ]
+  ],
+  "cheese souffle": [
+    [
+      "souffle",
+      null
+    ]
+  ],
+  "cheese spread": [
+    [
+      "spread",
+      null
+    ],
+    [
+      "dairy product",
+      null
+    ]
+  ],
+  "chicken soup": [
+    [
+      "broth",
+      "chicken broth"
+    ]
+  ],
+  "chili powder": [
+    [
+      "flavorer",
+      null
+    ]
+  ],
+  "chili sauce": [
+    [
+      "sauce",
+      "hot sauce"
+    ]
+  ],
+  "chocolate mousse": [
+    [
+      "dessert",
+      "mousse"
+    ],
+    [
+      "mousse",
+      null
+    ]
+  ],
+  "choice morsel": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "cinnamon toast": [
+    [
+      "toast",
+      null
+    ]
+  ],
+  "claret": [
+    [
+      "red wine",
+      null
+    ]
+  ],
+  "clary sage": [
+    [
+      "herb",
+      null
+    ]
+  ],
+  "cocktail sauce": [
+    [
+      "sauce",
+      null
+    ]
+  ],
+  "confectionery": [
+    [
+      "candy",
+      "candy cane"
+    ],
+    [
+      "candy",
+      "candy corn"
+    ]
+  ],
+  "congou": [
+    [
+      "beverage",
+      null
+    ]
+  ],
+  "creme brulee": [
+    [
+      "dessert",
+      null
+    ],
+    [
+      "dish",
+      null
+    ]
+  ],
+  "culture medium": [
+    [
+      "nutriment",
+      null
+    ]
+  ],
+  "cup": [
+    [
+      "beverage",
+      null
+    ]
+  ],
+  "custard": [
+    [
+      "dessert",
+      "frozen custard"
+    ]
+  ],
+  "darjeeling": [
+    [
+      "beverage",
+      null
+    ]
+  ],
+  "demerara": [
+    [
+      "sugar",
+      null
+    ]
+  ],
+  "dough": [
+    [
+      "concoction",
+      null
+    ]
+  ],
+  "drambuie": [
+    [
+      "liqueur",
+      null
+    ],
+    [
+      "liquor",
+      null
+    ]
+  ],
+  "eau de vie": [
+    [
+      "liquor",
+      null
+    ]
+  ],
+  "egg roll": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "emmenthal": [
+    [
+      "foodstuff",
+      null
+    ]
+  ],
+  "fad diet": [
+    [
+      "reducing diet",
+      null
+    ]
+  ],
+  "fish cake": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "flip": [],
+  "fodder": [],
+  "frankfurter bun": [],
+  "french fries": [
+    [
+      "potato",
+      null
+    ]
+  ],
+  "fried rice": [
+    [
+      "rice",
+      null
+    ],
+    [
+      "dish",
+      null
+    ]
+  ],
+  "frozen dessert": [
+    [
+      "dessert",
+      "ice milk"
+    ],
+    [
+      "dessert",
+      "ice cream"
+    ],
+    [
+      "dessert",
+      "ice cream cake"
+    ],
+    [
+      "dessert",
+      "frozen pudding"
+    ],
+    [
+      "dessert",
+      "frozen custard"
+    ],
+    [
+      "dessert",
+      "frozen yogurt"
+    ],
+    [
+      "dessert",
+      "ice cream cone"
+    ]
+  ],
+  "gazpacho": [
+    [
+      "soup",
+      null
+    ]
+  ],
+  "generic": [
+    [
+      "wine",
+      null
+    ]
+  ],
+  "ginger ale": [
+    [
+      "beverage",
+      null
+    ]
+  ],
+  "goats' milk": [
+    [
+      "beverage",
+      null
+    ],
+    [
+      "dairy product",
+      null
+    ],
+    [
+      "nutriment",
+      null
+    ]
+  ],
+  "gravy": [
+    [
+      "sauce",
+      null
+    ]
+  ],
+  "hard boiled egg": [
+    [
+      "foodstuff",
+      null
+    ],
+    [
+      "dish",
+      null
+    ]
+  ],
+  "high protein diet": [
+    [
+      "diet",
+      null
+    ]
+  ],
+  "honey crisp": [
+    [
+      "hard candy",
+      null
+    ],
+    [
+      "flavorer",
+      null
+    ]
+  ],
+  "horehound": [
+    [
+      "herb",
+      null
+    ]
+  ],
+  "horseradish": [
+    [
+      "condiment",
+      null
+    ]
+  ],
+  "hotchpotch": [
+    [
+      "stew",
+      null
+    ]
+  ],
+  "hotdog": [],
+  "inositol": [
+    [
+      "b complex vitamin",
+      null
+    ]
+  ],
+  "julep": [
+    [
+      "beverage",
+      null
+    ],
+    [
+      "cocktail",
+      null
+    ]
+  ],
+  "juniper berries": [
+    [
+      "flavorer",
+      null
+    ]
+  ],
+  "life saver": [
+    [
+      "candy",
+      null
+    ]
+  ],
+  "light diet": [
+    [
+      "diet",
+      "soft diet"
+    ]
+  ],
+  "limburger": [
+    [
+      "foodstuff",
+      null
+    ],
+    [
+      "dish",
+      null
+    ]
+  ],
+  "limpa": [],
+  "loblolly": [
+    [
+      "foodstuff",
+      null
+    ],
+    [
+      "dish",
+      null
+    ]
+  ],
+  "macon": [],
+  "malmsey": [
+    [
+      "wine",
+      null
+    ]
+  ],
+  "marjoram": [
+    [
+      "herb",
+      null
+    ]
+  ],
+  "marshmallow": [
+    [
+      "candy",
+      null
+    ]
+  ],
+  "milk": [
+    [
+      "dairy product",
+      "low fat milk"
+    ],
+    [
+      "dairy product",
+      "certified milk"
+    ],
+    [
+      "nutriment",
+      "low fat milk"
+    ],
+    [
+      "nutriment",
+      "certified milk"
+    ]
+  ],
+  "mixed drink": [
+    [
+      "beverage",
+      "cocktail"
+    ]
+  ],
+  "moselle": [
+    [
+      "wine",
+      null
+    ]
+  ],
+  "mulligatawny": [
+    [
+      "soup",
+      null
+    ]
+  ],
+  "munich beer": [
+    [
+      "lager",
+      null
+    ]
+  ],
+  "mushy peas": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "neapolitan ice cream": [
+    [
+      "ice cream",
+      null
+    ]
+  ],
+  "near beer": [
+    [
+      "beverage",
+      null
+    ]
+  ],
+  "neutral spirits": [
+    [
+      "liquor",
+      null
+    ]
+  ],
+  "newburg sauce": [
+    [
+      "sauce",
+      null
+    ]
+  ],
+  "old fashioned": [
+    [
+      "beverage",
+      null
+    ]
+  ],
+  "olive": [],
+  "open face sandwich": [],
+  "papaya juice": [
+    [
+      "fruit juice",
+      null
+    ],
+    [
+      "juice",
+      null
+    ]
+  ],
+  "parfait": [
+    [
+      "ice cream",
+      null
+    ]
+  ],
+  "pastis": [
+    [
+      "liqueur",
+      null
+    ]
+  ],
+  "pepperoni pizza": [
+    [
+      "pizza",
+      null
+    ]
+  ],
+  "philter": [
+    [
+      "beverage",
+      null
+    ]
+  ],
+  "powdered milk": [
+    [
+      "beverage",
+      null
+    ],
+    [
+      "dairy product",
+      null
+    ],
+    [
+      "nutriment",
+      null
+    ]
+  ],
+  "proof spirit": [
+    [
+      "liquor",
+      null
+    ]
+  ],
+  "puff paste": [
+    [
+      "foodstuff",
+      null
+    ]
+  ],
+  "pulque": [
+    [
+      "liquor",
+      null
+    ]
+  ],
+  "ravigote": [
+    [
+      "veloute",
+      null
+    ]
+  ],
+  "rhone wine": [
+    [
+      "wine",
+      null
+    ]
+  ],
+  "rosemary": [
+    [
+      "herb",
+      null
+    ]
+  ],
+  "saccharin": [
+    [
+      "foodstuff",
+      null
+    ]
+  ],
+  "sack": [],
+  "salad": [
+    [
+      "dish",
+      "tossed salad"
+    ]
+  ],
+  "salmi": [
+    [
+      "ragout",
+      null
+    ]
+  ],
+  "saute": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "scone": [
+    [
+      "quick bread",
+      null
+    ]
+  ],
+  "shrimp butter": [
+    [
+      "spread",
+      null
+    ],
+    [
+      "butter",
+      null
+    ]
+  ],
+  "shrimp newburg": [
+    [
+      "seafood newburg",
+      null
+    ]
+  ],
+  "side dish": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "simnel": [
+    [
+      "foodstuff",
+      null
+    ],
+    [
+      "bread",
+      null
+    ]
+  ],
+  "soave": [
+    [
+      "wine",
+      null
+    ]
+  ],
+  "sour bread": [
+    [
+      "bread",
+      null
+    ]
+  ],
+  "soya milk": [
+    [
+      "beverage",
+      null
+    ],
+    [
+      "nutriment",
+      null
+    ]
+  ],
+  "spaghetti": [
+    [
+      "pasta",
+      null
+    ]
+  ],
+  "sparkling wine": [
+    [
+      "wine",
+      "champagne"
+    ]
+  ],
+  "stinger": [
+    [
+      "beverage",
+      null
+    ]
+  ],
+  "stock cube": [],
+  "stuffed peppers": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "stuffed tomato": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "suds": [],
+  "sugarplum": [
+    [
+      "candy",
+      null
+    ]
+  ],
+  "sweetening": [
+    [
+      "foodstuff",
+      null
+    ]
+  ],
+  "taco sauce": [
+    [
+      "sauce",
+      null
+    ],
+    [
+      "dish",
+      null
+    ]
+  ],
+  "tamale": [],
+  "tapioca pudding": [
+    [
+      "pudding",
+      null
+    ],
+    [
+      "dessert",
+      null
+    ]
+  ],
+  "tequila": [
+    [
+      "liquor",
+      null
+    ]
+  ],
+  "tipsy cake": [
+    [
+      "dessert",
+      null
+    ]
+  ],
+  "tom and jerry": [
+    [
+      "liquor",
+      null
+    ]
+  ],
+  "treacle": [
+    [
+      "syrup",
+      null
+    ]
+  ],
+  "veal parmesan": [
+    [
+      "dish",
+      null
+    ]
+  ],
+  "vitamin b12": [
+    [
+      "b complex vitamin",
+      null
+    ]
+  ],
+  "vitamin k3": [
+    [
+      "vitamin k",
+      null
+    ]
+  ],
+  "water biscuit": [
+    [
+      "quick bread",
+      null
+    ],
+    [
+      "biscuit",
+      null
+    ]
+  ],
+  "weizenbier": [],
+  "whip": [],
+  "whole milk": [
+    [
+      "beverage",
+      "raw milk"
+    ],
+    [
+      "beverage",
+      "low fat milk"
+    ],
+    [
+      "beverage",
+      "semi skimmed milk"
+    ],
+    [
+      "beverage",
+      "certified milk"
+    ],
+    [
+      "dairy product",
+      "raw milk"
+    ],
+    [
+      "dairy product",
+      "low fat milk"
+    ],
+    [
+      "dairy product",
+      "semi skimmed milk"
+    ],
+    [
+      "dairy product",
+      "certified milk"
+    ],
+    [
+      "nutriment",
+      "raw milk"
+    ],
+    [
+      "nutriment",
+      "low fat milk"
+    ],
+    [
+      "nutriment",
+      "semi skimmed milk"
+    ],
+    [
+      "nutriment",
+      "certified milk"
+    ]
+  ],
+  "whole wheat flour": [
+    [
+      "flour",
+      "plain flour"
+    ],
+    [
+      "flour",
+      "wheat flour"
+    ]
+  ],
+  "yorkshire pudding": [
+    [
+      "quick bread",
+      null
+    ],
+    [
+      "bread",
+      null
+    ]
+  ]
+}

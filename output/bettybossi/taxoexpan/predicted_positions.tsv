@@ -1,0 +1,199 @@
+Query	Parent	Child
+celery_greens	milk@@@484	leaf
+salmon_trout	food@@@938	leaf
+white_mushroom	food@@@938	leaf
+baking_decorations	chocolates@@@1026	leaf
+elderflower_umbel	flour@@@1904	leaf
+mozzarella_stick	food@@@938	leaf
+muffin_baking_mix	chocolates@@@1026	leaf
+smoked_raclette_cheese	spirits@@@1322	leaf
+sour_gummy_candy	food@@@938	leaf
+lambs_lettuce	fruit juice@@@359	lemon juice@@@1479
+fondants_icing	nuts seeds@@@1966	leaf
+albeli	plant based meat alternatives@@@1597	leaf
+caramel_liqueur	food@@@938	leaf
+cake_decorating_pen	plant based meat alternatives@@@1597	leaf
+sweet_potato	herbs spices@@@610	leaf
+lemongrass	fresh herbs@@@1637	leaf
+frozen_spinach	plant based meat alternatives@@@1597	leaf
+cheese_skewers	food@@@938	leaf
+cream	spirits@@@1322	leaf
+okra	leavening agent@@@140	leaf
+sweet_chili_sauce	chocolates@@@1026	leaf
+stone_fruits	food@@@938	leaf
+fennel	leafy vegetables@@@667	leaf
+canned_mushrooms_marinated_in_oil	alcoholic beverages@@@1642	leaf
+cacao_nibs	food@@@938	leaf
+pea_sprouts	ice cubes@@@1898	leaf
+grischuna_minipic	fruit vegetables@@@1536	leaf
+greek_yogurt_with_honey	food@@@938	leaf
+beer	semolina similar@@@971	leaf
+corn_fed_chicken_breast	semolina similar@@@971	leaf
+apple_wine	starch@@@753	leaf
+licorice_root	food@@@938	leaf
+mettwurst	thickening agent@@@1373	leaf
+whole_grain_pasta	food@@@938	leaf
+vanilla_flavor	food@@@938	leaf
+veal_cutlets_from_the_nut	vegetables@@@1409	leaf
+almond_cookies	food@@@938	leaf
+goose_meat	ice cubes@@@1898	leaf
+beer_radish	food@@@938	leaf
+fresh_parsley	food@@@938	leaf
+thai_jasmine_rice	plant based meat alternatives@@@1597	leaf
+sugar	fruit juice@@@359	lemon juice@@@1479
+dlicorn_minced	plant based meat alternatives@@@1597	leaf
+frozen_pomme_duchesse	game@@@1009	leaf
+red_leaf_lettuce	fruit vegetables@@@1536	leaf
+herb_mustard	food@@@938	leaf
+veal_liver	food@@@938	leaf
+brook_trout	food@@@938	leaf
+amaretti	food@@@938	leaf
+frozen_berry_mix	hard cheese@@@371	leaf
+cream_quark	fruit juice@@@359	lemon juice@@@1479
+gin	fruit juice@@@359	lemon juice@@@1479
+apricot_ice_cream	food@@@938	leaf
+flatfish	plant based meat alternatives@@@1597	leaf
+chia_seeds	plant based meat alternatives@@@1597	leaf
+veal_sausage	semi hard cheese@@@1732	leaf
+azuki_bean_paste	plant based meat alternatives@@@1597	leaf
+heart_cherry	desserts@@@1219	leaf
+colored_fondant	plant based meat alternatives@@@1597	leaf
+garlic_clove	plant based meat alternatives@@@1597	leaf
+nut_seed_mixes	food@@@938	leaf
+dry_vermouth	food@@@938	leaf
+strawberry_jam	soft drinks@@@599	leaf
+creole_rice	desserts@@@1219	leaf
+chili_raclette_cheese	food@@@938	leaf
+veal_feet	food@@@938	leaf
+wild_broth	food@@@938	leaf
+ham	leavening agent@@@140	leaf
+beef_sirloin_steak	thickening agent@@@1373	leaf
+coop_jam_sugar	plant based meat alternatives@@@1597	leaf
+poppy	fruit juice@@@359	lemon juice@@@1479
+pickled_pepper	ice cubes@@@1898	leaf
+fleur_de_sel	processed meat products@@@151	leaf
+lumpfish_roe	fruit juice@@@359	lemon juice@@@1479
+fruit_liqueur	game@@@1009	leaf
+kernel_roll	food@@@938	leaf
+dried_rosemary	food@@@938	leaf
+black_lentils_from_the_can	chocolates@@@1026	leaf
+guetzli	thickening agent@@@1373	leaf
+t_bone_steak	cold cuts@@@1596	leaf
+flaxseed	plant based oils@@@1469	leaf
+betty_bossi_shanghai_asian_wok_mix	fruit juice@@@359	lemon juice@@@1479
+green_tabasco	spirits@@@1322	leaf
+dark_bread	chocolates@@@1026	leaf
+fondue_cheese_mix_moiti_moiti	hard cheese@@@371	leaf
+floury_boiled_potatoes	food@@@938	leaf
+plum_yogurt	food@@@938	leaf
+passion_fruit_juice	desserts@@@1219	leaf
+non_alcoholic_beer_apple_wine	ice cubes@@@1898	leaf
+clear_apple_juice	cod similar@@@389	leaf
+bell_minced_meatballs	food@@@938	leaf
+chickpea_flour	fruit juice@@@359	lemon juice@@@1479
+frozen_green_pea	fruit vegetables@@@1536	leaf
+early_potato	chocolates@@@1026	leaf
+romanesco	leafy vegetables@@@667	leaf
+ovomaltine_noir_chocolate	food@@@938	leaf
+other_oily_saltwater_fish	ice cubes@@@1898	leaf
+grissini	food@@@938	leaf
+tapenade	ice cubes@@@1898	leaf
+piadina	ice cubes@@@1898	leaf
+pearl_sugar	cooked vegetables@@@817	leaf
+iceberg_lettuce	flour@@@1904	leaf
+cailler_cuisine_cocoa_powder	food@@@938	leaf
+psyllium_husks	vegetables@@@1409	leaf
+dry_sparkling_wine	plant based oils@@@1469	leaf
+nutmeg_pumpkin	food@@@938	leaf
+guinea_fowl_meat	food@@@938	leaf
+red_grape	fruit juice@@@359	lemon juice@@@1479
+sesame_oil	ice cubes@@@1898	leaf
+calvados	spirits@@@1322	leaf
+hazelnut_spread	food@@@938	leaf
+spelt_cake_dough	food@@@938	leaf
+almond_mush	herbs spices@@@610	leaf
+cornbread	thickening agent@@@1373	leaf
+salted_cashew_nut	food@@@938	leaf
+tuna	leavening agent@@@140	leaf
+white_toblerone	food@@@938	leaf
+gingerbread_dough	food@@@938	leaf
+fermented_seasonings	food@@@938	leaf
+hawaii_salt	food@@@938	leaf
+cotton_candy	legumes@@@1276	leaf
+beef_burger	leavening agent@@@140	leaf
+tapioca_starch	food@@@938	leaf
+frozen_broccoli	food@@@938	leaf
+candied_peel	plant based meat alternatives@@@1597	leaf
+vanilla_sugar	food@@@938	leaf
+wine	semolina similar@@@971	leaf
+plum_brandy	plant based oils@@@1469	leaf
+medium_hot_mustard	semolina similar@@@971	leaf
+gluten_free_risoni_made_from_lentils_and_chickpeas	food@@@938	leaf
+grape_leaf_in_salt_water	poultry stock@@@1689	leaf
+puffed_amaranth	food@@@938	leaf
+dried_white_beans	other nuts@@@544	leaf
+cod	plant based meat alternatives@@@1597	leaf
+strawberry_jelly	semolina similar@@@971	leaf
+ice_cream_cone	food@@@938	leaf
+emmi_gala_cheese	semi hard cheese@@@1732	leaf
+maizena	food@@@938	leaf
+peach_syrup	food@@@938	leaf
+nettle_leaves	other processed foods@@@1281	leaf
+cola_drink	food@@@938	leaf
+alfalfa_arugula_sprouts	food@@@938	leaf
+seedless_grape	fruit juice@@@359	lemon juice@@@1479
+sour_cherry	semolina similar@@@971	leaf
+34_fat_quark	leafy vegetables@@@667	leaf
+sweet_and_sour_sauce	legumes@@@1276	leaf
+blood_orange_juice	cream liqueur@@@1058	leaf
+apple_cider_vinegar	food@@@938	leaf
+juniper_berry	food@@@938	leaf
+mixed_bell_peppers	plant based meat alternatives@@@1597	leaf
+soft_cheese	semolina similar@@@971	leaf
+lamb_loin	desserts@@@1219	leaf
+milk_chocolate	food@@@938	leaf
+rye_wholemeal_flour	food@@@938	leaf
+crunchy_roll_dough	fruit juice@@@359	lemon juice@@@1479
+emmental	semi hard cheese@@@1732	leaf
+candied_sugar	food@@@938	leaf
+nail_powder	vegetables@@@1409	wirz@@@792
+marinated_feta_with_garlic	ice cubes@@@1898	leaf
+wasabi_paste	food@@@938	leaf
+cornelian_cherry	vegetables@@@1409	leaf
+other_snacks	starch@@@753	leaf
+plant_based_meat_alternatives	plant based meat alternatives@@@1597	leaf
+galangal	herbs spices@@@610	leaf
+tomato_puree	sugar alternatives@@@1562	leaf
+sherry_vinegar	food@@@938	leaf
+fresh_dill	food@@@938	leaf
+summer_truffle	semolina similar@@@971	leaf
+sweet_potato_chips	other fruits@@@1388	leaf
+strawberry_ice_cream	food@@@938	leaf
+mustard	herbs spices@@@610	leaf
+papaya	fruit juice@@@359	lemon juice@@@1479
+apple_jelly	semolina similar@@@971	leaf
+vintners_bread	chocolates@@@1026	leaf
+grilled_cheese	chocolates@@@1026	leaf
+sea_bass	fruit juice@@@359	lemon juice@@@1479
+gluten_free_butter_cookies	plant based meat alternatives@@@1597	leaf
+truffle_oil	broths@@@883	leaf
+boiled_potatoes	other nuts@@@544	leaf
+peach	broths@@@883	leaf
+tofu_with_provence_herbs	food@@@938	leaf
+sweetened_condensed_milk	food@@@938	leaf
+gelatin	milk chocolate@@@1513	leaf
+salt	ice cubes@@@1898	leaf
+curd	food@@@938	leaf
+peach_jam	food@@@938	leaf
+coconut_cream	cream liqueur@@@1058	leaf
+potato_flakes	chocolates@@@1026	leaf
+vegetable_mix	ice cubes@@@1898	leaf
+falafel	non alcoholic beverages@@@1201	leaf
+ice_cubes	game@@@1009	leaf
+blackberry_sorbet	plant based meat alternatives@@@1597	leaf
+lychee	fruit juice@@@359	lemon juice@@@1479
+soft_drink_concentrates	soft drinks@@@599	leaf
+tropical_fruits	offal@@@161	leaf
+zwieback	fruit juice@@@359	lemon juice@@@1479
+nuts_seeds	jams jellies@@@994	leaf
+coffee_chocolate	food@@@938	leaf

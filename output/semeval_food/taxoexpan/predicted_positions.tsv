@@ -1,0 +1,149 @@
+Query	Parent	Child
+stinger	dessert@@@456	leaf
+papaya_juice	dish@@@468	leaf
+buffalo_wing	food@@@557	ouzo@@@969
+clary_sage	wine sauce@@@1467	leaf
+cinnamon_toast	honey crisp@@@687	leaf
+malmsey	starches@@@1279	leaf
+taco_sauce	sauce@@@1171	leaf
+pulque	course@@@404	leaf
+chicken_soup	punch@@@1091	leaf
+chili_sauce	wine sauce@@@1467	leaf
+milk	food@@@557	ouzo@@@969
+emmenthal	food@@@557	ouzo@@@969
+sparkling_wine	starches@@@1279	leaf
+sweetening	beverage@@@92	leaf
+drambuie	liqueur@@@788	leaf
+munich_beer	dish@@@468	leaf
+scone	pancake batter@@@977	leaf
+brandy	meal@@@855	leaf
+fried_rice	liquor@@@790	leaf
+fish_cake	liquor@@@790	leaf
+fad_diet	dessert wine@@@457	leaf
+high_protein_diet	diet@@@460	leaf
+side_dish	fat soluble vitamin@@@520	alpha tocopheral@@@12
+biryani	punch@@@1091	leaf
+loblolly	dish@@@468	leaf
+neutral_spirits	grape juice@@@627	must@@@912
+neapolitan_ice_cream	dessert wine@@@457	leaf
+hotchpotch	honey crisp@@@687	leaf
+cup	dish@@@468	leaf
+beef_stroganoff	food@@@557	ouzo@@@969
+boston_baked_beans	ration@@@1104	field ration@@@526
+bun	starches@@@1279	leaf
+hard_boiled_egg	sweetening@@@1327	leaf
+mulligatawny	bite@@@102	leaf
+black_bread	starches@@@1279	leaf
+confectionery	beverage@@@92	leaf
+powdered_milk	fruit drink@@@584	leaf
+bourbon	beverage@@@92	leaf
+cheese	pancake batter@@@977	leaf
+moselle	ration@@@1104	leaf
+french_fries	beverage@@@92	leaf
+bread_sauce	dish@@@468	leaf
+catsup	sauce@@@1171	leaf
+caesar_salad	liquor@@@790	leaf
+choice_morsel	liqueur@@@788	leaf
+creme_brulee	dish@@@468	leaf
+pepperoni_pizza	food@@@557	ouzo@@@969
+stuffed_peppers	punch@@@1091	leaf
+sugarplum	cocktail@@@341	leaf
+suds	liqueur@@@788	leaf
+claret	grape juice@@@627	must@@@912
+treacle	honey crisp@@@687	leaf
+soave	wine@@@1466	leaf
+gravy	beverage@@@92	leaf
+saute	dish@@@468	leaf
+bordelaise	punch@@@1091	leaf
+bubble_and_squeak	punch@@@1091	leaf
+burgoo	food@@@557	ouzo@@@969
+limpa	quick bread@@@1096	leaf
+macon	food@@@557	ouzo@@@969
+julep	fare@@@517	k ration@@@745
+honey_crisp	cheese spread@@@264	leaf
+bean_dip	liquor@@@790	leaf
+sour_bread	starches@@@1279	leaf
+newburg_sauce	ration@@@1104	leaf
+cheese_souffle	bite@@@102	leaf
+demerara	honey crisp@@@687	leaf
+barbecue_sauce	sauce@@@1171	leaf
+tequila	gravy@@@633	leaf
+buttermilk	dairy product@@@445	leaf
+open_face_sandwich	dish@@@468	leaf
+culture_medium	b complex vitamin@@@46	leaf
+mixed_drink	honey crisp@@@687	leaf
+mushy_peas	sweetening@@@1327	leaf
+ravigote	wine sauce@@@1467	leaf
+fodder	dish@@@468	leaf
+old_fashioned	spread@@@1274	leaf
+limburger	dish@@@468	leaf
+aioli	gravy@@@633	leaf
+parfait	dessert@@@456	leaf
+stock_cube	dish@@@468	leaf
+tamale	flavorer@@@548	leaf
+salad	dish@@@468	leaf
+goats'_milk	dish@@@468	leaf
+puff_paste	pancake batter@@@977	leaf
+vitamin_b12	dish@@@468	leaf
+shrimp_newburg	liquor@@@790	leaf
+congou	nutriment@@@941	leaf
+vitamin_k3	dish@@@468	leaf
+ginger_ale	liqueur@@@788	leaf
+near_beer	foodstuff@@@559	leaf
+whole_wheat_flour	whiskey@@@1454	leaf
+flip	dish@@@468	leaf
+philter	flavorer@@@548	leaf
+baked_alaska	cheese fondue@@@260	leaf
+chocolate_mousse	vitamin@@@1414	leaf
+spaghetti	food@@@557	ouzo@@@969
+barbecued_spareribs	dish@@@468	leaf
+whole_milk	highball@@@678	leaf
+salmi	dish@@@468	leaf
+gazpacho	food@@@557	ouzo@@@969
+bulgur	starches@@@1279	leaf
+banquet	flavorer@@@548	leaf
+egg_roll	liquor@@@790	leaf
+custard	starches@@@1279	mashed potato@@@846
+horehound	flavorer@@@548	leaf
+life_saver	beverage@@@92	leaf
+eau_de_vie	cocktail@@@341	leaf
+tapioca_pudding	dish@@@468	leaf
+marshmallow	wine@@@1466	leaf
+olive	whiskey@@@1454	leaf
+generic	honey crisp@@@687	leaf
+veal_parmesan	dish@@@468	leaf
+frozen_dessert	flavorer@@@548	leaf
+blood_meal	liqueur@@@788	leaf
+chili_powder	dish@@@468	leaf
+brunch	food@@@557	ouzo@@@969
+cocktail_sauce	ration@@@1104	leaf
+shrimp_butter	cheese sauce@@@262	leaf
+cane_sugar	fondue@@@556	leaf
+dough	starches@@@1279	leaf
+soya_milk	starches@@@1279	leaf
+proof_spirit	beverage@@@92	leaf
+marjoram	wine sauce@@@1467	leaf
+brew	starches@@@1279	leaf
+tom_and_jerry	ration@@@1104	leaf
+sack	beverage@@@92	leaf
+rosemary	sauce@@@1171	leaf
+tipsy_cake	flavorer@@@548	leaf
+stuffed_tomato	punch@@@1091	leaf
+juniper_berries	starches@@@1279	leaf
+light_diet	cocktail@@@341	leaf
+inositol	vitamin pill@@@1430	multivitamin@@@906
+hotdog	flavorer@@@548	leaf
+castor_sugar	juice@@@739	leaf
+rhone_wine	starches@@@1279	leaf
+cheese_spread	cheese@@@258	leaf
+weizenbier	flavorer@@@548	leaf
+pastis	brandy@@@144	leaf
+whip	dish@@@468	leaf
+horseradish	dish@@@468	leaf
+simnel	dish@@@468	leaf
+water_biscuit	food@@@557	ouzo@@@969
+frankfurter_bun	liquor@@@790	leaf
+yorkshire_pudding	food@@@557	ouzo@@@969
+saccharin	fondue@@@556	leaf
+darjeeling	honey crisp@@@687	leaf
+center	flavorer@@@548	leaf

@@ -1,0 +1,41 @@
+Which are the most specific parent concepts of the given child concept in a taxonomy considering the context?
+In your reasoning, state how the parent concepts are a supertype of the child concept.
+Do not add additional comments or information, only return the output in the described format.
+
+---
+
+Input description.
+
+Context: List of existing parent-child (supertype-subtype) relations in the taxonomy. 
+
+Child: Child concept (subtype) that you need to place in a taxonomy.
+
+Reasoning: Let's think step by step in order to
+
+---
+
+Follow the following format.
+
+Reasoning: Let's think step by step in order to ${produce the parents}. We ...
+
+Description: Description of the child concept in relation to the context taxonomy. Infer what is meant by the child concept from the context.
+
+Parents: Comma separated list of one or more parents of the child concept. Valid parents are in the context. If there are no suitable parents, return None.
+
+---
+
+Context:
+```sweet pickle, bread and butter pickle
+quick bread, buttermilk biscuit
+rye bread, swedish rye bread
+starches, raisin bread
+starches, loaf of bread
+starches, gluten bread
+loaf of bread, french loaf
+starches, cracked wheat bread
+quick bread, baking powder biscuit
+starches, tea bread```
+
+Child: zwieback
+
+Reasoning: Let's think step by step in order to 

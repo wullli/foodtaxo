@@ -1,0 +1,971 @@
+query	parent	child
+hack	remove	
+expectorate	sound	
+yawn	intrude	
+presume	change	
+nap		
+bed down	change	
+perk up		
+stretch	contend	
+exsert		
+giggle	change	
+groom	contend	
+barber	contend	
+spruce up	utter	
+overdress	change	
+spat	contend	
+foal	contend	
+litter	intrude	
+face-lift		
+transpire	change	
+concuss	contend	
+excrete	change	
+evacuate	contend	
+manipulate	change	
+strap	contend	
+canker	change	
+subluxate	change	
+recuperate	change	
+spring	remove	
+	remove	
+rejuvenate		
+regenerate	change	
+scab	change	
+skin over	change	
+pale	shape	
+feel	utter	
+jaundice	sound	
+fracture		
+continue	shape	
+dedifferentiate	shape	
+mutate	change	
+revolutionize		
+demythologize	contend	
+affect	change	
+tie	contend	
+draw	contend	
+form	contend	
+square	change	
+become	change	
+augment	change	
+dissimilate		
+rectify	change	
+revitalize	work	
+devitalize	change	
+update	change	
+redevelop	contend	
+strip	reduce	
+clean	contend	
+pick	contend	
+clear	contend	
+chlorinate	stop	
+seed	change	
+activate	change	
+mitigate	intrude	
+falsify	change	
+go to pot	change	
+decompose	intrude	
+tumble	change	
+tin		
+hydrate	intrude	
+lock	change	
+abridge		
+grow	hit	
+pullulate	move	
+manifold	change	
+leapfrog	change	
+rejuvenate		
+antiquate	change	
+mellow	shape	
+bilge		
+visit	sound	
+tinker	change	
+copolymerize	change	
+ionize	change	
+dwindle		
+desensitize	remove	
+wash	change	
+tidy	change	
+discolor	change	
+stain	change	
+hand-dye	utter	
+tone	change	
+effuse	contend	
+bloom		
+temper	see	count
+adjust	change	
+set	change	
+regulate	contend	
+anneal	change	
+fulminate	contend	
+dehydrogenate	move	
+burst	change	
+luxuriate		
+infuscate	contend	
+shorten		
+elongate	change	
+scale	shape	
+cork	contend	
+barbeque	remove	
+draw	sound	
+powderize	intrude	
+partition	worsen	
+burst		
+stave in	change	
+crumb	contend	
+break		
+come	change	
+develop	move	
+jump off	change	
+begin	utter	
+ask for it	change	
+cut out	change	
+come to life	change	
+drop	change	
+sublime	change	
+transpire	change	
+league	change	
+cool	change	
+ice	contend	
+scald	change	
+decoct	contend	
+map	contend	
+flour	contend	
+islamize		
+evangelize		
+invert	change	
+waste	remove	
+dull	change	
+subtilize	change	
+acclimatize	intrude	
+fix	contend	
+expatriate	change	
+buckram	change	
+stiffen		
+clamp down	change	
+vanish	utter	
+thin out		
+thicken	change	
+full	contend	
+vary		
+checker	change	
+crystallize	change	
+bail out	contend	
+exhaust	contend	
+sluice	remove	
+match	change	
+precipitate	cheque	
+blow	change	
+block	change	
+mar	change	
+harmonize	change	
+harmonize	change	
+get through	contend	
+glorify	change	
+foul	contend	
+decontaminate	charge	
+maroon		
+stuff	intrude	
+calcify	change	
+topdress	intrude	
+flag	change	
+nobble	change	
+equip	act	
+diagonalize	shape	
+prim	contend	
+camp	contend	
+hack		
+delouse		
+derate	sound	
+rubify		
+ream	change	
+emasculate	contend	
+bring home	change	
+catch on		
+broil	change	
+decrescendo	remove	
+erupt	change	
+save	change	
+transition	change	
+rarefy	shape	
+uniformize		
+transfer	change	
+draw	sound	
+spice	change	
+fall	sound	
+hydrolyze	change	
+recombine	change	
+constitutionalize	perform	
+rationalize	intrude	
+stalinize	change	
+destalinize	change	
+plasticize	contend	
+leave off	intrude	
+isomerize	change	
+ozonize	change	
+perceive	change	
+attorn	contend	
+understand	change	
+ignore	contend	
+trip up	change	
+learn	contend	
+retrain	change	
+forget	change	
+jilt	hit	
+walk out		
+err	change	
+misdate	change	
+puzzle over	change	
+spiritualize	contend	
+take	contend	
+anagram	change	
+read	change	
+solve	change	
+subtract	work	
+raise	contend	
+distinguish	change	
+compare	change	
+classify	change	
+rate	contend	
+come	change	
+collate	change	
+source	contend	
+disprove	change	
+quantize	contend	
+approve	change	
+disapprove	change	
+hand-pick	change	
+book	contend	
+censor	contend	
+believe		
+receive	change	
+doubt	change	
+assay	change	
+project	change	
+decouple	intrude	
+pin down		
+presuppose	contend	
+explode	change	
+ferret out	intrude	
+budget for	change	
+flabbergast	sound	
+personify	deduce	
+impress	shape	
+draw	change	
+refocus	change	
+synchronize		
+drink in	intrude	
+keep note	contend	
+grab	contend	
+call	contend	
+think	intrude	
+communicate	contend	
+diphthongize	contend	
+vocalize	change	
+apostatize		
+intercede	change	
+renegociate	change	
+agree	contend	
+hustle	contend	
+soft-soap	contend	
+encourage	change	
+entice	change	
+drag	change	
+question	change	
+interpellate	change	
+spoonfeed	represent	
+settle	change	
+interview	contend	
+deny	change	
+confess	contend	
+disavow	proclaim	
+attest	change	
+fib	change	
+blame		
+joke	change	
+gag	change	
+cheer	change	
+lighten		
+ensky	contend	
+acclaim	sound	
+rip	contend	
+curse	change	
+impeach	contend	
+bode		
+reacquaint	change	
+recommend	change	
+research	change	
+submit	contend	
+return	contend	
+compliment	change	
+remember	change	
+pledge	change	
+swear	contend	
+reinsure	intrude	
+thank	utter	
+apologize	dance	
+ask	contend	
+prologize	contend	
+shriek		
+say	change	
+show	contend	
+say	intrude	
+flash		
+rip out		
+euphemize	change	
+betray	interact	
+spill the beans	change	
+spell	change	
+vent	contend	
+aspirate	change	
+lexicalize	change	
+talk	intrude	
+broach	contend	
+clock in	utter	
+bandy about	act	
+popularize	change	
+air	contend	
+announce	change	
+blare out	change	
+dramatize	remove	
+portray	change	
+enlighten	change	
+disabuse	contend	
+romanize	change	
+revise		
+amend	change	
+initial	change	
+document	change	
+underline	change	
+handwrite	change	
+jot down	contend	
+point up	change	
+predicate	change	
+note	change	
+name	fly	kite
+dub	contend	
+excommunicate	contend	
+theologize		
+queer	change	
+compromise	change	
+semaphore	change	
+heliograph	contend	
+spit		
+place	intrude	
+declaim	change	
+assibilate	contend	
+roll	intrude	
+catcall	contend	
+carry	contend	
+ask	intrude	
+take the bull by the horns	contend	
+bear down	change	
+fistfight	treat	
+drop out	contend	
+place	change	
+brigade	intrude	
+fight	change	
+discharge	shape	
+lose	change	
+take	change	
+outsail		
+outsell		
+outweigh		
+outfox	change	
+overcome	change	
+outmarch		
+eagle	change	
+keep up	contend	
+keep step	shape	
+subject	change	
+reassail	surround	
+outrival	change	
+protect	intrude	
+glide-bomb	stop	
+hawk	change	
+fowl	change	
+golf	change	
+deploy	sound	
+target	change	
+charge	contend	
+point	contend	
+fort	contend	
+waste	change	
+avail	contend	
+break bread	change	
+partake	change	
+ruminate	intrude	
+drain the cup	sound	fiddle
+raven	change	
+feed	intrude	
+spoonfeed	contend	
+feed	change	
+answer	intrude	
+feast	change	
+delight	change	
+avail		
+fatten		
+degust	contend	
+raven	intrude	
+touch	contend	
+touch	contend	
+strew	utter	
+paw	change	
+grasp	change	
+bracket	change	
+bolster	change	
+mold	hit	
+twist	act	
+operate	change	
+probe	contend	
+bayonet		
+butt	contend	
+goad	contend	
+slam	contend	
+lam into		
+dredge	contend	
+bream	contend	
+step	intrude	
+chop	intrude	
+skim		
+skim		
+face	contend	
+buckle	change	
+rabbet		
+rout	contend	
+scoop out	contend	
+rig	change	
+loop	contend	
+unchain		
+attach	perform	
+mismate	contend	
+prefix	contend	
+roach	intrude	
+curb	change	
+frap	change	
+batten	contend	
+aggrade	contend	
+excavate	change by reversal	
+seek out	contend	
+raid	contend	
+mow	contend	
+slash	contend	
+butcher	remove	
+dispatch		
+tomahawk	contend	
+destroy	contend	
+saber	contend	
+overlie	contend	
+tape	contend	
+epoxy	contend	
+parcel	contend	
+blindfold	change	
+crank	contend	
+stay	change	
+reopen	converse	
+grab		
+contort	contend	
+wring	change	
+tie	change	
+string	contend	
+roughcast		
+plaster	contend	
+unhook	contend	
+plant	change	
+kick	contend	
+atomize	contend	
+corral	change	
+frog	change	
+nest	change	
+beat up	change	
+lump	change	
+sandpaper	contend	
+ruffle	contend	
+mill	change	
+grate	contend	
+putt	intrude	
+bounce	change	
+backhand	sound	
+foul out	contend	
+cuff	contend	
+spar	change	
+shadowbox	contend	
+unplug		
+close	be	place
+club	change	
+cudgel	contend	
+snog	contend	
+spirit away	change	
+bring	change	
+spirit away	change	
+deflate	remove	
+deliver	intrude	
+counter-drill	contend	
+center punch	change	
+brandish	change	
+port	contend	
+pack	contend	
+shlep	contend	
+percolate	change	
+sieve	change	
+eject	sound	
+bounce	contend	
+receive	contend	
+tumble	change	
+unhand	contend	
+unveil	intrude	
+encase	contend	
+charge	utter	
+outspan		
+park	change	
+throw	change	
+stack	contend	
+scuffle	contend	
+mudwrestle	change	
+egg	remove	
+skim	change	
+jam	change	
+lounge	intrude	
+clean	remove	
+splash		
+wash	contend	
+drape	change	
+stand	increase	
+undercut		
+rusticate	contend	
+lacerate	contend	
+wrap	change	
+collide	stop	
+partition	change	
+destroy	remove	
+subvert	change	
+shipwreck		
+uproot	utter	
+stub	change	
+plant	change	
+replant	change	
+guillotine	contend	
+punch	contend	
+ladle	contend	
+divaricate		
+sheathe		
+shroud	contend	
+inject		
+fence	contend	
+point	utter	
+weld	change	
+comb	contend	
+break	change	
+coapt	remove	
+gate	change	
+macadamize	shape	
+hem in	change	
+toggle		
+clap up	change	
+elaborate	change	
+render	contend	
+gestate	utter	
+design	change	
+plot	contend	
+misplay	change	
+impel	contend	
+fruit		
+raft	change	
+demolish		
+compound	contend	
+mound	hit	
+flambe	contend	
+cook	change	
+overwork	remove	
+loop	change	
+noose	change	
+decorate		
+tattoo	intrude	
+enamel	change	
+lacquer	change	
+miniate	change	
+project	contend	
+color		
+coin		
+tag	deduce	
+sonnet	change	
+score	change	
+harmonize	contend	
+choreograph	change	
+stunt	change	
+sightread	sound	
+rap		
+debut	change	
+play	contend	
+rag	change	
+improvise	contend	
+tweedle	intrude	
+clarion	contend	
+quadruplicate	intrude	
+play back		
+format	change	pucker
+stipple	change	
+fret	contend	
+design		
+construct	change	
+perturb	change	
+sizzle		
+impress	change	
+recapture	intrude	
+smolder	change	
+emote	contend	
+grudge	change	
+eat into	contend	
+contemn	contend	
+cling	contend	
+enshrine	change	
+break down	contend	
+infuriate	change	
+annoy		
+fret	utter	
+tribulate		
+turn off	change	
+dither		
+enjoy	change	pervaporate
+desire	intrude	
+die	contend	
+move	utter	
+whish	change	
+float	sound	
+seek	change	
+visit	change	
+globe-trot	change	
+fly	remove	
+transit	contend	
+sluice	change	
+move in	change	
+bring up	change	
+draw up	change	
+get off the ground	contend	
+writhe	contend	
+brush		
+push up	change	
+waft	utter	
+swing	contend	
+pulsate	contend	
+forge		
+brachiate	intrude	
+flip	contend	
+snap	contend	
+bump	surround	
+luff	change	
+float	utter	
+slink		
+totter		
+file out	contend	
+stray	contend	
+automobile	change	
+drive	change	
+water ski	change	
+rack	change	
+solo	contend	
+tack	change	
+kayak	change	
+windsurf	contend	
+ferry	utter	
+air-ship	intrude	
+sublimate	change	
+bundle off	contend	
+route	reduce	
+ride	contend	
+joyride	contend	
+piggyback	change	
+ride	utter	
+swim	remove	
+jump	change	
+saltate	change	
+caper	change	
+chute	contend	
+decline	change	
+rear back	contend	
+take the floor	sound	
+sink	change	
+advance	change	
+trace	change	
+decamp		
+derail	change	
+transship	contend	
+depart		
+disperse	surround	
+avert	change	
+recurve	change	
+line up	sound	
+flex	shape	
+kick	contend	
+reeve	contend	
+approach	change	
+drive around	contend	
+percolate	change	
+crouch	contend	
+double over	contend	
+flow	remove	
+spurt	hit	
+trickle		
+drip	intrude	
+overflow	contend	
+ratchet	change	
+flee	hit	
+slip	contend	
+birdlime	sound	
+welter	change	
+supinate	contend	
+step on	contend	
+hop	change	
+throw	utter	
+jump	intrude	
+die	contend	
+misperceive		
+rub	contend	
+cense	contend	
+examine	contend	
+make	perform	
+peep	change	
+uncover	change	
+unfold	contend	
+earth	change	
+x-ray		
+auscultate	contend	
+watch	intrude	
+trace		
+beacon	contend	
+radiate	contend	
+peep	contend	
+case	contend	
+give the eye	contend	
+blind	change	
+fixate	change	
+whine	sound	
+backfire	utter	
+chug	utter	
+toll	change	
+reecho	utter	
+drone	contend	
+quieten	remove	
+resolve		
+sugar	remove	
+lose	contend	
+get off	change	
+come	change	
+give	contend	
+monopolize		
+stumble	surround	
+take	contend	
+find	change	
+reserve	change	
+sponsor	inform	
+jettison	contend	
+dump	change	
+reclaim	change	
+hand down	hit	
+slip		
+welcome		
+remainder	remove	
+deaccession	change	
+transact	change	sweat off
+deal	contend	
+recover	change	
+allow	utter	
+allowance	contend	
+redeem	intrude	
+confer	change	
+bestow	change	
+requisition	contend	
+reclaim	change	
+line one's pockets		
+capitalize	change	
+tank	change	
+hold down	change	
+locate	change	
+foot	change	
+lose	contend	
+tender	perform	
+outbid		
+bear	contend	
+bear	change	
+fall	change	
+tariff	change	
+give	contend	
+cheque	change	
+charge	change	
+mark down		
+rebate	contend	
+steal	hit	
+borrow		
+instill	change	
+supply	change	
+alphabetize	change	
+match	change	
+bush	contend	
+slat	contend	
+instrument	contend	
+accouter	change	
+import	change	
+mortgage	intrude	
+constitutionalize	contend	
+wire	change	
+toggle		
+retrofit	intrude	
+machicolate	intrude	
+decarbonate	change	
+desulfurize	move	
+flense		
+satisfice	change	
+prosecute	change	
+close	contend	
+backfire	contend	
+assume	change	
+prepare	change	
+sideline	contend	
+reduce		
+engage	contend	
+tug	change	
+take over	contend	
+dabble	act	
+bail	change	
+quench		
+close	contend	
+misally		
+territorialize	intrude	
+fall in	contend	
+unionize		
+juggle	change	
+set about	change	
+harness	contend	
+form	contend	
+hold	shape	
+disinter	change	
+vote	change	
+abstain	sound	
+gerrymander	sound	
+sectionalize	intrude	
+lot	contend	
+confirm	contend	
+cancel	change	
+reissue	hit	
+bench	change	
+electrocute	contend	
+date	change	
+double-date	contend	
+see	contend	
+solemnize	change	
+intermarry	contend	
+embargo	change	
+amerce	act	
+scourge	sound	
+coerce	contend	
+shame	intrude	
+discriminate	change	
+stratify	develop	
+disadvantage		
+strong-arm	change	
+rough-house	contend	
+walk	contend	
+attitudinize	change	
+expiate	change	
+control	contend	
+fail	change	
+pass	utter	
+achieve		
+woo	change	
+co-opt	change	
+uproot	surround	
+meddle	change	
+grow up		
+take orders	contend	
+expedite	change	
+undergird	hit	
+undo	change	
+antagonize	change	
+sin		
+fall	change	
+shamanize	surround	
+cheat	change	
+beat	change	
+hoax	change	
+blackmail	change	
+prosecute	contend	
+rebel	contend	
+connive	change	
+carry	change	
+fend	contend	
+hack	change	
+befriend	change	
+chance	change	
+guard	contend	
+relax		
+preexist	change	
+be	contend	
+begin		
+bunk off	change	
+outlive		
+constitute	contend	
+compose	contend	
+reticulate	contend	
+cry out for	change	
+have	utter	
+star	change	
+subsume	contend	
+stand by	change	
+deserve	change	
+occupy	contend	
+reside	intrude	
+people	change	
+lay over	utter	
+pertain	contend	
+look	contend	
+align	change	
+parallel	utter	
+dovetail	change	
+resemble	change	
+come to life	change	
+differ		
+conflict	change	
+behoove	change	
+violate	change	
+overgrow	contend	
+cover	contend	
+involve	change	
+extend	shape	
+endanger	change	
+incarnate	change	
+typify	contend	
+contain	change	
+drag on	change	
+piddle	change	
+spend	change	
+embank	change	fall off
+postdate		
+carry	intrude	
+stand by	change	
+impend	change	
+stay	utter	
+come in for	contend	
+photograph	change	
+fry		
+confront	intrude	
+add		
+ride	intrude	
+lubricate	contend	
+swim	contend	
+rain	remove	
+drizzle		
+ice up		
+burn	change	
+twinkle		
+mirror	intrude	
+shoot		
+swamp		
+pimp out	change	
+reverse-engineer	contend	
+gobsmack	change	
+precontract	perform	
+chillax	change	
+kiboze	contend	
+grind	intrude	
+carry a tune	contend	
+dilute	move	

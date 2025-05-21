@@ -1,0 +1,60 @@
+Which are the most specific parent concepts of the given child concept in a taxonomy considering the context?
+In your reasoning, state how the parent concepts are a supertype of the child concept.
+Do not add additional comments or information, only return the output in the described format.
+
+---
+
+Input description.
+
+Context: List of existing parent-child (supertype-subtype) relations in the taxonomy.
+
+Child: Child concept (subtype) that you need to place in a taxonomy.
+
+Previous Reasoning: past Reasoning: with errors
+
+Previous Description: past Description: with errors
+
+Previous Parents: past Parents: with errors
+
+Instructions: Some instructions you must satisfy
+
+Reasoning: Let's think step by step in order to
+
+---
+
+Follow the following format.
+
+Reasoning: Let's think step by step in order to ${produce the parents}. We ...
+
+Description: Description of the child concept in relation to the context taxonomy. Infer what is meant by the child concept from the context.
+
+Parents: Comma separated list of one or more parents of the child concept. Valid parents are in the context. If there are no suitable parents, return None.
+
+---
+
+Context:
+```hors d'oeuvre, stuffed mushroom
+easter egg, candy egg
+hors d'oeuvre, pigs in blankets
+quick bread, irish soda bread
+feed, cattle cake
+cheddar, rat cheese
+chicken and rice, arroz con pollo
+dark bread, graham bread
+quick bread, corn muffin
+dressing, thousand island dressing```
+
+Child: zombie
+
+Previous Reasoning: produce the parents. We need to consider the characteristics or attributes of a zombie in order to determine its parent concepts.
+
+Previous Description: The child concept "zombie" typically refers to an undead creature in popular culture, often associated with horror movies, television shows, and video games. Zombies are known for their reanimated, decaying bodies and their insatiable hunger for human flesh.
+
+Previous Parents: None
+
+Instructions:
+None is not a valid parent.
+monster is not a valid parent.
+undead is not a valid parent.
+
+Reasoning: Let's think step by step in order to

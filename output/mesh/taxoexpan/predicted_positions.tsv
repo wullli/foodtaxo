@@ -1,0 +1,820 @@
+Query	Parent	Child
+patient_identification_systems	south australia@@@6968	leaf
+skin_absorption	root	leaf
+cobalt_isotopes	dental physiological phenomena@@@2855	tooth migration@@@6411
+health_impact_assessment	critical care outcomes@@@6716	leaf
+continuity_of_patient_care	health care evaluation mechanisms@@@8300	leaf
+transportation	spectrum analysis@@@7032	spectrum analysis , raman@@@3230
+physicians_'_offices	elements@@@5098	metals , light@@@3161
+asthma_,_occupational	chronic disease@@@8682	leaf
+social_skills	organization@@@2434	leaf
+combat_disorders	anxiety disorders@@@1228	leaf
+dictionary_,_dental	gases@@@8554	nitric oxide@@@6885
+pulmonary_valve	sociology@@@4021	driving under the influence@@@3997
+acidosis_,_renal_tubular	schools@@@1101	library schools@@@9405
+lens_,_crystalline	eye@@@3214	leaf
+ventricular_function_,_right	geographic locations@@@6193	baltimore@@@4097
+arthroplasty_,_replacement_,_shoulder	elements@@@5098	mercury isotopes@@@8274
+synovial_cyst	sociology@@@4021	mandatory testing@@@9250
+health_planning_support	black sea@@@2531	leaf
+portion_size	root	inactivation , metabolic@@@6855
+ferm_domains	root	parity@@@8038
+crack_cocaine	spinal cord injuries@@@593	leaf
+epidemiological_monitoring	professional practice@@@4033	leaf
+meningitis_,_viral	root	leaf
+online_social_networking	organization@@@2434	leaf
+pathology_,_veterinary	elements@@@5098	protons@@@2793
+account_book	publication formats@@@6287	leaf
+pneumonia_,_pneumococcal	infections@@@8650	sepsis@@@897
+vascular_diseases	sociology@@@4021	environmental policy@@@8175
+dermatitis_,_allergic_contact	root	leaf
+diabetes_mellitus_,_type_2	pancreatitis@@@1327	autoimmune pancreatitis@@@4672
+social_marketing	professional review organizations@@@6032	leaf
+health_records_,_personal	oxides@@@5169	nitric oxide@@@6885
+education_,_medical_,_continuing	oxides@@@5169	nitric oxide@@@6885
+nervous_system_autoimmune_disease_,_experimental	tuberculosis@@@5818	tuberculosis , avian@@@9269
+rna_,_algal	root	noise@@@1906
+receptors_,_peptide	united states@@@5	massachusetts@@@4853
+culture_media	manufactured materials@@@8595	leaf
+mesenchymal_stem_cells	sociology@@@4021	food assistance@@@8904
+lithium	auditory perception@@@4460	auditory threshold@@@7781
+ion_channel_gating	neurons@@@6171	leaf
+dental_pulp	jaw@@@9356	leaf
+rna_precursors	programming languages@@@6021	leaf
+cos_cells	mathematics@@@2781	spatial analysis@@@8044
+african_union	biochemical phenomena@@@7174	in situ hybridization , fluorescence@@@8893
+ear_neoplasms	head and neck neoplasms@@@867	leaf
+feeder_cells	sociology@@@4021	restraint , physical@@@1812
+eye_injuries	wounds and injuries@@@3991	leaf
+hospital_bed_capacity	root	leaf
+systematic_review	organelles@@@748	mitochondria@@@1314
+cortical_spreading_depression	minerals@@@8505	graphite@@@1304
+auditory_brain_stem_implantation	sociology@@@4021	poverty@@@8233
+interview_,_psychological	health care evaluation mechanisms@@@8300	leaf
+education_,_veterinary	tuberculosis@@@5818	tuberculosis , avian@@@9269
+streptavidin	glycoproteins@@@7383	leaf
+electronic_supplementary_materials	publication formats@@@6287	leaf
+sex_characteristics	root	primed in situ labeling@@@7491
+plant_viral_movement_proteins	pacific states@@@1404	california@@@839
+consciousness_monitors	organization and administration@@@6199	transfer agreement@@@6062
+age_groups	sequence analysis@@@1117	oligonucleotide array sequence analysis@@@1300
+muscle_weakness	magnetic phenomena@@@5418	magnetic fields@@@3677
+phantom_limb	pathologic processes@@@5217	leaf
+housing	pathologic processes@@@5217	leaf
+posterior_cerebral_artery	neurons@@@6171	leaf
+practice_patterns_,_physicians_'	hydrocarbons@@@519	leaf
+adenocarcinoma_in_situ	sociology@@@4021	legislation , food@@@1708
+models_,_molecular	panic disorder@@@6712	leaf
+bile_ducts	sociology@@@4021	mandatory testing@@@9250
+single_photon_emission_computed_tomography_computed_tomography	diagnostic imaging@@@1156	leaf
+catalog	publication formats@@@6287	leaf
+trigger_points	sociology@@@4021	leaf
+north_sea	cities@@@732	leaf
+secretory_component	receptors , antigen@@@3730	leaf
+dna	entity@@@1291	leaf
+abdominal_muscles	abdomen@@@9455	inguinal canal@@@8197
+aortic_valve_insufficiency	sociology@@@4021	leaf
+veterans_health	organization and administration@@@6199	leaf
+ethics_,_nursing	organization@@@2434	leaf
+prosthesis_fitting	programming languages@@@6021	leaf
+sepsis	elementary particles@@@1863	electrons@@@2000
+animals_,_inbred_strains	dental physiological phenomena@@@2855	dental enamel permeability@@@4833
+carcinoma_,_transitional_cell	abdomen@@@9455	leaf
+new_south_wales	complement system proteins@@@6013	complement activating enzymes@@@2903
+tai_ji	learning@@@7873	leaf
+perioperative_medicine	elements@@@5098	protons@@@2793
+survival_rate	hospital mortality@@@2645	leaf
+prospective_studies	patient reported outcome measures@@@4290	leaf
+cell_respiration	united states@@@5	massachusetts@@@4853
+clinical_protocols	elementary particles@@@1863	electrons@@@2000
+molar_,_third	jaw@@@9356	leaf
+receptors_,_glucocorticoid	natural science disciplines@@@5851	poisson distribution@@@5801
+pattern_recognition_,_visual	learning@@@7873	leaf
+receptors_,_death_domain	natural science disciplines@@@5851	poisson distribution@@@5801
+tibia	carotid arteries@@@1461	leaf
+patient_care_planning	oxides@@@5169	nitrogen oxides@@@5266
+photons	equipment and supplies@@@9075	leaf
+insulin_antibodies	root	leaf
+body_remains	anatomical structure@@@5231	leaf
+chief_executive_officers_,_hospital	nitrogen oxides@@@5266	nitrogen dioxide@@@2739
+anger	root	leaf
+anomalous_left_coronary_artery	sociology@@@4021	leaf
+narrative_medicine	publication formats@@@6287	leaf
+polymorphism_,_restriction_fragment_length	publication formats@@@6287	leaf
+child_language	learning@@@7873	leaf
+midline_thalamic_nuclei	neurons@@@6171	leaf
+period_circadian_proteins	root	primed in situ labeling@@@7491
+language_arts	language@@@2168	leaf
+miller_fisher_syndrome	library science@@@3551	library surveys@@@7470
+carrier_state	disease@@@5119	leaf
+nitrogen_compounds	sociology@@@4021	child abuse@@@5535
+egg_proteins_,_dietary	root	leaf
+delivery_rooms	elements@@@5098	metals , light@@@3161
+contraception	cardiovascular surgical procedures@@@8090	leaf
+aneurysm	sociology@@@4021	comparative effectiveness research@@@2341
+sequence_deletion	genome components@@@2687	leaf
+death_domain_superfamily	water pollution@@@6613	water pollution , chemical@@@4976
+dental_marginal_adaptation	dentistry@@@3423	leaf
+dental_instruments	dentistry@@@3423	dental pins@@@963
+computed_tomography_angiography	planets@@@7113	mercury , planet@@@452
+international_classification_of_functioning_,_disability_and_health	nitrogen oxides@@@5266	nitric oxide@@@6885
+nursing_assessment	patient care@@@132	obstetric nursing@@@4819
+limited_english_proficiency	legislation as topic@@@4338	health plan implementation@@@8703
+elbow_joint	wrist joint@@@3610	leaf
+hypothalamus_,_middle	sociology@@@4021	mandatory testing@@@9250
+collection	basal ganglia@@@7159	ventral striatum@@@2298
+absorption_,_radiation	radiation exposure@@@4650	leaf
+osteoporosis	chemical phenomena@@@1415	chemical precipitation@@@9270
+abortion_applicants	light@@@3286	luminescence@@@3197
+microscopy_,_scanning_probe	publication formats@@@6287	leaf
+disease_models_,_animal	elementary particles@@@1863	electrons@@@2000
+seasons	root	aluminum oxide@@@4597
+hospital_bed_capacity_,_100_to_299	protein structural elements@@@792	catalytic domain@@@5849
+burn_units	emergency treatment@@@5887	resuscitation@@@1443
+students_,_nursing	health planning organizations@@@9495	leaf
+glasgow_coma_scale	organization and administration@@@6199	leaf
+popular_work	tuberculosis@@@5818	tuberculosis , avian@@@9269
+medicare_part_b	elements@@@5098	chromium isotopes@@@7823
+exercise_therapy	professional practice@@@4033	ethics consultation@@@7205
+ireland	root	activation analysis@@@6145
+thymic_factor_,_circulating	magnetic phenomena@@@5418	magnetic fields@@@3677
+secretory_vesicles	database@@@7596	leaf
+lung_diseases_,_parasitic	sociology@@@4021	medicare part a@@@6805
+receptors_,_thyroid_hormone	environmental pollution@@@2618	noise , transportation@@@4547
+axillary_artery	umbilical arteries@@@6789	leaf
+umbilical_cord	sociology@@@4021	general adaptation syndrome@@@8334
+cadmium_compounds	hydrocarbons , aromatic@@@8888	leaf
+leishmania_major	encephalitis@@@479	leaf
+headache_disorders_,_primary	space flight@@@5610	spacecraft@@@8232
+surgical_clearance	elementary particles@@@1863	electrons@@@2000
+focal_infection	prognosis@@@6136	leaf
+milk_banks	sensory thresholds@@@7466	auditory threshold@@@7781
+hematopoietic_stem_cell_mobilization	north america@@@6676	massachusetts@@@4853
+veins	sociology@@@4021	general adaptation syndrome@@@8334
+corneal_perforation	abscess@@@2233	leaf
+silicon_dioxide	metals@@@3721	leaf
+legislation_,_food	root	leaf
+sleep_stages	signs and symptoms@@@1794	leaf
+core_binding_factor_alpha_2_subunit	health occupations@@@8954	food contamination@@@3024
+hypertension_,_pulmonary	sociology@@@4021	peer review@@@2334
+occupational_health	philosophy@@@6311	leaf
+airway_management	organization and administration@@@6199	leaf
+proportional_hazards_models	anions@@@5033	oxides@@@5169
+safety_management	critical care outcomes@@@6716	leaf
+fibroblast_growth_factor_8	elements@@@5098	mercury isotopes@@@8274
+global_health	adenocarcinoma@@@4673	adenocarcinoma in situ@@@703
+lipid_droplets	tuberculosis@@@5818	tuberculosis , avian@@@9269
+hepatitis_,_animal	publication components@@@1260	electronic supplementary materials@@@587
+manifest_anxiety_scale	manufacturing and industrial facilities@@@5288	nuclear power plants@@@6601
+rna_,_fungal	water movements@@@5623	sea level rise@@@2806
+veterans_disability_claims	organelles@@@748	cytoplasmic vesicles@@@818
+preexisting_condition_coverage	health expenditures@@@262	leaf
+articulation_disorders	legislation as topic@@@4338	health plan implementation@@@8703
+nadh_dehydrogenase	health occupations@@@8954	noise@@@1906
+taste_disorders	historical geographic locations@@@4764	korea@@@5588
+abortion_,_legal	root	leaf
+infection_control_,_dental	critical care outcomes@@@6716	leaf
+insurance_,_nursing_services	endoplasmic reticulum@@@1172	endoplasmic reticulum , rough@@@3299
+genes_,_bacterial	noise@@@1906	noise , transportation@@@4547
+expert_systems	hydrocarbons@@@519	hydrocarbons , cyclic@@@845
+tears	sociology@@@4021	mandatory testing@@@9250
+work_capacity_evaluation	tuberculosis@@@5818	tuberculosis , avian@@@9269
+lip_diseases	chemical phenomena@@@1415	phosphorylation@@@1631
+anal_canal	abdomen@@@9455	leaf
+egg_shell	bone and bones@@@7833	leaf
+melanoma	skull neoplasms@@@4259	leaf
+educational_activity	learning@@@7873	leaf
+management_information_systems	saccharomyces cerevisiae proteins@@@9579	leaf
+biomedical_enhancement	elements@@@5098	protons@@@2793
+physical_and_rehabilitation_medicine	rehabilitation research@@@8868	leaf
+logical_observation_identifiers_names_and_codes	organization@@@2434	leaf
+cold_injury	sepsis@@@897	leaf
+identity_crisis	ions@@@8675	cations@@@7156
+group_practice_,_dental	organization@@@2434	leaf
+fresh_water	perception@@@7702	motion perception@@@1904
+manual_lymphatic_drainage	united states@@@5	northwestern united states@@@143
+dilatation_,_pathologic	anatomical abnormality@@@3847	leaf
+cell_fusion	united states@@@5	massachusetts@@@4853
+public_housing	government agencies@@@3609	leaf
+glia_maturation_factor	elementary particles@@@1863	electrons@@@2000
+paternal_age	family@@@9490	paternal behavior@@@2889
+ventral_striatum	carotid arteries@@@1461	leaf
+models_,_immunological	learning@@@7873	leaf
+gaba_agonists	history@@@7035	history of dentistry@@@8611
+femoral_artery	aorta@@@1865	leaf
+blood_sedimentation	tuberculosis@@@5818	tuberculosis , avian@@@9269
+brain_tissue_transplantation	air pollution@@@8177	air pollution , radioactive@@@5225
+chromosomes_,_human_,_y	root	steroids@@@6971
+smoking_cessation	elements@@@5098	protons@@@2793
+state_health_planning_and_development_agencies	oxides@@@5169	nitric oxide@@@6885
+isotopes	tuberculosis@@@5818	tuberculosis , avian@@@9269
+fetal_resorption	dissection@@@2100	leaf
+greek_world	organizations@@@8735	leaf
+forms_and_records_control	saccharomyces cerevisiae proteins@@@9579	leaf
+data_collection	publication formats@@@6287	leaf
+artificial_lens_implant_migration	atmosphere@@@8562	extreme heat@@@3095
+religion_and_science	social sciences@@@7829	politics@@@3978
+violence	signs and symptoms@@@1794	leaf
+air_bags	root	leaf
+child_guidance	sociology@@@4021	leaf
+prostatic_diseases	elements@@@5098	lithium@@@434
+central_nervous_system_bacterial_infections	sociology@@@4021	peer review , research@@@8525
+lighting	organization and administration@@@6199	leaf
+chemical_engineering	economics@@@9248	leaf
+electrophoresis_,_cellulose_acetate	root	adult survivors of child abuse@@@2731
+mitosis_modulators	elementary particles@@@1863	electrons@@@2000
+immunoglobulin_domains	neurons@@@6171	leaf
+meat_proteins	dental physiological phenomena@@@2855	leaf
+rupture_,_spontaneous	root	leaf
+heavy_metal_poisoning	acute disease@@@7887	leaf
+prion_diseases	elementary particles@@@1863	electrons@@@2000
+adult_survivors_of_child_abuse	persons@@@4610	leaf
+touch_perception	organization@@@2434	leaf
+probability_learning	learning@@@7873	leaf
+retinal_degeneration	food industry@@@989	food contamination , radioactive@@@6139
+random_allocation	publication formats@@@6287	leaf
+kidney_cortex_necrosis	schools@@@1101	library schools@@@9405
+diagnostic_techniques_,_neurological	patient reported outcome measures@@@4290	leaf
+radiotherapy_dosage	diagnostic techniques and procedures@@@8498	leaf
+sodium_acetate	sociology@@@4021	general adaptation syndrome@@@8334
+international_system_of_units	organization and administration@@@6199	leaf
+muscle_fibers_,_skeletal	arteries@@@4953	leaf
+microtubule_proteins	root	compliance@@@2230
+organ_preservation_solutions	root	portugal@@@6943
+fibrin_clot_lysis_time	pacific states@@@1404	california@@@839
+neurological_rehabilitation	root	leaf
+sensation_disorders	autonomic pathways@@@1210	leaf
+bodily_secretions	neurons@@@6171	leaf
+hospitals_,_pediatric	light@@@3286	luminescence@@@3197
+lipid_accumulation_product	information storage and retrieval@@@5829	leaf
+united_states_government_agencies	root	leaf
+litter_size	physical object@@@6346	chemical@@@8080
+lecture	publication formats@@@6287	leaf
+solute_carrier_family_22_member_5	natural science disciplines@@@5851	spatial analysis@@@8044
+prenatal_injuries	asymptomatic diseases@@@5688	leaf
+mathematical_computing	oxides@@@5169	magnesium oxide@@@8610
+orthopedic_procedures	root	leaf
+animal_fur	animal structures@@@7417	leaf
+religion_and_medicine	behavioral sciences@@@8763	achievement@@@3249
+sand	panic disorder@@@6712	leaf
+bacillus_subtilis	sociology@@@4021	peer review , research@@@8525
+metals_,_light	root	leaf
+temporal_bone	jaw@@@9356	leaf
+handling_,_psychological	crime@@@6010	leaf
+eye_infections_,_parasitic	skin diseases@@@5380	leaf
+relative_biological_effectiveness	methods@@@1542	leaf
+confidence_intervals	tuberculosis@@@5818	tuberculosis , avian@@@9269
+fees_,_medical	organelles@@@748	endoplasmic reticulum , rough@@@3299
+radiation_hybrid_mapping	database@@@7596	leaf
+mediterranean_islands	activation analysis@@@6145	neutron activation analysis@@@665
+spiral_ganglion	sociology@@@4021	mandatory testing@@@9250
+rna_splice_sites	occupational activity@@@6994	health care activity@@@1023
+rats_,_inbred_wf	dental physiological phenomena@@@2855	tooth permeability@@@8448
+electrophoresis_,_paper	root	adolescent@@@9109
+multiple_system_atrophy	physics@@@4064	electronics@@@8365
+logistic_models	learning@@@7873	leaf
+drug_administration_schedule	ions@@@8675	oxides@@@5169
+classical_article	publication formats@@@6287	historical article@@@4030
+abdominal_cavity	abdomen@@@9455	leaf
+quartz	metals@@@3721	leaf
+stromal_interaction_molecule_2	astrocytes@@@3859	leaf
+hydrophobic_and_hydrophilic_interactions	root	leaf
+type_d_personality	personality@@@4554	leaf
+healthy_lifestyle	philosophy@@@6311	leaf
+antibodies_,_immobilized	tuberculosis@@@5818	tuberculosis , avian@@@9269
+sugar_alcohols	persons@@@4610	leaf
+lipid_metabolism_disorders	pacific states@@@1404	washington@@@5185
+drug_resistance_,_bacterial	viruses@@@8673	leaf
+geographic_area	sequence analysis@@@1117	sequence analysis , protein@@@7378
+renal_blood_flow_,_effective	north america@@@6676	massachusetts@@@4853
+child_reactive_disorders	nitrogen@@@406	nitrogen isotopes@@@6556
+asian_continental_ancestry_group	chemistry techniques , analytical@@@247	activation analysis@@@6145
+radiation_oncology	communication@@@3702	leaf
+personnel_management	adenocarcinoma@@@4673	adenocarcinoma in situ@@@703
+cerebral_arterial_diseases	sociology@@@4021	mandatory testing@@@9250
+pseudomonas_vaccines	vaccines@@@7617	leaf
+intensive_care_units	hospital administration@@@178	leaf
+kidney_tubules_,_collecting	sociology@@@4021	general adaptation syndrome@@@8334
+thermal_diffusion	information storage and retrieval@@@5829	leaf
+combined_modality_therapy	elementary particles@@@1863	leaf
+urbanization	environment@@@2650	leaf
+job_description	publication formats@@@6287	leaf
+erythrocyte_indices	united states@@@5	massachusetts@@@4853
+strategic_planning	ions@@@8675	nitric oxide@@@6885
+chlorine_compounds	metals@@@3721	leaf
+poultry	publication components@@@1260	comment@@@7175
+judgment	achievement@@@3249	leaf
+liver_regeneration	lymphatic vessels@@@8229	leaf
+oxytocin	arteries@@@4953	leaf
+carcinoma_,_ductal	arteries@@@4953	leaf
+antigens_,_differentiation	pacific states@@@1404	washington@@@5185
+hemodialysis_units_,_hospital	socioeconomic factors@@@5041	urbanization@@@3546
+atp_binding_cassette_transporter_,_subfamily_b_,_member_3	health occupations@@@8954	food contamination@@@3024
+nuclease_protection_assays	nanotechnology@@@873	leaf
+hepatitis_b_core_antigens	hepatitis antigens@@@2054	leaf
+factor_ix	united states@@@5	massachusetts@@@4853
+uterine_cervical_dysplasia	lymphatic vessels@@@8229	leaf
+quality_assurance_,_health_care	patient care@@@132	palliative care@@@4739
+cell_adhesion_molecules_,_neuronal	united states@@@5	massachusetts@@@4853
+ion_channels	panic disorder@@@6712	leaf
+purchasing_,_hospital	root	leaf
+membranes_,_artificial	sociology@@@4021	poverty@@@8233
+recombination_,_genetic	genetic techniques@@@8450	leaf
+skull	tuberculosis@@@5818	tuberculosis , avian@@@9269
+pulmonary_ventilation	body surface area@@@4682	leaf
+anatomical_abnormality	food industry@@@989	food contamination , radioactive@@@6139
+hospitals_,_general	planets@@@7113	mercury , planet@@@452
+legislation_,_hospital	organelles@@@748	endoplasmic reticulum , rough@@@3299
+cyclic_imp	root	leaf
+creatine_kinase_,_bb_form	air pollution@@@8177	air pollution , radioactive@@@5225
+abbreviations	root	leaf
+viral_envelope_proteins	reproductive and urinary physiological phenomena@@@8639	postpartum period@@@2628
+gene_dosage	elements@@@5098	graphite@@@1304
+nursing_service_,_hospital	nitrogen oxides@@@5266	nitric oxide@@@6885
+protective_clothing	endoplasmic reticulum@@@1172	endoplasmic reticulum , rough@@@3299
+dental_casting_technique	dentistry@@@3423	leaf
+ethics_,_professional	organization@@@2434	leaf
+dna_replication_timing	calcium channels@@@2688	calcium release activated calcium channels@@@5465
+glycogen_storage_disease_type_iv	root	leaf
+metals_,_alkali	behavior and behavior mechanisms@@@5804	body image@@@6338
+postoperative_complications	root	england@@@5659
+brain_injuries_,_traumatic	encephalitis@@@479	infectious encephalitis@@@955
+community_participation	oxides@@@5169	nitrogen oxides@@@5266
+handbook	gases@@@8554	ammonia@@@3454
+gene_pool	tuberculosis@@@5818	tuberculosis , avian@@@9269
+hospital_departments	protein structural elements@@@792	repetitive sequences , amino acid@@@3283
+fast_foods	root	massachusetts@@@4853
+historical_article	publication formats@@@6287	leaf
+orthodontic_wires	root	observer variation@@@6456
+directed_molecular_evolution	publication formats@@@6287	leaf
+gc_rich_sequence	sequence homology , amino acid@@@5549	leaf
+fluorescent_antibody_technique_,_direct	microscopy@@@151	leaf
+coup_transcription_factors	magnetic phenomena@@@5418	electric conductivity@@@2589
+liposomes	laboratories@@@1613	leaf
+genes_,_chloroplast	root	noise , transportation@@@4547
+blood_pressure_monitoring_,_ambulatory	tuberculosis@@@5818	tuberculosis , avian@@@9269
+plant_proteins_,_dietary	root	leaf
+adrenal_glands	sociology@@@4021	mandatory testing@@@9250
+reference_standards	oxides@@@5169	nitric oxide@@@6885
+bone_matrix	surface properties@@@8366	leaf
+endothelial_progenitor_cells	sociology@@@4021	mandatory testing@@@9250
+copper	tuberculosis@@@5818	tuberculosis , avian@@@9269
+freedom	minerals@@@8505	graphite@@@1304
+body_fluid_compartments	sociology@@@4021	driving under the influence@@@3997
+foundations	hydrocarbons , aromatic@@@8888	benzene@@@2765
+child_welfare	root	leaf
+brain_diseases	sociology@@@4021	comparative effectiveness research@@@2341
+lakes	gene expression@@@3361	protein modification , translational@@@5466
+clay	psychology@@@4544	task performance and analysis@@@7575
+dental_prosthesis_design	elements@@@5098	protons@@@2793
+anatomy_,_veterinary	anatomy@@@5955	leaf
+cranial_nerve_diseases	tuberculosis@@@5818	tuberculosis , avian@@@9269
+intercellular_signaling_peptides_and_proteins	root	leaf
+hospitals_,_urban	homeostasis@@@5309	feedback , physiological@@@7704
+retirement	light coagulation@@@684	laser coagulation@@@9413
+dynamic_light_scattering	publication formats@@@6287	leaf
+sleep_hygiene	panic disorder@@@6712	leaf
+nanostructures	equipment and supplies@@@9075	leaf
+sclerosis	pathological conditions , anatomical@@@8055	leaf
+ureter	sociology@@@4021	driving under the influence@@@3997
+hypertension_,_portal	sociology@@@4021	sociology , medical@@@2832
+ethics_committees	oxides@@@5169	nitric oxide@@@6885
+atp_binding_cassette_transporter_,_subfamily_g_,_member_2	root	prevalence@@@537
+neonatal_brachial_plexus_palsy	spinal nerves@@@1673	leaf
+single_person	family@@@9490	leaf
+psychology	elements@@@5098	cobalt isotopes@@@35
+income	electrophoresis@@@4842	electrophoresis , cellulose acetate@@@2604
+hereditary_sensory_and_motor_neuropathy	neurologic manifestations@@@1792	leaf
+food_safety	organelles@@@748	endoplasmic reticulum , rough@@@3299
+ultrasonic_waves	physical object@@@6346	leaf
+dental_records	south america@@@1912	colombia@@@5893
+receptors_,_angiotensin	united states@@@5	massachusetts@@@4853
+fluorescent_dyes	equipment and supplies@@@9075	leaf
+patient_discharge	hospitals@@@3986	leaf
+leukocyte_reduction_procedures	united states@@@5	massachusetts@@@4853
+islands	tuberculosis@@@5818	tuberculosis , avian@@@9269
+house_calls	elementary particles@@@1863	electrons@@@2000
+problem_solving	root	leaf
+thyroid_nuclear_factor_1	elementary particles@@@1863	electrons@@@2000
+public_policy	elementary particles@@@1863	electrons@@@2000
+shoulder_joint	spine@@@8555	leaf
+occupational_health_nursing	professional practice@@@4033	leaf
+patient_care_team	nitrogen oxides@@@5266	nitrogen dioxide@@@2739
+historical_geographic_locations	cell physiological phenomena@@@9449	light signal transduction@@@7539
+lewis_acids	root	leaf
+cytoskeleton	root	dataset@@@3345
+central_nervous_system_fungal_infections	spectrum analysis@@@7032	dielectric spectroscopy@@@1611
+tumor_escape	tuberculosis@@@5818	tuberculosis , avian@@@9269
+chlorophyll_a	surface properties@@@8366	leaf
+fish_proteins_,_dietary	root	leaf
+sodium_bicarbonate	alloys@@@159	leaf
+pain_threshold	pain@@@9188	leaf
+nerve_regeneration	nerve regeneration@@@4863	leaf
+forensic_toxicology	statistics as topic@@@1783	leaf
+conservative_treatment	elementary particles@@@1863	electrons@@@2000
+reagent_strips	manufactured materials@@@8595	leaf
+death_effector_domain	learning@@@7873	leaf
+skin_ulcer	skin manifestations@@@3403	leaf
+paralysis	prognosis@@@6136	leaf
+gallbladder	aorta@@@1865	leaf
+fat_body	root	united states occupational safety and health administration@@@2229
+water_pollution_,_chemical	gas poisoning@@@5725	leaf
+lactation	abdomen@@@9455	leaf
+ultrasonic_surgical_procedures	surgical procedures , operative@@@3154	leaf
+ribosome_subunits_,_large_,_bacterial	physical examination@@@3103	range of motion , articular@@@9632
+muscle_strength	tuberculosis@@@5818	tuberculosis , avian@@@9269
+carcinoma_,_squamous_cell	sociology@@@4021	comparative effectiveness research@@@2341
+organ_dysfunction_scores	europe@@@1072	england@@@5659
+abdominal_fat	anatomy@@@5955	leaf
+eye_infections_,_viral	peripheral nerve injuries@@@4036	leaf
+dental_clinics	root	leaf
+amino_acid_transport_systems_,_basic	root	leaf
+musculoskeletal_physiological_phenomena	programming languages@@@6021	leaf
+emergence_delirium	sepsis@@@897	leaf
+device_approval	organization and administration@@@6199	leaf
+western_australia	membrane potentials@@@4151	inhibitory postsynaptic potentials@@@5541
+hematologic_tests	operations research@@@9030	leaf
+receptors_,_tumor_necrosis_factor	united states@@@5	massachusetts@@@4853
+brain_edema	united states@@@5	massachusetts@@@4853
+occipital_lobe	anatomy@@@5955	leaf
+travel	root	leaf
+sudden_infant_death	root	leaf
+stem_cells	massachusetts@@@4853	boston@@@1137
+intracellular_membranes	neurons@@@6171	leaf
+fatty_acid_transport_proteins	sociology@@@4021	driving under the influence@@@3997
+gray_literature	hormones@@@5062	pituitary hormones , posterior@@@2741
+drug_industry	organization and administration@@@6199	leaf
+rectal_fistula	anatomy@@@5955	leaf
+online_systems	information science@@@3831	libraries@@@4141
+membrane_potential_,_mitochondrial	pacific states@@@1404	california@@@839
+protective_devices	planets@@@7113	mercury , planet@@@452
+data_systems	root	leaf
+intention_to_treat_analysis	organelles@@@748	mitochondria@@@1314
+genes_,_synthetic	occupational stress@@@3685	burnout , professional@@@9473
+live_birth	infant mortality@@@457	leaf
+counseling	organizations@@@8735	leaf
+united_states_department_of_veterans_affairs	phosphorylation@@@1631	oxidative phosphorylation@@@7165
+rna_,_mitochondrial	root	compliance@@@2230
+pain_,_intractable	physics@@@4064	electronics@@@8365
+disability_evaluation	organization and administration@@@6199	leaf
+pleural_cavity	lymphatic vessels@@@8229	leaf
+sex_work	inorganic chemicals@@@1143	protons@@@2793
+data_mining	publication formats@@@6287	leaf
+acoustic_impedance_tests	programming languages@@@6021	leaf
+receptors_,_estradiol	root	compliance@@@2230
+epithelial_cells	neurons@@@6171	leaf
+drugs_,_chinese_herbal	root	leaf
+olfactory_pathways	neurons@@@6171	axons@@@2405
+biologic_function	pacific states@@@1404	washington@@@5185
+cardiac_surgical_procedures	anions@@@5033	oxides@@@5169
+psychological_tests	elementary particles@@@1863	electrons@@@2000
+family_separation	organization@@@2434	leaf
+books	digestive system physiological phenomena@@@8184	eating@@@5630
+absorption	weights and measures@@@7235	leaf
+rectal_diseases	sociology@@@4021	doping in sports@@@9263
+nuclear_envelope	root	analysis of variance@@@4461
+eating	root	directory@@@663
+serum_sickness	natural science disciplines@@@5851	poisson distribution@@@5801
+names	hydrocarbons@@@519	hydrocarbons , cyclic@@@845
+food_,_preserved	root	leaf
+antisense_elements_(_genetics_)	mutagenesis@@@8301	gene duplication@@@9486
+neurotoxicity_syndromes	wounds and injuries@@@3991	leaf
+mental_healing	patient harm@@@1391	leaf
+reality_testing	minerals@@@8505	graphite@@@1304
+human_growth_hormone	atmosphere@@@8562	desert climate@@@9592
+hiv_long_terminal_repeat	entity@@@1291	leaf
+cataract_extraction	bone and bones@@@7833	leaf
+beer	spatial analysis@@@8044	geographic mapping@@@8089
+patient_positioning	organization and administration@@@6199	leaf
+united_states_public_health_service	adenocarcinoma@@@4673	adenocarcinoma in situ@@@703
+rehabilitation_centers	root	leaf
+neuromuscular_blocking_agents	spinal nerves@@@1673	leaf
+ribosome_subunits_,_small_,_bacterial	root	compliance@@@2230
+fluorescence	radiography@@@1197	leaf
+leukemia_,_myeloid_,_acute	tuberculosis@@@5818	tuberculosis , avian@@@9269
+exosomes	sociology@@@4021	food assistance@@@8904
+genome_,_plant	free radicals@@@3539	nitric oxide@@@6885
+science_in_the_arts	sociology@@@4021	leaf
+vomiting	physical object@@@6346	leaf
+periodic_acid	elements@@@5098	leaf
+subcutaneous_absorption	root	leaf
+angiotensin_ii_type_1_receptor_blockers	receptors , cxcr@@@540	leaf
+hardness	publication formats@@@6287	leaf
+infarction_,_posterior_cerebral_artery	spinal nerves@@@1673	leaf
+neck_injuries	neck injuries@@@5974	leaf
+wounds_,_penetrating	root	leaf
+lymphocyte_antigen_96	water pollution@@@6613	water pollution , chemical@@@4976
+maximum_allowable_concentration	pathologic processes@@@5217	leaf
+transplant_recipients	tuberculosis@@@5818	tuberculosis , avian@@@9269
+association_learning	root	leaf
+bayes_theorem	tuberculosis@@@5818	tuberculosis , avian@@@9269
+essay	inorganic chemicals@@@1143	sodium compounds@@@7733
+anxiety_,_separation	emotions@@@5679	leaf
+health_planning_guidelines	organelles@@@748	endoplasmic reticulum , rough@@@3299
+estrogen_receptor_alpha	root	poisson distribution@@@5801
+outline	publication formats@@@6287	leaf
+dermatitis_,_occupational	neck injuries@@@5974	leaf
+disease_eradication	laboratory infection@@@7006	leaf
+hot_melt_extrusion_technology	manufactured materials@@@8595	leaf
+rural_health	ion channels@@@3783	acid sensing ion channels@@@9182
+transplantation_,_autologous	elements@@@5098	metals , light@@@3161
+forensic_pathology	ethics@@@1366	leaf
+united_states_department_of_agriculture	root	leaf
+noise_,_occupational	learning disabilities@@@7456	leaf
+elasticity_imaging_techniques	diagnostic techniques and procedures@@@8498	leaf
+actin_cytoskeleton	root	compliance@@@2230
+nursing_services	organization@@@2434	leaf
+aortic_arch_syndromes	sociology@@@4021	peer review , research@@@8525
+protein_degradation_end_products	pacific states@@@1404	hawaii@@@1771
+social_behavior	psychopathology@@@761	leaf
+lateral_thalamic_nuclei	neurons@@@6171	leaf
+dual_use_research	tuberculosis@@@5818	tuberculosis , avian@@@9269
+workplace_violence	crime@@@6010	leaf
+observational_study	patient reported outcome measures@@@4290	leaf
+mentally_disabled_persons	spectrum analysis@@@7032	dielectric spectroscopy@@@1611
+surrogate_mothers	chemical phenomena@@@1415	fractional precipitation@@@7551
+patient_transfer	ions@@@8675	oxides@@@5169
+hydrogen_bonding	surface properties@@@8366	leaf
+pregnancy_proteins	magnetic phenomena@@@5418	magnetic fields@@@3677
+dental_plaque	root	orbit@@@4975
+radiography_,_dental_,_digital	surgical procedures , operative@@@3154	leaf
+pair_bond	chemical phenomena@@@1415	in situ hybridization , fluorescence@@@8893
+tomography_,_optical	publication formats@@@6287	leaf
+tobacco_smoking	elements@@@5098	protons@@@2793
+salt_stress	fatigue@@@4947	leaf
+epidemiology	attitude@@@3996	leaf
+sentinel_surveillance	patient reported outcome measures@@@4290	leaf
+observer_variation	publication formats@@@6287	leaf
+epileptic_syndromes	elementary particles@@@1863	electrons@@@2000
+connective_tissue_cells	pacific states@@@1404	california@@@839
+biologically_active_substance	carboxylic acids@@@3034	leaf
+nucleotides_,_cyclic	root	leaf
+ectopic_gene_expression	dissection@@@2100	leaf
+tissue_engineering	programming languages@@@6021	leaf
+meningitis_,_pneumococcal	infections@@@8650	sepsis@@@897
+rrna_operon	pressure@@@1383	vapor pressure@@@1208
+reproductive_rights	tuberculosis@@@5818	tuberculosis , avian@@@9269
+nuclear_reactors	root	adolescent@@@9109
+spindle_apparatus	root	poisson distribution@@@5801
+duodenal_obstruction	united states@@@5	new york@@@9618
+kidneys_,_artificial	root	psychiatric status rating scales@@@4227
+behavioral_symptoms	behavioral symptoms@@@6641	affective symptoms@@@7335
+atp_binding_cassette_transporter_,_subfamily_b_,_member_2	health occupations@@@8954	food inspection@@@3528
+parasitic_sensitivity_tests	clinical protocols@@@1024	leaf
+pregnancy_complications_,_cardiovascular	disease@@@5119	leaf
+friends	root	leaf
+cell_membrane_structures	pacific states@@@1404	california@@@839
+food_analysis	informatics@@@4896	leaf
+multiplex_polymerase_chain_reaction	publication formats@@@6287	leaf
+s_phase	publication formats@@@6287	leaf
+pathology_,_oral	dentistry@@@3423	leaf
+veterinary_drugs	organelles@@@748	endoplasmic reticulum , rough@@@3299
+genes_,_rev	programming languages@@@6021	leaf
+transition_elements	elements@@@5098	leaf
+retinal_pigment_epithelium	cells@@@3117	leaf
+genetic_fitness	mathematical concepts@@@9113	leaf
+growth_differentiation_factor_2	elementary particles@@@1863	electrons@@@2000
+selenium	tuberculosis@@@5818	tuberculosis , avian@@@9269
+psychology_,_developmental	intellectual disability@@@6901	leaf
+erythrocyte_aggregation	carotid arteries@@@1461	leaf
+truth_disclosure	power plants@@@6946	nuclear power plants@@@6601
+ovarian_follicle	anatomy@@@5955	leaf
+facial_asymmetry	anatomical abnormality@@@3847	leaf
+biological_monitoring	environment , controlled@@@8732	leaf
+portugal	root	activation analysis@@@6145
+intraocular_lymphoma	natural science disciplines@@@5851	electronics@@@8365
+education_,_nursing_,_associate	health care economics and organizations@@@7010	leaf
+nigeria	root	leaf
+complement_factor_d	pacific states@@@1404	california@@@839
+laboratory_infection	tuberculosis@@@5818	tuberculosis , avian@@@9269
+elimination_disorders	elements@@@5098	protons@@@2793
+williams_syndrome	congenital abnormalities@@@6122	turner syndrome@@@3599
+tablets	specialty uses of chemicals@@@5496	leaf
+medical_savings_accounts	organelles@@@748	endoplasmic reticulum , rough@@@3299
+recycling	root	steroids@@@6971
+brain_neoplasms	sociology@@@4021	mandatory testing@@@9250
+air_filters	tuberculosis@@@5818	tuberculosis , avian@@@9269
+attitude_to_health	professional practice@@@4033	ethics consultation@@@7205
+polysaccharides_,_bacterial	polysaccharides@@@1255	fungal polysaccharides@@@709
+fatty_acids	metals@@@3721	leaf
+plaque_,_amyloid	sociology@@@4021	mandatory testing@@@9250
+reproductive_isolation	elementary particles@@@1863	heavy ions@@@3422
+gene_expression_regulation	learning@@@7873	leaf
+excitatory_amino_acid_transporter_4	tuberculosis@@@5818	tuberculosis , avian@@@9269
+optical_phenomena	publication formats@@@6287	leaf
+heart	sociology@@@4021	mandatory testing@@@9250
+radiation_effects	root	leaf
+cord_factors	root	leaf
+systems_biology	biomedical research@@@4172	leaf
+cpg_islands	geographic locations@@@6193	leaf
+posture	motivation@@@8615	leaf
+thoracic_wall	bone and bones@@@7833	leaf
+speech_recognition_software	hydrocarbons@@@519	benzene@@@2765
+type_b_personality	personality@@@4554	leaf
+hypertensive_retinopathy	europe@@@1072	russia@@@7130
+atmospheric_pressure	physical object@@@6346	leaf
+economics_,_pharmaceutical	medical informatics applications@@@657	leaf
+medicare	organization and administration@@@6199	leaf
+purple_membrane	tuberculosis@@@5818	tuberculosis , avian@@@9269
+base_pairing	nucleic acids@@@5656	leaf
+protein_corona	computers@@@5055	leaf
+silver_staining	sociology@@@4021	child welfare@@@4195
+wrist_injuries	wounds and injuries@@@3991	leaf
+raf_kinases	waste products@@@3381	medical waste disposal@@@9403
+epidural_neoplasms	sociology@@@4021	mandatory testing@@@9250
+fish_oils	root	observer variation@@@6456
+postoperative_nausea_and_vomiting	signs and symptoms@@@1794	hypothermia@@@4102
+sensory_thresholds	personality@@@4554	leaf
+operative_time	laboratory procedure@@@9406	leaf
+bronchial_neoplasms	physics@@@4064	nuclear physics@@@2490
+core_binding_factor_alpha_1_subunit	water pollution@@@6613	water pollution , radioactive@@@9476
+apnea	disease progression@@@9169	leaf
+early_growth_response_protein_1	elementary particles@@@1863	electrons@@@2000
+blood_circulation	united states@@@5	massachusetts@@@4853
+reproductive_physiological_phenomena	western world@@@8394	leaf
+serine_proteinase_inhibitors	antiviral agents@@@5973	leaf
+serotonin_antagonists	root	atlantic ocean@@@2077
+yeast_,_dried	geographic area@@@3440	leaf
+tissue_extracts	dental physiological phenomena@@@2855	leaf
+light_signal_transduction	electrochemical techniques@@@2880	leaf
+fractional_precipitation	equipment and supplies@@@9075	leaf
+creatine_kinase_,_mitochondrial_form	environmental pollution@@@2618	noise , occupational@@@6197
+fatty_liver	pacific states@@@1404	washington@@@5185
+parasitic_diseases_,_animal	publication formats@@@6287	comment@@@7175
+database	hormones@@@5062	adrenal cortex hormones@@@864
+parental_notification	caregivers@@@4216	leaf
+psychology_,_applied	oxides@@@5169	sulfur oxides@@@1453
+organic_anion_transport_protein_1	elements@@@5098	leaf
+small_business	organization and administration@@@6199	leaf
+myocardium	sociology@@@4021	comparative effectiveness research@@@2341
+metabolic_side_effects_of_drugs_and_substances	hospitals@@@3986	leaf
+pregnancy_,_ovarian	pelvis@@@1872	leaf
+adrenal_cortex	dendritic spines@@@5819	leaf
+israel	root	differential thermal analysis@@@4478
+corneal_stroma	aorta@@@1865	leaf
+psychology_,_sports	root	leaf
+fuzzy_logic	root	lithium chloride@@@993
+auditory_threshold	auditory perception@@@4460	leaf
+dental_etching	dental materials@@@6397	leaf
+poverty_areas	environment@@@2650	leaf
+bones_of_upper_extremity	muscles@@@8782	muscle , skeletal@@@3885
+renal_insufficiency	united states@@@5	massachusetts@@@4853
+library_administration	organization and administration@@@6199	leaf
+erythrocyte_count	united states@@@5	massachusetts@@@4853
+acute_disease	ion channels@@@3783	acid sensing ion channels@@@9182
+peer_influence	tuberculosis@@@5818	tuberculosis , avian@@@9269
+extremities	spine@@@8555	leaf
+drug_combinations	organization and administration@@@6199	leaf
+mars	social behavior disorders@@@4971	general adaptation syndrome@@@8334
+aorta_,_abdominal	sociology@@@4021	comparative effectiveness research@@@2341
+advanced_cardiac_life_support	chromosomes@@@29	y chromosome@@@9601
+health_facility_administrators	adipocytes@@@3506	adipocytes , white@@@8953
+splenic_infarction	sociology@@@4021	comparative effectiveness research@@@2341
+adrenal_cortex_diseases	spectrum analysis@@@7032	dielectric spectroscopy@@@1611
+jordan	root	differential thermal analysis@@@4478
+anemia_,_refractory	root	leaf
+schools_,_pharmacy	phosphorylation@@@1631	oxidative phosphorylation@@@7165
+abdomen_,_acute	sociology@@@4021	sociology , medical@@@2832
+carcinoma_,_papillary	head and neck neoplasms@@@867	leaf
+united_states_office_of_national_drug_control_policy	ethics@@@1366	ethics consultation@@@7205
+tool_use_behavior	achievement@@@3249	leaf
+capillary_leak_syndrome	united states@@@5	massachusetts@@@4853
+iran	root	leaf
+maze_procedure	endovascular procedures@@@7739	leaf
+spores_,_fungal	tuberculosis@@@5818	tuberculosis , avian@@@9269
+embryo_disposition	tuberculosis@@@5818	tuberculosis , avian@@@9269
+tuberculosis_,_pulmonary	sociology@@@4021	peer review , research@@@8525
+group_structure	information science@@@3831	internet@@@4176
+insurance_coverage	organization and administration@@@6199	leaf
+oral_ulcer	skin manifestations@@@3403	leaf
+colony_count_,_microbial	environment , controlled@@@8732	leaf
+editorial	information science@@@3831	internet@@@4176
+social_values	root	scattering , radiation@@@9163
+olfactory_perception	root	baltimore@@@4097
+brain_injuries	library science@@@3551	library materials@@@7459
+dietary_fiber	root	noise@@@1906
+aids_dementia_complex	infections@@@8650	infectious encephalitis@@@955
+biological_transport_,_active	root	leaf
+college_admission_test	elements@@@5098	graphite@@@1304
+polar_bodies	tuberculosis@@@5818	tuberculosis , avian@@@9269
+rats_,_inbred_shr	elementary particles@@@1863	electrons@@@2000
+diet_,_healthy	root	leaf
+pancreatic_fistula	inorganic chemicals@@@1143	spin labels@@@5461
+cerebral_angiography	endovascular procedures@@@7739	leaf
+form_perception	perception@@@7702	leaf
+orthopedic_surgeons	root	leaf
+dendrites	thermodynamics@@@3330	entropy@@@6263
+physician_payment_review_commission	oxides@@@5169	nitrogen oxides@@@5266
+receptor_,_angiotensin_,_type_1	sociology@@@4021	mandatory testing@@@9250
+receptors_,_artificial	root	parity@@@8038
+phagocytosis	immune system@@@5039	leukocytes , mononuclear@@@4009
+arabia	biochemical phenomena@@@7174	protein modification , translational@@@5466
+virus_shedding	lymphatic diseases@@@8310	leaf
+reproductive_health	elements@@@5098	protons@@@2793
+peripheral_nerves	sociology@@@4021	health impact assessment@@@42
+cerebrospinal_fluid_pressure	sociology@@@4021	driving under the influence@@@3997
+vaccines_,_contraceptive	tuberculosis@@@5818	tuberculosis , avian@@@9269
+fibroblast_growth_factors	spectrum analysis@@@7032	dielectric spectroscopy@@@1611
+manufactured_materials	endoplasmic reticulum stress@@@8589	leaf
+genetic_testing	genetic predisposition to disease@@@5337	leaf
+milk_,_human	elements@@@5098	lithium@@@434
+electronic_waste	metals , heavy@@@5206	leaf
+posterior_thalamic_nuclei	neurons@@@6171	leaf
+respiratory_aspiration_of_gastric_contents	united states@@@5	new york@@@9618
+receptors_,_chemokine	spectrum analysis@@@7032	dielectric spectroscopy@@@1611
+cholinergic_antagonists	root	dataset@@@3345
+prefrontal_cortex	brain diseases , metabolic@@@6846	leaf
+focal_epithelial_hyperplasia	head and neck neoplasms@@@867	leaf
+skull_base	fully formed anatomical structure@@@8691	leaf
+iron_carbonyl_compounds	sociology@@@4021	urban renewal@@@5839
+insurance_,_disability	organizations@@@8735	leaf
+dental_prosthesis_repair	vesicular glutamate transport proteins@@@6754	vesicular glutamate transport protein 1@@@8249
+chronic_disease	patient reported outcome measures@@@4290	leaf
+intelligence	root	leaf
+health_plan_implementation	root	leaf
+peptide_termination_factors	tuberculosis@@@5818	tuberculosis , avian@@@9269
+organizations	root	leaf
+leukocytes	lymphatic vessels@@@8229	leaf
+reverse_transcriptase_polymerase_chain_reaction	publication formats@@@6287	leaf
+outpatient_clinics_,_hospital	hospital administration@@@178	leaf
+mycobacterium_tuberculosis	tuberculosis@@@5818	tuberculosis , avian@@@9269
+plasmids	mental fatigue@@@4965	alert fatigue , health personnel@@@9673
+bone_neoplasms	pacific states@@@1404	california@@@839
+colitis	duodenal obstruction@@@6614	leaf
+computer_graphics	publication formats@@@6287	leaf
+alpha_rhythm	hearing@@@125	leaf
+taste_perception	auditory perception@@@4460	leaf
+lymphatic_system	root	leaf
+color	root	leaf
+in_situ_hybridization_,_fluorescence	behavioral disciplines and activities@@@1457	feedback , sensory@@@8761
+liver_diseases	north america@@@6676	new york@@@9618
+neoplastic_process	elementary particles@@@1863	electrons@@@2000
+accidents_,_home	root	primed in situ labeling@@@7491
+health_facility_environment	root	in situ hybridization@@@4752
+neoplasm_recurrence_,_local	neurologic examination@@@2280	leaf
+mirror_neurons	entity@@@1291	leaf
+insect_viruses	visual perception@@@1961	contrast sensitivity@@@3588
+pain_perception	root	leaf
+accessory_nerve_injuries	spinal nerves@@@1673	leaf
+heat_exhaustion	signs and symptoms@@@1794	leaf
+antiretroviral_therapy_,_highly_active	magnetic phenomena@@@5418	light@@@3286
+nuclear_proteins	root	compliance@@@2230
+fees_,_pharmaceutical	organelles@@@748	endoplasmic reticulum , rough@@@3299
+pulse_wave_analysis	learning@@@7873	leaf
+vaginal_fistula	engineering@@@4940	chemical engineering@@@2594
+integrated_advanced_information_management_systems	organizations@@@8735	leaf
+adaptation_,_psychological	organization and administration@@@6199	leaf
+cerebellar_ataxia	neurologic manifestations@@@1792	leaf
+philosophy_,_medical	health care evaluation mechanisms@@@8300	leaf
+state_medicine	elements@@@5098	sodium@@@1965
+dental_caries_activity_tests	health care evaluation mechanisms@@@8300	leaf
+measles_vaccine	tuberculosis vaccines@@@402	leaf
+enhanced_recovery_after_surgery	organelles@@@748	secretory vesicles@@@1545
+maternal_welfare	root	leaf
+obstetric_labor_,_premature	ion channels@@@3783	acid sensing ion channels@@@9182
+protective_factors	learning@@@7873	leaf
+nuclear_export_signals	musculoskeletal physiological phenomena@@@5084	range of motion , articular@@@9632
+motor_vehicles	computers@@@5055	leaf
+treatment_outcome	basal ganglia@@@7159	ventral striatum@@@2298
+argentina	root	activation analysis@@@6145
+pediatrics	carbon@@@4625	carbon isotopes@@@3216
+forensic_genetics	informatics@@@4896	genomics@@@9658
+activities_of_daily_living	learning@@@7873	leaf
+blood_protein_disorders	pacific states@@@1404	washington@@@5185
+cerebellar_neoplasms	natural science disciplines@@@5851	spatial analysis@@@8044
+pulmonary_surfactants	carotid arteries@@@1461	leaf
+idea_or_concept	learning@@@7873	leaf
+lysine	information science@@@3831	internet@@@4176
+tonic_pupil	neurologic examination@@@2280	leaf
+resistance_training	learning@@@7873	leaf
+adrenal_cortex_function_tests	europe@@@1072	england@@@5659
+adaptor_protein_complex_1	root	differential thermal analysis@@@4478
+pain_management	minerals@@@8505	graphite@@@1304
+laboratory_procedure	elements@@@5098	lithium@@@434
+platelet_membrane_glycoprotein_iib	aorta@@@1865	leaf
+retrospective_studies	legislation as topic@@@4338	health plan implementation@@@8703
+pancreas_,_artificial	lymphatic vessels@@@8229	leaf
+paper	tuberculosis@@@5818	tuberculosis , avian@@@9269
+femur_head	bone and bones@@@7833	leaf
+hair_cells_,_auditory_,_outer	tuberculosis@@@5818	tuberculosis , avian@@@9269
+wnt_proteins	root	poisson distribution@@@5801
+tinnitus	tuberculosis@@@5818	tuberculosis , avian@@@9269
+saliva	mouth@@@2063	leaf
+bone_density_conservation_agents	root	atlantic ocean@@@2077
+uterine_rupture	neurologic examination@@@2280	leaf
+transition_to_adult_care	elements@@@5098	metals , light@@@3161
+animal_proteins_,_dietary	root	leaf
+saccharomyces_cerevisiae_proteins	heat stress disorders@@@5683	heat exhaustion@@@8976
+soil_microbiology	free radicals@@@3539	nitric oxide@@@6885
+prenatal_care	pregnancy complications@@@8651	obstetric labor complications@@@6781
+indole_alkaloids	cytokines@@@7208	leaf
+community_psychiatry	organization@@@2434	leaf
+salivary_ducts	sociology@@@4021	mandatory testing@@@9250
+adoption	organization@@@2434	leaf
+insurance_,_psychiatric	health care related organization@@@8577	leaf
+burns_,_electric	accidents@@@6668	leaf
+mutation	water pollutants@@@3392	water pollutants , radioactive@@@71
+sugar_acids	longitudinal studies@@@7435	national longitudinal study of adolescent health@@@7184
+infection_control_practitioners	elements@@@5098	protons@@@2793
+pregnancy_,_prolonged	pregnancy complications@@@8651	leaf
+blindness	peripheral nervous system diseases@@@2582	reflex sympathetic dystrophy@@@202

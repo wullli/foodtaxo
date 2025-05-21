@@ -1,0 +1,820 @@
+Query	Parent	Child
+patient_identification_systems	north america@@@6676	washington@@@5185
+skin_absorption	root	leaf
+cobalt_isotopes	professional practice@@@4033	nursing education research@@@8760
+health_impact_assessment	comprehensive health care@@@4907	leaf
+continuity_of_patient_care	comprehensive health care@@@4907	leaf
+transportation	meaningful use@@@4080	leaf
+physicians_'_offices	extreme weather@@@2619	extreme hot weather@@@5277
+asthma_,_occupational	occupational diseases@@@6605	leaf
+social_skills	personality@@@4554	leaf
+combat_disorders	child reactive disorders@@@3469	leaf
+dictionary_,_dental	aged@@@4949	frail elderly@@@964
+pulmonary_valve	organizations@@@8735	united states government agencies@@@3029
+acidosis_,_renal_tubular	consumer organizations@@@446	community participation@@@3985
+lens_,_crystalline	eye movements@@@3585	leaf
+ventricular_function_,_right	hispanic americans@@@2936	mexican americans@@@6008
+arthroplasty_,_replacement_,_shoulder	parents@@@9235	mothers@@@427
+synovial_cyst	health occupations@@@8954	nursing education research@@@8760
+health_planning_support	fingers@@@1000	thumb@@@2201
+portion_size	nurse practitioners@@@2129	family nurse practitioners@@@2257
+ferm_domains	professional practice@@@4033	nursing faculty practice@@@7530
+crack_cocaine	diagnostic techniques , cardiovascular@@@8680	leaf
+epidemiological_monitoring	comprehensive health care@@@4907	leaf
+meningitis_,_viral	infections@@@8650	leaf
+online_social_networking	organizations@@@8735	leaf
+pathology_,_veterinary	rain@@@8041	acid rain@@@1233
+account_book	information services@@@4770	leaf
+pneumonia_,_pneumococcal	infections@@@8650	leaf
+vascular_diseases	asia@@@4455	taiwan@@@9558
+dermatitis_,_allergic_contact	epidemiologic factors@@@1057	leaf
+diabetes_mellitus_,_type_2	metabolic diseases@@@4588	diabetes mellitus@@@9481
+social_marketing	comprehensive health care@@@4907	leaf
+health_records_,_personal	north america@@@6676	california@@@839
+education_,_medical_,_continuing	rain@@@8041	acid rain@@@1233
+nervous_system_autoimmune_disease_,_experimental	autoimmune diseases@@@6162	autoimmune pancreatitis@@@4672
+rna_,_algal	volunteers@@@2625	hospital volunteers@@@1958
+receptors_,_peptide	accounting@@@5256	financial audit@@@5667
+culture_media	diagnostic uses of chemicals@@@1694	leaf
+mesenchymal_stem_cells	forecasting@@@9526	population forecast@@@6673
+lithium	time@@@1425	circadian rhythm@@@4729
+ion_channel_gating	security measures@@@466	leaf
+dental_pulp	comprehensive dental care@@@4330	leaf
+rna_precursors	genome components@@@2687	rna splice sites@@@3314
+cos_cells	health occupations@@@8954	office visits@@@8121
+african_union	smoke@@@5642	tobacco smoke pollution@@@3317
+ear_neoplasms	defense mechanisms@@@1283	leaf
+feeder_cells	perioperative period@@@7076	preoperative period@@@9534
+eye_injuries	wounds and injuries@@@3991	multiple trauma@@@2221
+hospital_bed_capacity	middle east@@@5875	israel@@@7744
+systematic_review	aged@@@4949	frail elderly@@@964
+cortical_spreading_depression	health occupations@@@8954	helsinki declaration@@@2617
+auditory_brain_stem_implantation	nurse practitioners@@@2129	family nurse practitioners@@@2257
+interview_,_psychological	treatment outcome@@@9254	leaf
+education_,_veterinary	tidal waves@@@9466	leaf
+streptavidin	viral structural proteins@@@3560	leaf
+electronic_supplementary_materials	publication components@@@1260	leaf
+sex_characteristics	north america@@@6676	washington@@@5185
+plant_viral_movement_proteins	professional practice@@@4033	nursing faculty practice@@@7530
+consciousness_monitors	security measures@@@466	leaf
+age_groups	health occupations@@@8954	helsinki declaration@@@2617
+muscle_weakness	professional practice@@@4033	nursing faculty practice@@@7530
+phantom_limb	root	leaf
+housing	logic@@@4787	fuzzy logic@@@7764
+posterior_cerebral_artery	cerebral cortex@@@8881	occipital lobe@@@5190
+practice_patterns_,_physicians_'	fossil fuels@@@5400	petroleum@@@7074
+adenocarcinoma_in_situ	climate@@@5645	cold climate@@@5811
+models_,_molecular	aged@@@4949	frail elderly@@@964
+bile_ducts	organization@@@2434	health care related organization@@@8577
+single_photon_emission_computed_tomography_computed_tomography	diagnostic techniques , cardiovascular@@@8680	leaf
+catalog	publication components@@@1260	leaf
+trigger_points	middle east@@@5875	saudi arabia@@@4050
+north_sea	body regions@@@3182	leaf
+secretory_component	biological factors@@@4748	leaf
+dna	biological factors@@@4748	leaf
+abdominal_muscles	abdominal muscles@@@814	abdominal oblique muscles@@@7432
+aortic_valve_insufficiency	students@@@4289	students , nursing@@@1479
+veterans_health	comprehensive health care@@@4907	leaf
+ethics_,_nursing	comprehensive health care@@@4907	leaf
+prosthesis_fitting	comprehensive dental care@@@4330	leaf
+sepsis	north america@@@6676	washington@@@5185
+animals_,_inbred_strains	nurse practitioners@@@2129	family nurse practitioners@@@2257
+carcinoma_,_transitional_cell	biliary tract diseases@@@4313	biliary tract neoplasms@@@516
+new_south_wales	information science@@@3831	rare books@@@3735
+tai_ji	psychological techniques@@@6131	leaf
+perioperative_medicine	rain@@@8041	acid rain@@@1233
+survival_rate	comprehensive health care@@@4907	leaf
+prospective_studies	comprehensive health care@@@4907	leaf
+cell_respiration	nurse practitioners@@@2129	family nurse practitioners@@@2257
+clinical_protocols	north america@@@6676	california@@@839
+molar_,_third	comprehensive dental care@@@4330	leaf
+receptors_,_glucocorticoid	north america@@@6676	british columbia@@@6715
+pattern_recognition_,_visual	information theory@@@9224	leaf
+receptors_,_death_domain	nurse practitioners@@@2129	family nurse practitioners@@@2257
+tibia	neurologic examination@@@2280	leaf
+patient_care_planning	neon@@@2150	leaf
+photons	transportation@@@50	leaf
+insulin_antibodies	immune sera@@@258	leaf
+body_remains	conceptual entity@@@7879	leaf
+chief_executive_officers_,_hospital	extreme weather@@@2619	extreme hot weather@@@5277
+anger	root	leaf
+anomalous_left_coronary_artery	event@@@7790	scholarly communication@@@7968
+narrative_medicine	comprehensive health care@@@4907	leaf
+polymorphism_,_restriction_fragment_length	cytogenetic analysis@@@1334	leaf
+child_language	language development@@@7797	leaf
+midline_thalamic_nuclei	neurons@@@6171	interneurons@@@6006
+period_circadian_proteins	north america@@@6676	washington@@@5185
+language_arts	language@@@2168	leaf
+miller_fisher_syndrome	health occupations@@@8954	nursing education research@@@8760
+carrier_state	disease attributes@@@8794	leaf
+nitrogen_compounds	perioperative period@@@7076	preoperative period@@@9534
+egg_proteins_,_dietary	partnership practice@@@1723	partnership practice , dental@@@5189
+delivery_rooms	visual perception@@@1961	color perception@@@3674
+contraception	reproductive techniques@@@6248	contraception@@@1293
+aneurysm	event@@@7790	scholarly communication@@@7968
+sequence_deletion	root	leaf
+death_domain_superfamily	professional practice@@@4033	professional staff committees@@@2847
+dental_marginal_adaptation	comprehensive dental care@@@4330	leaf
+dental_instruments	comprehensive dental care@@@4330	leaf
+computed_tomography_angiography	nurse practitioners@@@2129	family nurse practitioners@@@2257
+international_classification_of_functioning_,_disability_and_health	hispanic americans@@@2936	mexican americans@@@6008
+nursing_assessment	comprehensive health care@@@4907	leaf
+limited_english_proficiency	intelligence@@@8688	achievement@@@3249
+elbow_joint	musculoskeletal system@@@4862	leaf
+hypothalamus_,_middle	organizations@@@8735	united states office of technology assessment@@@6266
+collection	aged@@@4949	frail elderly@@@964
+absorption_,_radiation	biochemical phenomena@@@7174	leaf
+osteoporosis	logic@@@4787	fuzzy logic@@@7764
+abortion_applicants	logic@@@4787	fuzzy logic@@@7764
+microscopy_,_scanning_probe	spectrum analysis@@@7032	leaf
+disease_models_,_animal	professional practice@@@4033	office visits@@@8121
+seasons	nurse practitioners@@@2129	family nurse practitioners@@@2257
+hospital_bed_capacity_,_100_to_299	smoke@@@5642	tobacco smoke pollution@@@3317
+burn_units	health facilities@@@6834	intensive care units@@@3501
+students_,_nursing	comprehensive health care@@@4907	leaf
+glasgow_coma_scale	neurologic examination@@@2280	leaf
+popular_work	meat@@@5617	meat proteins@@@2680
+medicare_part_b	united states@@@5	california@@@839
+exercise_therapy	comprehensive health care@@@4907	leaf
+ireland	professional practice@@@4033	partnership practice , dental@@@5189
+thymic_factor_,_circulating	north america@@@6676	washington@@@5185
+secretory_vesicles	transport vesicles@@@874	secretory vesicles@@@1545
+lung_diseases_,_parasitic	organization and administration@@@6199	office visits@@@8121
+receptors_,_thyroid_hormone	partnership practice@@@1723	partnership practice , dental@@@5189
+axillary_artery	heart injuries@@@5542	leaf
+umbilical_cord	health occupations@@@8954	hospital records@@@2716
+cadmium_compounds	biological factors@@@4748	plasminogen activator inhibitor 2@@@549
+leishmania_major	endemic diseases@@@3461	leaf
+headache_disorders_,_primary	hispanic americans@@@2936	mexican americans@@@6008
+surgical_clearance	north america@@@6676	california@@@839
+focal_infection	preexisting condition coverage@@@1908	leaf
+milk_banks	organization@@@2434	professional society@@@4334
+hematopoietic_stem_cell_mobilization	north america@@@6676	california@@@839
+veins	motivation@@@8615	intention@@@3776
+corneal_perforation	wounds and injuries@@@3991	leaf
+silicon_dioxide	periodontal diseases@@@5238	leaf
+legislation_,_food	comment@@@7175	leaf
+sleep_stages	sleep stages@@@1739	leaf
+core_binding_factor_alpha_2_subunit	nurse practitioners@@@2129	family nurse practitioners@@@2257
+hypertension_,_pulmonary	motivation@@@8615	intention@@@3776
+occupational_health	comprehensive health care@@@4907	retention in care@@@9174
+airway_management	comprehensive health care@@@4907	leaf
+proportional_hazards_models	aged@@@4949	frail elderly@@@964
+safety_management	comprehensive health care@@@4907	leaf
+fibroblast_growth_factor_8	health occupations@@@8954	office visits@@@8121
+global_health	fingers@@@1000	thumb@@@2201
+lipid_droplets	health planning@@@1616	patient reported outcome measures@@@4290
+hepatitis_,_animal	organization@@@2434	professional society@@@4334
+manifest_anxiety_scale	far east@@@8223	taiwan@@@9558
+rna_,_fungal	volunteers@@@2625	hospital volunteers@@@1958
+veterans_disability_claims	air@@@3643	compressed air@@@5509
+preexisting_condition_coverage	comprehensive health care@@@4907	leaf
+articulation_disorders	diagnostic techniques , neurological@@@2829	functional neuroimaging@@@1080
+nadh_dehydrogenase	health occupations@@@8954	nursing education research@@@8760
+taste_disorders	consumer organizations@@@446	patient participation@@@1241
+abortion_,_legal	root	leaf
+infection_control_,_dental	comprehensive health care@@@4907	primary health care@@@8724
+insurance_,_nursing_services	logic@@@4787	fuzzy logic@@@7764
+genes_,_bacterial	informed consent@@@3358	consent forms@@@6239
+expert_systems	aged@@@4949	frail elderly@@@964
+tears	organizations@@@8735	united states department of veterans affairs@@@5469
+work_capacity_evaluation	security measures@@@466	leaf
+lip_diseases	motivation@@@8615	intention@@@3776
+anal_canal	anatomy@@@5955	leaf
+egg_shell	fully formed anatomical structure@@@8691	leaf
+melanoma	immune complex diseases@@@6513	leaf
+educational_activity	achievement@@@3249	leaf
+management_information_systems	hispanic americans@@@2936	mexican americans@@@6008
+biomedical_enhancement	middle east@@@5875	turkey@@@8672
+physical_and_rehabilitation_medicine	comprehensive health care@@@4907	leaf
+logical_observation_identifiers_names_and_codes	epidemiologic methods@@@4567	leaf
+cold_injury	accidents@@@6668	leaf
+identity_crisis	nurse practitioners@@@2129	pediatric nurse practitioners@@@1655
+group_practice_,_dental	comprehensive health care@@@4907	leaf
+fresh_water	professional practice@@@4033	nursing education research@@@8760
+manual_lymphatic_drainage	education , professional@@@3119	teacher training@@@7345
+dilatation_,_pathologic	anatomical abnormality@@@3847	leaf
+cell_fusion	volunteers@@@2625	hospital volunteers@@@1958
+public_housing	financing , government@@@1287	leaf
+glia_maturation_factor	nurse practitioners@@@2129	family nurse practitioners@@@2257
+paternal_age	life expectancy@@@3799	leaf
+ventral_striatum	neuroimaging@@@8000	leaf
+models_,_immunological	models , immunological@@@2300	leaf
+gaba_agonists	organizations@@@8735	american hospital association@@@5029
+femoral_artery	cardiovascular surgical procedures@@@8090	leaf
+blood_sedimentation	hematologic tests@@@5118	erythrocyte aggregation@@@6884
+brain_tissue_transplantation	health occupations@@@8954	adolescent medicine@@@5877
+chromosomes_,_human_,_y	reproductive techniques@@@6248	leaf
+smoking_cessation	north america@@@6676	california@@@839
+state_health_planning_and_development_agencies	hispanic americans@@@2936	mexican americans@@@6008
+isotopes	time@@@1425	biological clocks@@@542
+fetal_resorption	pregnancy complications , hematologic@@@6906	leaf
+greek_world	comprehensive health care@@@4907	leaf
+forms_and_records_control	aged@@@4949	frail elderly@@@964
+data_collection	comprehensive health care@@@4907	leaf
+artificial_lens_implant_migration	health occupations@@@8954	lot quality assurance sampling@@@3199
+religion_and_science	science@@@9489	natural history@@@3378
+violence	preexisting condition coverage@@@1908	leaf
+air_bags	middle east@@@5875	saudi arabia@@@4050
+child_guidance	delivery of health care@@@7098	leaf
+prostatic_diseases	volunteers@@@2625	hospital volunteers@@@1958
+central_nervous_system_bacterial_infections	professional practice@@@4033	nursing education research@@@8760
+lighting	comprehensive health care@@@4907	leaf
+chemical_engineering	root	leaf
+electrophoresis_,_cellulose_acetate	organizations@@@8735	united states government agencies@@@3029
+mitosis_modulators	north america@@@6676	washington@@@5185
+immunoglobulin_domains	epidemiologic factors@@@1057	leaf
+meat_proteins	partnership practice@@@1723	partnership practice , dental@@@5189
+rupture_,_spontaneous	root	leaf
+heavy_metal_poisoning	cardiovascular diseases@@@7480	heart failure@@@7939
+prion_diseases	perioperative period@@@7076	preoperative period@@@9534
+adult_survivors_of_child_abuse	persons@@@4610	leaf
+touch_perception	comprehensive health care@@@4907	leaf
+probability_learning	comprehensive health care@@@4907	leaf
+retinal_degeneration	nurse practitioners@@@2129	family nurse practitioners@@@2257
+random_allocation	epidemiologic methods@@@4567	clinical trials as topic@@@5049
+kidney_cortex_necrosis	consumer organizations@@@446	community participation@@@3985
+diagnostic_techniques_,_neurological	comprehensive health care@@@4907	leaf
+radiotherapy_dosage	treatment outcome@@@9254	leaf
+sodium_acetate	organization@@@2434	professional society@@@4334
+international_system_of_units	comprehensive health care@@@4907	leaf
+muscle_fibers_,_skeletal	accessory nerve diseases@@@2641	leaf
+microtubule_proteins	attitude@@@3996	patient compliance@@@2110
+organ_preservation_solutions	parents@@@9235	fathers@@@3817
+fibrin_clot_lysis_time	north america@@@6676	washington@@@5185
+neurological_rehabilitation	logic@@@4787	fuzzy logic@@@7764
+sensation_disorders	auditory pathways@@@9323	leaf
+bodily_secretions	biological factors@@@4748	cytokines@@@7208
+hospitals_,_pediatric	logic@@@4787	fuzzy logic@@@7764
+lipid_accumulation_product	epidemiologic methods@@@4567	leaf
+united_states_government_agencies	hot temperature@@@7649	extreme heat@@@3095
+litter_size	professional practice@@@4033	nursing faculty practice@@@7530
+lecture	publication components@@@1260	leaf
+solute_carrier_family_22_member_5	health occupations@@@8954	nursing education research@@@8760
+prenatal_injuries	accidents@@@6668	leaf
+mathematical_computing	aged@@@4949	frail elderly@@@964
+orthopedic_procedures	middle east@@@5875	jordan@@@8033
+animal_fur	animal structures@@@7417	leaf
+religion_and_medicine	behavioral sciences@@@8763	biological psychiatry@@@5401
+sand	comprehensive dental care@@@4330	leaf
+bacillus_subtilis	professional practice@@@4033	nursing education research@@@8760
+metals_,_light	root	leaf
+temporal_bone	anatomical structure@@@5231	leaf
+handling_,_psychological	treatment outcome@@@9254	leaf
+eye_infections_,_parasitic	infections@@@8650	leaf
+relative_biological_effectiveness	epidemiologic factors@@@1057	leaf
+confidence_intervals	electricity@@@472	electric capacitance@@@9397
+fees_,_medical	logic@@@4787	fuzzy logic@@@7764
+radiation_hybrid_mapping	cytogenetic analysis@@@1334	leaf
+mediterranean_islands	professional practice@@@4033	nursing education research@@@8760
+spiral_ganglion	accounting@@@5256	financial audit@@@5667
+rna_splice_sites	nurse practitioners@@@2129	family nurse practitioners@@@2257
+rats_,_inbred_wf	climate@@@5645	cold climate@@@5811
+electrophoresis_,_paper	nurse practitioners@@@2129	family nurse practitioners@@@2257
+multiple_system_atrophy	asia@@@4455	taiwan@@@9558
+logistic_models	comprehensive health care@@@4907	leaf
+drug_administration_schedule	aged@@@4949	frail elderly@@@964
+classical_article	comprehensive health care@@@4907	leaf
+abdominal_cavity	abdominal cavity@@@3373	leaf
+quartz	dental pulp diseases@@@5517	leaf
+stromal_interaction_molecule_2	biological factors@@@4748	adaptor protein complex 2@@@8087
+hydrophobic_and_hydrophilic_interactions	root	leaf
+type_d_personality	epidemiologic factors@@@1057	leaf
+healthy_lifestyle	comprehensive health care@@@4907	leaf
+antibodies_,_immobilized	biological factors@@@4748	antigens@@@9098
+sugar_alcohols	root	leaf
+lipid_metabolism_disorders	nurse practitioners@@@2129	family nurse practitioners@@@2257
+drug_resistance_,_bacterial	genetic predisposition to disease@@@5337	leaf
+geographic_area	clinical study@@@3909	observational study@@@6288
+renal_blood_flow_,_effective	volunteers@@@2625	hospital volunteers@@@1958
+child_reactive_disorders	far east@@@8223	taiwan@@@9558
+asian_continental_ancestry_group	disclosure@@@915	truth disclosure@@@6889
+radiation_oncology	medical oncology@@@2128	radiation oncology@@@3479
+personnel_management	fingers@@@1000	thumb@@@2201
+cerebral_arterial_diseases	employment@@@4433	employment , supported@@@2608
+pseudomonas_vaccines	biological products@@@7999	vaccines@@@7617
+intensive_care_units	comprehensive health care@@@4907	leaf
+kidney_tubules_,_collecting	nurse practitioners@@@2129	family nurse practitioners@@@2257
+thermal_diffusion	biomechanical phenomena@@@1839	leaf
+combined_modality_therapy	north america@@@6676	british columbia@@@6715
+urbanization	comprehensive health care@@@4907	leaf
+job_description	organization and administration@@@6199	leaf
+erythrocyte_indices	organization@@@2434	professional society@@@4334
+strategic_planning	aged@@@4949	frail elderly@@@964
+chlorine_compounds	inorganic chemicals@@@1143	leaf
+poultry	organizational affiliation@@@8866	transfer agreement@@@6062
+judgment	conceptual entity@@@7879	leaf
+liver_regeneration	regeneration@@@9332	liver regeneration@@@3656
+oxytocin	hormones@@@5062	leaf
+carcinoma_,_ductal	digestive system neoplasms@@@725	leaf
+antigens_,_differentiation	north america@@@6676	british columbia@@@6715
+hemodialysis_units_,_hospital	logic@@@4787	fuzzy logic@@@7764
+atp_binding_cassette_transporter_,_subfamily_b_,_member_3	climate@@@5645	cold climate@@@5811
+nuclease_protection_assays	cytogenetic analysis@@@1334	leaf
+hepatitis_b_core_antigens	virus diseases@@@8323	leaf
+factor_ix	north america@@@6676	california@@@839
+uterine_cervical_dysplasia	pathological conditions , anatomical@@@8055	follicular cyst@@@3769
+quality_assurance_,_health_care	comprehensive health care@@@4907	leaf
+cell_adhesion_molecules_,_neuronal	north america@@@6676	washington@@@5185
+ion_channels	biological factors@@@4748	adaptor protein complex 2@@@8087
+purchasing_,_hospital	fingers@@@1000	thumb@@@2201
+membranes_,_artificial	motivation@@@8615	intention@@@3776
+recombination_,_genetic	genetic phenomena@@@3663	leaf
+skull	bone and bones@@@7833	occipital bone@@@4745
+pulmonary_ventilation	heart function tests@@@7904	leaf
+anatomical_abnormality	far east@@@8223	taiwan@@@9558
+hospitals_,_general	united states@@@5	california@@@839
+legislation_,_hospital	fingers@@@1000	thumb@@@2201
+cyclic_imp	root	leaf
+creatine_kinase_,_bb_form	weather@@@1081	extreme hot weather@@@5277
+abbreviations	middle east@@@5875	leaf
+viral_envelope_proteins	professional practice@@@4033	nursing faculty practice@@@7530
+gene_dosage	nurse practitioners@@@2129	family nurse practitioners@@@2257
+nursing_service_,_hospital	smoke@@@5642	tobacco smoke pollution@@@3317
+protective_clothing	north america@@@6676	boston@@@1137
+dental_casting_technique	comprehensive dental care@@@4330	leaf
+ethics_,_professional	organizations@@@8735	leaf
+dna_replication_timing	nurse practitioners@@@2129	family nurse practitioners@@@2257
+glycogen_storage_disease_type_iv	root	leaf
+metals_,_alkali	health occupations@@@8954	nursing records@@@4457
+postoperative_complications	north america@@@6676	british columbia@@@6715
+brain_injuries_,_traumatic	brain injuries , traumatic@@@3975	chronic traumatic encephalopathy@@@1435
+community_participation	electricity@@@472	electric capacitance@@@9397
+handbook	aged@@@4949	frail elderly@@@964
+gene_pool	genetic variation@@@7281	gene deletion@@@6831
+hospital_departments	rain@@@8041	acid rain@@@1233
+fast_foods	middle east@@@5875	saudi arabia@@@4050
+historical_article	comprehensive health care@@@4907	leaf
+orthodontic_wires	motivation@@@8615	intention@@@3776
+directed_molecular_evolution	biological factors@@@4748	biomarkers@@@2482
+gc_rich_sequence	sequence homology , nucleic acid@@@646	leaf
+fluorescent_antibody_technique_,_direct	methods@@@1542	leaf
+coup_transcription_factors	north america@@@6676	british columbia@@@6715
+liposomes	biological factors@@@4748	adaptor protein complex 2@@@8087
+genes_,_chloroplast	nurse practitioners@@@2129	pediatric nurse practitioners@@@1655
+blood_pressure_monitoring_,_ambulatory	fear@@@1125	panic@@@4332
+plant_proteins_,_dietary	comment@@@7175	leaf
+adrenal_glands	health care economics and organizations@@@7010	informed consent@@@3358
+reference_standards	hispanic americans@@@2936	mexican americans@@@6008
+bone_matrix	pigments , biological@@@279	leaf
+endothelial_progenitor_cells	weather@@@1081	humidity@@@547
+copper	epidemiologic methods@@@4567	leaf
+freedom	north america@@@6676	california@@@839
+body_fluid_compartments	motivation@@@8615	intention@@@3776
+foundations	fear@@@1125	panic@@@4332
+child_welfare	far east@@@8223	tokyo@@@7571
+brain_diseases	health care economics and organizations@@@7010	informed consent@@@3358
+lakes	clinical study@@@3909	observational study@@@6288
+clay	health planning@@@1616	patient reported outcome measures@@@4290
+dental_prosthesis_design	hispanic americans@@@2936	mexican americans@@@6008
+anatomy_,_veterinary	anatomy@@@5955	histology@@@4578
+cranial_nerve_diseases	health care economics and organizations@@@7010	african union@@@507
+intercellular_signaling_peptides_and_proteins	middle east@@@5875	turkey@@@8672
+hospitals_,_urban	logic@@@4787	fuzzy logic@@@7764
+retirement	spatial analysis@@@8044	spatial regression@@@5295
+dynamic_light_scattering	particulate matter@@@9623	leaf
+sleep_hygiene	behavioral sciences@@@8763	achievement@@@3249
+nanostructures	biomedical and dental materials@@@6233	leaf
+sclerosis	pathologic function@@@3410	leaf
+ureter	organization@@@2434	professional society@@@4334
+hypertension_,_portal	nurse practitioners@@@2129	family nurse practitioners@@@2257
+ethics_committees	middle east@@@5875	jordan@@@8033
+atp_binding_cassette_transporter_,_subfamily_g_,_member_2	nurse practitioners@@@2129	family nurse practitioners@@@2257
+neonatal_brachial_plexus_palsy	heart injuries@@@5542	leaf
+single_person	persons@@@4610	leaf
+psychology	age groups@@@655	young adult@@@3762
+income	extreme weather@@@2619	extreme hot weather@@@5277
+hereditary_sensory_and_motor_neuropathy	neurologic manifestations@@@1792	leaf
+food_safety	aged@@@4949	frail elderly@@@964
+ultrasonic_waves	biomechanical phenomena@@@1839	leaf
+dental_records	mice , knockout@@@1188	mice , knockout , apoe@@@8788
+receptors_,_angiotensin	north america@@@6676	british columbia@@@6715
+fluorescent_dyes	diagnostic uses of chemicals@@@1694	leaf
+patient_discharge	comprehensive health care@@@4907	leaf
+leukocyte_reduction_procedures	north america@@@6676	california@@@839
+islands	motivation@@@8615	water deprivation@@@1
+house_calls	logic@@@4787	fuzzy logic@@@7764
+problem_solving	middle east@@@5875	jordan@@@8033
+thyroid_nuclear_factor_1	volunteers@@@2625	hospital volunteers@@@1958
+public_policy	north america@@@6676	washington@@@5185
+shoulder_joint	musculoskeletal development@@@3767	leaf
+occupational_health_nursing	comprehensive health care@@@4907	leaf
+patient_care_team	north america@@@6676	california@@@839
+historical_geographic_locations	professional practice@@@4033	nursing faculty practice@@@7530
+lewis_acids	root	leaf
+cytoskeleton	fear@@@1125	panic@@@4332
+central_nervous_system_fungal_infections	consumer organizations@@@446	citizen science@@@5088
+tumor_escape	perioperative period@@@7076	preoperative period@@@9534
+chlorophyll_a	root	leaf
+fish_proteins_,_dietary	organization@@@2434	professional society@@@4334
+sodium_bicarbonate	methods@@@1542	leaf
+pain_threshold	pain , procedural@@@4851	leaf
+nerve_regeneration	regeneration@@@9332	nerve regeneration@@@4863
+forensic_toxicology	root	leaf
+conservative_treatment	middle east@@@5875	turkey@@@8672
+reagent_strips	diagnostic uses of chemicals@@@1694	leaf
+death_effector_domain	biological factors@@@4748	protein isoforms@@@9380
+skin_ulcer	skin manifestations@@@3403	leaf
+paralysis	comprehensive health care@@@4907	leaf
+gallbladder	digestive system diseases@@@3700	leaf
+fat_body	motivation@@@8615	intention@@@3776
+water_pollution_,_chemical	urbanization@@@3546	leaf
+lactation	biological factors@@@4748	estrogen receptor beta@@@3421
+ultrasonic_surgical_procedures	diagnostic techniques , surgical@@@9176	leaf
+ribosome_subunits_,_large_,_bacterial	professional practice@@@4033	nursing education research@@@8760
+muscle_strength	health occupations@@@8954	vital statistics@@@3766
+carcinoma_,_squamous_cell	forecasting@@@9526	population forecast@@@6673
+organ_dysfunction_scores	hispanic americans@@@2936	mexican americans@@@6008
+abdominal_fat	abdominal muscles@@@814	pelvic floor@@@28
+eye_infections_,_viral	infections@@@8650	infectious encephalitis@@@955
+dental_clinics	logic@@@4787	fuzzy logic@@@7764
+amino_acid_transport_systems_,_basic	root	leaf
+musculoskeletal_physiological_phenomena	musculoskeletal physiological phenomena@@@5084	muscle development@@@5552
+emergence_delirium	pathologic processes@@@5217	leaf
+device_approval	comprehensive health care@@@4907	leaf
+western_australia	health occupations@@@8954	managed care programs@@@6286
+hematologic_tests	diagnostic techniques and procedures@@@8498	hematologic tests@@@5118
+receptors_,_tumor_necrosis_factor	north america@@@6676	washington@@@5185
+brain_edema	organizations@@@8735	american hospital association@@@5029
+occipital_lobe	cerebral cortex@@@8881	occipital lobe@@@5190
+travel	aged@@@4949	frail elderly@@@964
+sudden_infant_death	root	leaf
+stem_cells	north america@@@6676	washington@@@5185
+intracellular_membranes	organelles@@@748	cytoplasmic granules@@@7250
+fatty_acid_transport_proteins	guideline@@@4697	practice guideline@@@99
+gray_literature	face@@@6865	chin@@@6848
+drug_industry	comprehensive health care@@@4907	leaf
+rectal_fistula	anatomy@@@5955	leaf
+online_systems	information systems@@@9467	online systems@@@5300
+membrane_potential_,_mitochondrial	postpartum period@@@2628	milk ejection@@@7297
+protective_devices	north america@@@6676	california@@@839
+data_systems	middle east@@@5875	turkey@@@8672
+intention_to_treat_analysis	north america@@@6676	washington@@@5185
+genes_,_synthetic	volunteers@@@2625	hospital volunteers@@@1958
+live_birth	pregnancy complications , cardiovascular@@@6702	leaf
+counseling	comprehensive health care@@@4907	primary health care@@@8724
+united_states_department_of_veterans_affairs	hot temperature@@@7649	extreme heat@@@3095
+rna_,_mitochondrial	volunteers@@@2625	hospital volunteers@@@1958
+pain_,_intractable	north america@@@6676	california@@@839
+disability_evaluation	health care reform@@@9153	leaf
+pleural_cavity	wounds and injuries@@@3991	leaf
+sex_work	hispanic americans@@@2936	mexican americans@@@6008
+data_mining	information science@@@3831	workflow@@@2461
+acoustic_impedance_tests	diagnostic techniques , neurological@@@2829	leaf
+receptors_,_estradiol	partnership practice@@@1723	partnership practice , dental@@@5189
+epithelial_cells	digestive system diseases@@@3700	leaf
+drugs_,_chinese_herbal	comment@@@7175	leaf
+olfactory_pathways	auditory pathways@@@9323	leaf
+biologic_function	asia@@@4455	taiwan@@@9558
+cardiac_surgical_procedures	north america@@@6676	california@@@839
+psychological_tests	north america@@@6676	washington@@@5185
+family_separation	family@@@9490	single parent@@@6280
+books	fear@@@1125	panic@@@4332
+absorption	chemical viewed functionally@@@9087	leaf
+rectal_diseases	volunteers@@@2625	hospital volunteers@@@1958
+nuclear_envelope	volunteers@@@2625	hospital volunteers@@@1958
+eating	volunteers@@@2625	hospital volunteers@@@1958
+serum_sickness	north america@@@6676	washington@@@5185
+names	aged@@@4949	frail elderly@@@964
+food_,_preserved	middle east@@@5875	saudi arabia@@@4050
+antisense_elements_(_genetics_)	genes@@@6228	leaf
+neurotoxicity_syndromes	hematologic diseases@@@8355	coagulation protein disorders@@@1131
+mental_healing	attitude to health@@@7095	leaf
+reality_testing	hispanic americans@@@2936	mexican americans@@@6008
+human_growth_hormone	organizations@@@8735	american hospital association@@@5029
+hiv_long_terminal_repeat	genome components@@@2687	leaf
+cataract_extraction	eye diseases@@@7112	leaf
+beer	organization@@@2434	professional society@@@4334
+patient_positioning	comprehensive health care@@@4907	leaf
+united_states_public_health_service	logic@@@4787	fuzzy logic@@@7764
+rehabilitation_centers	middle east@@@5875	turkey@@@8672
+neuromuscular_blocking_agents	neuromuscular diseases@@@308	leaf
+ribosome_subunits_,_small_,_bacterial	partnership practice@@@1723	partnership practice , dental@@@5189
+fluorescence	diagnostic uses of chemicals@@@1694	leaf
+leukemia_,_myeloid_,_acute	hematologic diseases@@@8355	hematologic neoplasms@@@7447
+exosomes	professional practice@@@4033	nursing education research@@@8760
+genome_,_plant	volunteers@@@2625	hospital volunteers@@@1958
+science_in_the_arts	publication components@@@1260	leaf
+vomiting	hospitalization@@@4416	leaf
+periodic_acid	chemical viewed structurally@@@1504	leaf
+subcutaneous_absorption	root	leaf
+angiotensin_ii_type_1_receptor_blockers	biological factors@@@4748	plasminogen activator inhibitor 2@@@549
+hardness	biomechanical phenomena@@@1839	leaf
+infarction_,_posterior_cerebral_artery	neuroimaging@@@8000	leaf
+neck_injuries	wounds and injuries@@@3991	leaf
+wounds_,_penetrating	root	leaf
+lymphocyte_antigen_96	health occupations@@@8954	legal epidemiology@@@5843
+maximum_allowable_concentration	root	leaf
+transplant_recipients	meaningful use@@@4080	leaf
+association_learning	middle east@@@5875	jordan@@@8033
+bayes_theorem	epidemiologic methods@@@4567	leaf
+essay	electricity@@@472	electric impedance@@@827
+anxiety_,_separation	illness behavior@@@7241	leaf
+health_planning_guidelines	hair@@@6814	wool@@@4044
+estrogen_receptor_alpha	volunteers@@@2625	hospital volunteers@@@1958
+outline	publication components@@@1260	leaf
+dermatitis_,_occupational	accidents@@@6668	leaf
+disease_eradication	delivery of health care@@@7098	leaf
+hot_melt_extrusion_technology	methods@@@1542	leaf
+rural_health	hispanic americans@@@2936	mexican americans@@@6008
+transplantation_,_autologous	climate@@@5645	cold climate@@@5811
+forensic_pathology	comprehensive health care@@@4907	leaf
+united_states_department_of_agriculture	fingers@@@1000	thumb@@@2201
+noise_,_occupational	accidents@@@6668	leaf
+elasticity_imaging_techniques	methods@@@1542	leaf
+actin_cytoskeleton	climate@@@5645	desert climate@@@9592
+nursing_services	comprehensive health care@@@4907	nursing administration research@@@2681
+aortic_arch_syndromes	consumer organizations@@@446	community participation@@@3985
+protein_degradation_end_products	perioperative period@@@7076	preoperative period@@@9534
+social_behavior	conceptual entity@@@7879	leaf
+lateral_thalamic_nuclei	spinal nerves@@@1673	leaf
+dual_use_research	behavioral sciences@@@8763	achievement@@@3249
+workplace_violence	treatment outcome@@@9254	leaf
+observational_study	comprehensive health care@@@4907	leaf
+mentally_disabled_persons	natural science disciplines@@@5851	water microbiology@@@7542
+surrogate_mothers	locomotion@@@6262	walking speed@@@3112
+patient_transfer	north america@@@6676	california@@@839
+hydrogen_bonding	biological factors@@@4748	mediator complex subunit 1@@@3200
+pregnancy_proteins	health occupations@@@8954	nursing faculty practice@@@7530
+dental_plaque	north america@@@6676	washington@@@5185
+radiography_,_dental_,_digital	security measures@@@466	leaf
+pair_bond	nurse practitioners@@@2129	family nurse practitioners@@@2257
+tomography_,_optical	root	leaf
+tobacco_smoking	volunteers@@@2625	hospital volunteers@@@1958
+salt_stress	neurotoxicity syndromes@@@5670	leaf
+epidemiology	comprehensive health care@@@4907	leaf
+sentinel_surveillance	comprehensive health care@@@4907	leaf
+observer_variation	comprehensive health care@@@4907	leaf
+epileptic_syndromes	north america@@@6676	british columbia@@@6715
+connective_tissue_cells	policy@@@1869	public policy@@@4718
+biologically_active_substance	substance@@@1499	biologically active substance@@@6464
+nucleotides_,_cyclic	root	leaf
+ectopic_gene_expression	genetic function@@@6687	leaf
+tissue_engineering	transplantation@@@603	tissue transplantation@@@687
+meningitis_,_pneumococcal	infections@@@8650	leaf
+rrna_operon	time@@@1425	circadian rhythm@@@4729
+reproductive_rights	comprehensive health care@@@4907	leaf
+nuclear_reactors	sleep@@@34	sleep hygiene@@@4380
+spindle_apparatus	nurse practitioners@@@2129	pediatric nurse practitioners@@@1655
+duodenal_obstruction	nurse practitioners@@@2129	family nurse practitioners@@@2257
+kidneys_,_artificial	north america@@@6676	washington@@@5185
+behavioral_symptoms	behavioral symptoms@@@6641	mental fatigue@@@4965
+atp_binding_cassette_transporter_,_subfamily_b_,_member_2	health occupations@@@8954	nursing education research@@@8760
+parasitic_sensitivity_tests	toxicity tests@@@860	leaf
+pregnancy_complications_,_cardiovascular	pregnancy complications , cardiovascular@@@6702	leaf
+friends	motion@@@9434	acceleration@@@7759
+cell_membrane_structures	nurse practitioners@@@2129	family nurse practitioners@@@2257
+food_analysis	comprehensive health care@@@4907	leaf
+multiplex_polymerase_chain_reaction	cytogenetic analysis@@@1334	leaf
+s_phase	cytogenetic analysis@@@1334	leaf
+pathology_,_oral	comprehensive dental care@@@4330	leaf
+veterinary_drugs	logic@@@4787	fuzzy logic@@@7764
+genes_,_rev	biological factors@@@4748	protein isoforms@@@9380
+transition_elements	publication components@@@1260	leaf
+retinal_pigment_epithelium	eye proteins@@@6587	leaf
+genetic_fitness	adaptation , biological@@@7695	leaf
+growth_differentiation_factor_2	north america@@@6676	washington@@@5185
+selenium	postpartum period@@@2628	milk ejection@@@7297
+psychology_,_developmental	life expectancy@@@3799	leaf
+erythrocyte_aggregation	epidemiologic methods@@@4567	leaf
+truth_disclosure	north america@@@6676	california@@@839
+ovarian_follicle	pathological conditions , anatomical@@@8055	follicular cyst@@@3769
+facial_asymmetry	anatomical abnormality@@@3847	leaf
+biological_monitoring	diagnostic uses of chemicals@@@1694	leaf
+portugal	students@@@4289	students , dental@@@5614
+intraocular_lymphoma	health occupations@@@8954	office visits@@@8121
+education_,_nursing_,_associate	comprehensive health care@@@4907	leaf
+nigeria	students@@@4289	students , dental@@@5614
+complement_factor_d	nurse practitioners@@@2129	family nurse practitioners@@@2257
+laboratory_infection	infections@@@8650	laboratory infection@@@7006
+elimination_disorders	north america@@@6676	washington@@@5185
+williams_syndrome	mitochondrial diseases@@@3673	leaf
+tablets	substance@@@1499	leaf
+medical_savings_accounts	middle east@@@5875	turkey@@@8672
+recycling	fear@@@1125	panic@@@4332
+brain_neoplasms	consumer organizations@@@446	community participation@@@3985
+air_filters	particulate matter@@@9623	dust@@@5043
+attitude_to_health	comprehensive health care@@@4907	primary health care@@@8724
+polysaccharides_,_bacterial	polysaccharides@@@1255	fungal polysaccharides@@@709
+fatty_acids	root	leaf
+plaque_,_amyloid	accounting@@@5256	financial audit@@@5667
+reproductive_isolation	nurse practitioners@@@2129	family nurse practitioners@@@2257
+gene_expression_regulation	personality development@@@6056	leaf
+excitatory_amino_acid_transporter_4	health services@@@6963	directive counseling@@@2256
+optical_phenomena	disorders of environmental origin@@@8789	multiple chemical sensitivity@@@8012
+heart	information science@@@3831	rare books@@@3735
+radiation_effects	root	leaf
+cord_factors	motivation@@@8615	intention@@@3776
+systems_biology	information science@@@3831	workflow@@@2461
+cpg_islands	genome components@@@2687	leaf
+posture	perception@@@7702	leaf
+thoracic_wall	root	leaf
+speech_recognition_software	north america@@@6676	california@@@839
+type_b_personality	epidemiologic factors@@@1057	leaf
+hypertensive_retinopathy	library science@@@3551	library schools@@@9405
+atmospheric_pressure	security measures@@@466	leaf
+economics_,_pharmaceutical	comprehensive health care@@@4907	leaf
+medicare	comprehensive health care@@@4907	leaf
+purple_membrane	biological factors@@@4748	protein isoforms@@@9380
+base_pairing	cytogenetic analysis@@@1334	leaf
+protein_corona	biological factors@@@4748	antigens@@@9098
+silver_staining	clinical study@@@3909	observational study@@@6288
+wrist_injuries	hip injuries@@@1015	leaf
+raf_kinases	partnership practice@@@1723	partnership practice , dental@@@5189
+epidural_neoplasms	consumer organizations@@@446	community participation@@@3985
+fish_oils	motivation@@@8615	intention@@@3776
+postoperative_nausea_and_vomiting	neurologic manifestations@@@1792	leaf
+sensory_thresholds	attention@@@7212	leaf
+operative_time	comprehensive health care@@@4907	leaf
+bronchial_neoplasms	consumer organizations@@@446	community participation@@@3985
+core_binding_factor_alpha_1_subunit	nurse practitioners@@@2129	family nurse practitioners@@@2257
+apnea	heart failure@@@7939	leaf
+early_growth_response_protein_1	north america@@@6676	washington@@@5185
+blood_circulation	volunteers@@@2625	hospital volunteers@@@1958
+reproductive_physiological_phenomena	aged@@@4949	frail elderly@@@964
+serine_proteinase_inhibitors	biological factors@@@4748	plasminogen activator inhibitor 2@@@549
+serotonin_antagonists	partnership practice@@@1723	partnership practice , dental@@@5189
+yeast_,_dried	biological factors@@@4748	leaf
+tissue_extracts	north america@@@6676	washington@@@5185
+light_signal_transduction	signal transduction@@@3937	light signal transduction@@@7539
+fractional_precipitation	methods@@@1542	leaf
+creatine_kinase_,_mitochondrial_form	nurse practitioners@@@2129	family nurse practitioners@@@2257
+fatty_liver	health occupations@@@8954	nursing education research@@@8760
+parasitic_diseases_,_animal	journal article@@@3178	introductory journal article@@@9244
+database	north america@@@6676	wisconsin@@@8136
+parental_notification	delivery of health care@@@7098	leaf
+psychology_,_applied	aged@@@4949	frail elderly@@@964
+organic_anion_transport_protein_1	pigments , biological@@@279	leaf
+small_business	security measures@@@466	leaf
+myocardium	health occupations@@@8954	nursing education research@@@8760
+metabolic_side_effects_of_drugs_and_substances	pharmaceutical preparations@@@4326	drug combinations@@@7930
+pregnancy_,_ovarian	pregnancy complications , cardiovascular@@@6702	leaf
+adrenal_cortex	accessory nerve diseases@@@2641	leaf
+israel	professional practice@@@4033	nursing faculty practice@@@7530
+corneal_stroma	eye diseases@@@7112	leaf
+psychology_,_sports	middle east@@@5875	turkey@@@8672
+fuzzy_logic	north america@@@6676	washington@@@5185
+auditory_threshold	auditory perception@@@4460	leaf
+dental_etching	biomedical and dental materials@@@6233	leaf
+poverty_areas	socioeconomic factors@@@5041	leaf
+bones_of_upper_extremity	musculoskeletal diseases@@@6927	cervical rib syndrome@@@323
+renal_insufficiency	nurse practitioners@@@2129	family nurse practitioners@@@2257
+library_administration	root	leaf
+erythrocyte_count	organizations@@@8735	united states government agencies@@@3029
+acute_disease	professional practice@@@4033	office visits@@@8121
+peer_influence	aged@@@4949	frail elderly@@@964
+extremities	body regions@@@3182	leaf
+drug_combinations	comprehensive health care@@@4907	leaf
+mars	professional practice@@@4033	professional staff committees@@@2847
+aorta_,_abdominal	event@@@7790	information literacy@@@5195
+advanced_cardiac_life_support	north america@@@6676	california@@@839
+health_facility_administrators	fingers@@@1000	thumb@@@2201
+splenic_infarction	health care economics and organizations@@@7010	informed consent@@@3358
+adrenal_cortex_diseases	consumer organizations@@@446	community participation@@@3985
+jordan	volunteers@@@2625	hospital volunteers@@@1958
+anemia_,_refractory	middle east@@@5875	israel@@@7744
+schools_,_pharmacy	rain@@@8041	acid rain@@@1233
+abdomen_,_acute	geographic locations@@@6193	taiwan@@@9558
+carcinoma_,_papillary	neoplasms , bone tissue@@@7081	leaf
+united_states_office_of_national_drug_control_policy	crime@@@6010	drug trafficking@@@7794
+tool_use_behavior	intention to treat analysis@@@5386	leaf
+capillary_leak_syndrome	organization@@@2434	professional society@@@4334
+iran	students@@@4289	students , dental@@@5614
+maze_procedure	cardiovascular surgical procedures@@@8090	leaf
+spores_,_fungal	viruses@@@8673	fungal viruses@@@3355
+embryo_disposition	transplantation immunology@@@6374	leaf
+tuberculosis_,_pulmonary	organization@@@2434	professional society@@@4334
+group_structure	conceptual entity@@@7879	group@@@1823
+insurance_coverage	comprehensive health care@@@4907	leaf
+oral_ulcer	periodontal diseases@@@5238	leaf
+colony_count_,_microbial	epidemiologic methods@@@4567	leaf
+editorial	comprehensive health care@@@4907	leaf
+social_values	north america@@@6676	washington@@@5185
+olfactory_perception	north america@@@6676	washington@@@5185
+brain_injuries	hispanic americans@@@2936	mexican americans@@@6008
+dietary_fiber	volunteers@@@2625	hospital volunteers@@@1958
+aids_dementia_complex	neurologic manifestations@@@1792	leaf
+biological_transport_,_active	metabolic networks and pathways@@@6445	leaf
+college_admission_test	cerebral arteries@@@8278	anterior cerebral artery@@@3897
+polar_bodies	epidemiologic methods@@@4567	leaf
+rats_,_inbred_shr	professional practice@@@4033	nursing faculty practice@@@7530
+diet_,_healthy	middle east@@@5875	israel@@@7744
+pancreatic_fistula	organizations@@@8735	united states government agencies@@@3029
+cerebral_angiography	diagnostic techniques , cardiovascular@@@8680	leaf
+form_perception	perception@@@7702	leaf
+orthopedic_surgeons	logic@@@4787	fuzzy logic@@@7764
+dendrites	professional practice@@@4033	nursing faculty practice@@@7530
+physician_payment_review_commission	sense organs@@@859	retinal bipolar cells@@@1768
+receptor_,_angiotensin_,_type_1	organizations@@@8735	american hospital association@@@5029
+receptors_,_artificial	north america@@@6676	british columbia@@@6715
+phagocytosis	leukocytes@@@8748	leaf
+arabia	professional practice@@@4033	nursing faculty practice@@@7530
+virus_shedding	infections@@@8650	leaf
+reproductive_health	north america@@@6676	washington@@@5185
+peripheral_nerves	health occupations@@@8954	nursing education research@@@8760
+cerebrospinal_fluid_pressure	organizations@@@8735	united states government agencies@@@3029
+vaccines_,_contraceptive	postpartum period@@@2628	milk ejection@@@7297
+fibroblast_growth_factors	nurse practitioners@@@2129	family nurse practitioners@@@2257
+manufactured_materials	thumb@@@2201	leaf
+genetic_testing	genetic predisposition to disease@@@5337	leaf
+milk_,_human	volunteers@@@2625	hospital volunteers@@@1958
+electronic_waste	root	leaf
+posterior_thalamic_nuclei	brain@@@1941	leaf
+respiratory_aspiration_of_gastric_contents	organization@@@2434	professional society@@@4334
+receptors_,_chemokine	accounting@@@5256	financial audit@@@5667
+cholinergic_antagonists	schools@@@1101	library schools@@@9405
+prefrontal_cortex	sensorimotor cortex@@@8002	auditory cortex@@@1070
+focal_epithelial_hyperplasia	periodontal diseases@@@5238	leaf
+skull_base	root	leaf
+iron_carbonyl_compounds	motivation@@@8615	intention@@@3776
+insurance_,_disability	comprehensive health care@@@4907	leaf
+dental_prosthesis_repair	motivation@@@8615	intention@@@3776
+chronic_disease	comprehensive health care@@@4907	leaf
+intelligence	middle east@@@5875	jordan@@@8033
+health_plan_implementation	middle east@@@5875	jordan@@@8033
+peptide_termination_factors	biological factors@@@4748	protein phosphatase 2@@@3143
+organizations	hot temperature@@@7649	extreme heat@@@3095
+leukocytes	leukocytes@@@8748	monocytes@@@393
+reverse_transcriptase_polymerase_chain_reaction	cytogenetic analysis@@@1334	leaf
+outpatient_clinics_,_hospital	comprehensive health care@@@4907	patient care planning@@@1118
+mycobacterium_tuberculosis	immune complex diseases@@@6513	leaf
+plasmids	perioperative period@@@7076	preoperative period@@@9534
+bone_neoplasms	consumer organizations@@@446	community participation@@@3985
+colitis	digestive system diseases@@@3700	bile reflux@@@4277
+computer_graphics	information theory@@@9224	leaf
+alpha_rhythm	neurologic examination@@@2280	leaf
+taste_perception	cognition@@@7793	leaf
+lymphatic_system	north america@@@6676	british columbia@@@6715
+color	root	leaf
+in_situ_hybridization_,_fluorescence	nurse practitioners@@@2129	family nurse practitioners@@@2257
+liver_diseases	north america@@@6676	washington@@@5185
+neoplastic_process	nurse practitioners@@@2129	family nurse practitioners@@@2257
+accidents_,_home	logic@@@4787	fuzzy logic@@@7764
+health_facility_environment	hispanic americans@@@2936	mexican americans@@@6008
+neoplasm_recurrence_,_local	comprehensive health care@@@4907	leaf
+mirror_neurons	cognition@@@7793	leaf
+insect_viruses	perioperative period@@@7076	preoperative period@@@9534
+pain_perception	north america@@@6676	washington@@@5185
+accessory_nerve_injuries	accessory nerve diseases@@@2641	accessory nerve injuries@@@8963
+heat_exhaustion	neurologic manifestations@@@1792	leaf
+antiretroviral_therapy_,_highly_active	logic@@@4787	fuzzy logic@@@7764
+nuclear_proteins	climate@@@5645	desert climate@@@9592
+fees_,_pharmaceutical	illinois@@@8857	chicago@@@2447
+pulse_wave_analysis	comprehensive health care@@@4907	leaf
+vaginal_fistula	climate@@@5645	cold climate@@@5811
+integrated_advanced_information_management_systems	comprehensive health care@@@4907	leaf
+adaptation_,_psychological	comprehensive health care@@@4907	leaf
+cerebellar_ataxia	neurologic manifestations@@@1792	leaf
+philosophy_,_medical	philosophy@@@6311	leaf
+state_medicine	north america@@@6676	california@@@839
+dental_caries_activity_tests	comprehensive dental care@@@4330	leaf
+measles_vaccine	models , immunological@@@2300	leaf
+enhanced_recovery_after_surgery	hispanic americans@@@2936	mexican americans@@@6008
+maternal_welfare	far east@@@8223	tokyo@@@7571
+obstetric_labor_,_premature	health occupations@@@8954	statistics as topic@@@1783
+protective_factors	comprehensive health care@@@4907	leaf
+nuclear_export_signals	nurse practitioners@@@2129	family nurse practitioners@@@2257
+motor_vehicles	transportation@@@50	leaf
+treatment_outcome	hispanic americans@@@2936	mexican americans@@@6008
+argentina	students@@@4289	students , dental@@@5614
+pediatrics	sequence analysis@@@1117	sequence analysis , dna@@@5321
+forensic_genetics	forensic sciences@@@3987	forensic genetics@@@9275
+activities_of_daily_living	life expectancy@@@3799	leaf
+blood_protein_disorders	consumer organizations@@@446	community participation@@@3985
+cerebellar_neoplasms	consumer organizations@@@446	community participation@@@3985
+pulmonary_surfactants	cardiovascular diseases@@@7480	leaf
+idea_or_concept	conceptual entity@@@7879	leaf
+lysine	health occupations@@@8954	managed care programs@@@6286
+tonic_pupil	neurologic examination@@@2280	leaf
+resistance_training	biomechanical phenomena@@@1839	leaf
+adrenal_cortex_function_tests	north america@@@6676	california@@@839
+adaptor_protein_complex_1	nurse practitioners@@@2129	pediatric nurse practitioners@@@1655
+pain_management	north america@@@6676	california@@@839
+laboratory_procedure	parents@@@9235	fathers@@@3817
+platelet_membrane_glycoprotein_iib	proteins@@@1066	protein phosphatase 2@@@3143
+retrospective_studies	epidemiologic methods@@@4567	clinical trials as topic@@@5049
+pancreas_,_artificial	diagnostic techniques , cardiovascular@@@8680	leaf
+paper	methods@@@1542	leaf
+femur_head	root	leaf
+hair_cells_,_auditory_,_outer	neurons@@@6171	photoreceptor cells@@@2053
+wnt_proteins	north america@@@6676	british columbia@@@6715
+tinnitus	epidemiologic methods@@@4567	leaf
+saliva	bodily secretions@@@2990	mucus@@@1223
+bone_density_conservation_agents	north america@@@6676	washington@@@5185
+uterine_rupture	accidents@@@6668	leaf
+transition_to_adult_care	logic@@@4787	fuzzy logic@@@7764
+animal_proteins_,_dietary	north america@@@6676	washington@@@5185
+saccharomyces_cerevisiae_proteins	health occupations@@@8954	nursing records@@@4457
+soil_microbiology	professional practice@@@4033	office visits@@@8121
+prenatal_care	comprehensive health care@@@4907	leaf
+indole_alkaloids	alkaloids@@@2609	leaf
+community_psychiatry	comprehensive health care@@@4907	leaf
+salivary_ducts	solutions@@@7428	hemodialysis solutions@@@2185
+adoption	comprehensive health care@@@4907	leaf
+insurance_,_psychiatric	comprehensive health care@@@4907	leaf
+burns_,_electric	burns@@@499	leaf
+mutation	perioperative period@@@7076	preoperative period@@@9534
+sugar_acids	accounting@@@5256	financial audit@@@5667
+infection_control_practitioners	logic@@@4787	fuzzy logic@@@7764
+pregnancy_,_prolonged	life expectancy@@@3799	leaf
+blindness	eye diseases@@@7112	leaf

@@ -1,0 +1,50 @@
+Which of the candidates are child concepts (subtypes) of the given parent concept (supertype) in a taxonomy?
+The context shows existing parents and children concepts and whether the children are leaves.
+In your reasoning, state how the parent concept is a supertype of the selected child concepts.
+Do not add additional comments or information, only return the output in the described format.
+
+---
+
+Input description.
+
+Context: List of existing parent-child (supertype-subtype) relations in the taxonomy.
+
+Candidates: Candidate children of the concept separated by commas to select from.
+
+Parent: Parent concept that you need to place in a taxonomy.
+
+Description: Description of the child concept in relation to the taxonomy.
+
+Reasoning: Let's think step by step in order to
+
+---
+
+Follow the following format.
+
+Reasoning: Let's think step by step in order to ${produce the children}. We ...
+
+Leaf: Whether the parent concept should be added as a leaf (has no children). Answer with Yes or No.
+
+Children: Comma separated list of candidates that are children of the parent concept in a taxonomy. A child concept must be a type of the parent concept. Separate with commas.
+
+---
+
+Context:
+```sweet pickle (Non-Leaf), bread and butter pickle (Leaf)
+quick bread (Non-Leaf), buttermilk biscuit (Leaf)
+rye bread (Non-Leaf), swedish rye bread (Leaf)
+starches (Non-Leaf), raisin bread (Leaf)
+starches (Non-Leaf), loaf of bread (Non-Leaf)
+starches (Non-Leaf), gluten bread (Leaf)
+loaf of bread (Non-Leaf), french loaf (Leaf)
+starches (Non-Leaf), cracked wheat bread (Leaf)
+quick bread (Non-Leaf), baking powder biscuit (Non-Leaf)
+starches (Non-Leaf), tea bread (Leaf)```
+
+Candidates: french loaf, meat loaf
+
+Parent: zwieback
+
+Description: Zwieback is a type of crispy, sweetened bread that is baked twice, making it dry and crunchy. It is often given to infants as a teething food.
+
+Reasoning: Let's think step by step in order to

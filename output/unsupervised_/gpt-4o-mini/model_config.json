@@ -1,0 +1,1 @@
+{"n_train_samples": 30, "n_val_samples": 30, "k_relations": 5, "max_backtracks": 3, "unsupervised": true, "model": "gpt-4o-mini", "quantize": 0, "method": "none", "use_taxonomy_desc": true, "reasoning_model": false, "unsupervised_children": false}
